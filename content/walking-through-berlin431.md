@@ -1,7 +1,7 @@
 ---
 title: "Walking through Berlin"
 date: 2012-03-06T18:27:07+01:00
-tags: Relocating to Berlin,Berlin,tourist,
+tags: [Relocating to Berlin,Berlin,tourist,]
 ---
 
 # Walking through Berlin

@@ -1,7 +1,7 @@
 ---
 title: "ApacheConNA: On delegation"
 date: 2013-05-10T20:19:51+02:00
-tags: ApacheConNA,ApacheCon,Apache Con,community,
+tags: [ApacheConNA,ApacheCon,Apache Con,community,]
 ---
 
 # ApacheConNA: On delegation

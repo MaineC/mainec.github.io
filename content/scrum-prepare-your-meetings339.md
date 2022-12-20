@@ -1,7 +1,7 @@
 ---
 title: "Scrum - prepare your meetings"
 date: 2010-06-27T15:45:52+02:00
-tags: Scrum,
+tags: [Scrum,]
 ---
 
 # Scrum - prepare your meetings

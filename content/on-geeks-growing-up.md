@@ -1,7 +1,7 @@
 ---
 title: "On geeks growing up"
 date: 2013-12-12T05:49:53+01:00
-tags: geeks, kids, conferences
+tags: [geeks, kids, conferences]
 ---
 
 # On geeks growing up

@@ -1,7 +1,7 @@
 ---
 title: "Reminder: Apache Hadoop Get Together Berlin Today"
 date: 2010-10-07T09:52:07+02:00
-tags: Mahout,Berlin,Hadoop,Get Together,Software Foundation,
+tags: [Mahout,Berlin,Hadoop,Get Together,Software Foundation,]
 ---
 
 # Reminder: Apache Hadoop Get Together Berlin Today

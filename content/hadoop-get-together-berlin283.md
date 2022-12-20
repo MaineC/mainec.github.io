@@ -1,7 +1,7 @@
 ---
 title: "March 2009 Hadoop Get Together Berlin"
 date: 2009-03-07T19:50:34+01:00
-tags: Hadoop,Get Together,Software Foundation,
+tags: [Hadoop,Get Together,Software Foundation,]
 ---
 
 # March 2009 Hadoop Get Together Berlin

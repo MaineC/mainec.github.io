@@ -1,7 +1,7 @@
 ---
 title: "Learning to Rank Challenge"
 date: 2010-03-09T19:49:53+01:00
-tags: Mahout,Science,Learning To Rank,ICML,
+tags: [Mahout,Science,Learning To Rank,ICML,]
 ---
 
 # Learning to Rank Challenge

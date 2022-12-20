@@ -1,7 +1,7 @@
 ---
 title: "Presentation shortening"
 date: 2012-05-15T20:23:03+02:00
-tags: Slides,talks,buzzwords,Berlin Buzzwords,shortening,
+tags: [Slides,talks,buzzwords,Berlin Buzzwords,shortening,]
 ---
 
 # Presentation shortening

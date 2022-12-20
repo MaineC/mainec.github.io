@@ -1,8 +1,8 @@
 ---
 title: "Note to self - slides for staying sane when maintaining a popular open source project"
 date: 2017-05-26T09:00:04+02:00
-tags: Opsen Source, project management
-categories: Open Source
+tags: [Opsen Source, project management]
+categories: [Open Source]
 ---
 
 # Note to self - slides for staying sane when maintaining a popular open source project

@@ -1,7 +1,7 @@
 ---
 title: "Using Scrum for software development"
 date: 2010-06-25T15:31:11+02:00
-tags: Scrum,
+tags: [Scrum,]
 ---
 
 # Using Scrum for software development

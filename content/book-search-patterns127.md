@@ -1,7 +1,7 @@
 ---
 title: "Book: Search Patterns"
 date: 2012-07-28T20:41:31+02:00
-tags: search,Science,review,patterns,book,Design,oreilly,
+tags: [search,Science,review,patterns,book,Design,oreilly,]
 ---
 
 # Book: Search Patterns

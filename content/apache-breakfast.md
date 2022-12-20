@@ -1,8 +1,8 @@
 ---
 title: "Apache Breakfast"
 date: 2018-04-17T09:39:24+02:00
-tags: Apache
-categories: FOSS, Apache
+tags: [Apache]
+categories: [FOSS, Apache]
 ---
 
 # Apache Breakfast

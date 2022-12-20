@@ -1,7 +1,7 @@
 ---
 title: "Apache Dinner DUS"
 date: 2010-08-17T19:10:10+02:00
-tags: Free Software,FSFE,General,Dinner,Freetime,DUS,Software Foundation,
+tags: [Free Software,FSFE,General,Dinner,Freetime,DUS,Software Foundation,]
 ---
 
 # Apache Dinner DUS

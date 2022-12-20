@@ -1,7 +1,7 @@
 ---
 title: "Night Trains"
 date: 2011-10-21T05:40:21+02:00
-tags: amsterdam,teddy,gotocon,General,
+tags: [amsterdam,teddy,gotocon,General,]
 ---
 
 # Night Trains

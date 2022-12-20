@@ -1,7 +1,7 @@
 ---
 title: "Google Summer of Code starting"
 date: 2010-03-10T19:10:44+01:00
-tags: Mahout,GSoC,Hacking,Software Foundation,
+tags: [Mahout,GSoC,Hacking,Software Foundation,]
 ---
 
 # Google Summer of Code starting

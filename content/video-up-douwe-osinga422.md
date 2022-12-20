@@ -1,7 +1,7 @@
 ---
 title: "Video up: Douwe Osinga"
 date: 2011-12-09T22:01:29+01:00
-tags: google,Video,Hadoop,Get Together,
+tags: [google,Video,Hadoop,Get Together,]
 ---
 
 # Video up: Douwe Osinga

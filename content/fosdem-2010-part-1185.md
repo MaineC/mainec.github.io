@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM 2010 - part 1"
 date: 2010-02-08T21:00:34+01:00
-tags: Fosdem,Brussels,Free Software,Freetime,General,
+tags: [Fosdem,Brussels,Free Software,Freetime,General,]
 ---
 
 # FOSDEM 2010 - part 1

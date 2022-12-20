@@ -1,7 +1,7 @@
 ---
 title: "Video: Max Heimel on sequence tagging w/ Apache Mahout"
 date: 2010-10-26T19:58:52+02:00
-tags: Mahout,HMM,Video,Hadoop,Get Together,
+tags: [Mahout,HMM,Video,Hadoop,Get Together,]
 ---
 
 # Video: Max Heimel on sequence tagging w/ Apache Mahout

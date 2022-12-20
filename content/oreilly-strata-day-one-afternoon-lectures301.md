@@ -1,7 +1,7 @@
 ---
 title: "O'Reilly Strata - day one afternoon lectures"
 date: 2011-02-13T22:18:04+01:00
-tags: SFO,strataconf,Data Analytics,General,
+tags: [SFO,strataconf,Data Analytics,General,]
 ---
 
 # O'Reilly Strata - day one afternoon lectures

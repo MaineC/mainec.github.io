@@ -1,7 +1,7 @@
 ---
 title: "See you in Vancouver at Apache Con NA 2011"
 date: 2011-10-24T13:49:11+02:00
-tags: Mahout,Apache Con,ApacheConNA,Free Software,Vancouver,
+tags: [Mahout,Apache Con,ApacheConNA,Free Software,Vancouver,]
 ---
 
 # See you in Vancouver at Apache Con NA 2011

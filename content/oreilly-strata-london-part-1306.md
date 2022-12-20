@@ -1,7 +1,7 @@
 ---
 title: "O'Reilly Strata London - part 1"
 date: 2012-10-25T20:13:39+02:00
-tags: strataeu,General,
+tags: [strataeu,General,]
 ---
 
 # O'Reilly Strata London - part 1

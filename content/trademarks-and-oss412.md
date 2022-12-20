@@ -1,7 +1,7 @@
 ---
 title: "Trademarks and OSS - FOSDEM 02"
 date: 2013-02-14T20:38:43+01:00
-tags: oss,Fosdem,Event,trademarks,legal,
+tags: [oss,Fosdem,Event,trademarks,legal,]
 ---
 
 # Trademarks and OSS - FOSDEM 02

@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop - Trainings by Cloudera in Berlin"
 date: 2010-12-22T23:53:22+01:00
-tags: Apache Hadoop,Cloudera,Trainings,Hadoop,Get Together,
+tags: [Apache Hadoop,Cloudera,Trainings,Hadoop,Get Together,]
 ---
 
 # Apache Hadoop - Trainings by Cloudera in Berlin

@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM visitor seems to like my baby"
 date: 2010-02-09T08:19:28+01:00
-tags: Fosdem,Freetime,Twingo,
+tags: [Fosdem,Freetime,Twingo,]
 ---
 
 # FOSDEM visitor seems to like my baby

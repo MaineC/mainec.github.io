@@ -1,7 +1,7 @@
 ---
 title: "Note to self - link to 3D maps"
 date: 2012-09-24T08:39:15+02:00
-tags: 3dmaps,webgl,nokia,Hacking,Note to Self,3d,
+tags: [3dmaps,webgl,nokia,Hacking,Note to Self,3d,]
 ---
 
 # Note to self - link to 3D maps

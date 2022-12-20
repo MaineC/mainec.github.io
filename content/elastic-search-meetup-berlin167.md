@@ -1,7 +1,7 @@
 ---
 title: "Elastic Search meetup Berlin"
 date: 2012-11-28T00:39:01+01:00
-tags: Lucene,elasticsearch,Get Together,
+tags: [Lucene,elasticsearch,Get Together,]
 ---
 
 # Elastic Search meetup Berlin

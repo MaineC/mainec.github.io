@@ -1,7 +1,7 @@
 ---
 title: "Video: Stefan Hübner on Cascalog"
 date: 2012-08-28T20:49:39+02:00
-tags: GetTogether,Cascalog,Video,Hadoop,Get Together,
+tags: [GetTogether,Cascalog,Video,Hadoop,Get Together,]
 ---
 
 # Video: Stefan Hübner on Cascalog

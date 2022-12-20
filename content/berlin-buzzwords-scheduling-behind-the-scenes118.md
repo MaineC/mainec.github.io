@@ -1,7 +1,7 @@
 ---
 title: "Berlin Buzzwords scheduling - behind the scenes"
 date: 2012-04-17T21:23:39+02:00
-tags: Berlin Buzzwords,
+tags: [Berlin Buzzwords,]
 ---
 
 # Berlin Buzzwords scheduling - behind the scenes

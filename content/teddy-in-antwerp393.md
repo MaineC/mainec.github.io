@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Antwerp"
 date: 2010-12-12T21:30:56+01:00
-tags: antwerp,teddy,Freetime,Devoxx,General,
+tags: [antwerp,teddy,Freetime,Devoxx,General,]
 ---
 
 # Teddy in Antwerp

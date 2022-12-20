@@ -1,7 +1,7 @@
 ---
 title: "Photos the traditional way"
 date: 2009-12-13T21:05:49+01:00
-tags: photos,Freetime,praktica,
+tags: [photos,Freetime,praktica,]
 ---
 
 # Photos the traditional way

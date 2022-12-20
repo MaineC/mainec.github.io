@@ -1,7 +1,7 @@
 ---
 title: "Scrumtisch November"
 date: 2010-11-03T04:31:04+01:00
-tags: Scrum,
+tags: [Scrum,]
 ---
 
 # Scrumtisch November

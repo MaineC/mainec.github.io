@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Sweden"
 date: 2012-07-25T19:22:24+02:00
-tags: travelling teddy,sweden,teddy,
+tags: [travelling teddy,sweden,teddy,]
 ---
 
 # Teddy in Sweden

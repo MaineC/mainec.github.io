@@ -1,7 +1,7 @@
 ---
 title: "On making Libre Office suck less – a major refactoring effort - FOSDEM 08"
 date: 2013-02-19T20:47:10+01:00
-tags: libre office,Fosdem,Event,
+tags: [libre office,Fosdem,Event,]
 ---
 
 # On making Libre Office suck less – a major refactoring effort - FOSDEM 08

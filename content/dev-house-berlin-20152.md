@@ -1,7 +1,7 @@
 ---
 title: "Dev House Berlin 2.0"
 date: 2009-10-04T20:04:55+02:00
-tags: Camp,Hacking,CouchDB,Hadoop,dhb,
+tags: [Camp,Hacking,CouchDB,Hadoop,dhb,]
 ---
 
 # Dev House Berlin 2.0

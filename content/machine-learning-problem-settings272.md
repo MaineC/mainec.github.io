@@ -1,7 +1,7 @@
 ---
 title: "Machine learning problem settings"
 date: 2011-08-06T07:10:15+02:00
-tags: Apache Mahout,Science,Theory,Machine Learning,
+tags: [Apache Mahout,Science,Theory,Machine Learning,]
 ---
 
 # Machine learning problem settings

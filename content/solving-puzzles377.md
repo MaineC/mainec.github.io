@@ -1,7 +1,7 @@
 ---
 title: "Solving puzzles"
 date: 2010-05-20T16:44:10+02:00
-tags: puzzles,Freetime,Berlin Buzzwords,schedule,
+tags: [puzzles,Freetime,Berlin Buzzwords,schedule,]
 ---
 
 # Solving puzzles

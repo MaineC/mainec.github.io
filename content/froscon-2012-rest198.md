@@ -1,7 +1,7 @@
 ---
 title: "FrOSCon 2012 - REST"
 date: 2012-08-29T19:33:34+02:00
-tags: Hacking,FrOSCon,rest,
+tags: [Hacking,FrOSCon,rest,]
 ---
 
 # FrOSCon 2012 - REST

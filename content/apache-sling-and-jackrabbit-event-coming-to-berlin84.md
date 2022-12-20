@@ -1,7 +1,7 @@
 ---
 title: "Apache Sling and Jackrabbit event coming to Berlin"
 date: 2012-07-12T20:59:28+02:00
-tags: NOSQL,sling,Berlin,jackrabbit,Apache,Event,
+tags: [NOSQL,sling,Berlin,jackrabbit,Apache,Event,]
 ---
 
 # Apache Sling and Jackrabbit event coming to Berlin

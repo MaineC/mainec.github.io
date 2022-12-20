@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Amsterdam"
 date: 2011-02-20T20:16:27+01:00
-tags: amsterdam,Freetime,teddy,
+tags: [amsterdam,Freetime,teddy,]
 ---
 
 # Teddy in Amsterdam

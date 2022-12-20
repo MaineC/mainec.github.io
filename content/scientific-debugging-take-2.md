@@ -1,6 +1,7 @@
 ---
 title: "Scientific debugging - take 2"
 date: 2014-01-28T20:13:57+01:00
+tags: []
 ---
 
 # Scientific debugging - take 2

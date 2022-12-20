@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout Meetup in San Jose"
 date: 2010-12-08T07:48:49+01:00
-tags: Mahout,MapR,Bay Area,
+tags: [Mahout,MapR,Bay Area,]
 ---
 
 # Apache Mahout Meetup in San Jose

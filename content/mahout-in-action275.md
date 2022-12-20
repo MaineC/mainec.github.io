@@ -1,7 +1,7 @@
 ---
 title: "Mahout in Action"
 date: 2010-01-11T20:22:32+01:00
-tags: Mahout,
+tags: [Mahout,]
 ---
 
 # Mahout in Action

@@ -1,8 +1,8 @@
 ---
 title: "Open development and inner source for fun and profit"
 date: 2017-05-26T09:17:16+02:00
-tags: Open Source, inner source, open development, project management
-categories: project management
+tags: [Open Source, inner source, open development, project management]
+categories: [project management]
 ---
 
 # Open development and inner source for fun and profit

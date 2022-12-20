@@ -1,7 +1,7 @@
 ---
 title: "ApacheCon EU - part 02"
 date: 2012-11-11T20:26:25+01:00
-tags: ApacheCon,Apache Con,Hackathon,apacheconeu,
+tags: [ApacheCon,Apache Con,Hackathon,apacheconeu,]
 ---
 
 # ApacheCon EU - part 02

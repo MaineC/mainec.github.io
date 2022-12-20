@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop at FOSDEM 2010"
 date: 2009-12-11T09:19:33+01:00
-tags: Fosdem,General,Free Software,Hadoop,Software Foundation,
+tags: [Fosdem,General,Free Software,Hadoop,Software Foundation,]
 ---
 
 # Apache Hadoop at FOSDEM 2010

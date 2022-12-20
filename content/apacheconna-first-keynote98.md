@@ -1,7 +1,7 @@
 ---
 title: "ApacheConNA: First keynote"
 date: 2013-05-09T20:13:51+02:00
-tags: ApacheConNA,ApacheCon,Apache Con,community,
+tags: [ApacheConNA,ApacheCon,Apache Con,community,]
 ---
 
 # ApacheConNA: First keynote

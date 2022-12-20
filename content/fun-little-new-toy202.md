@@ -1,7 +1,7 @@
 ---
 title: "Fun little new toy"
 date: 2012-01-03T23:48:21+01:00
-tags: hardware,Hacking,
+tags: [hardware,Hacking,]
 ---
 
 # Fun little new toy

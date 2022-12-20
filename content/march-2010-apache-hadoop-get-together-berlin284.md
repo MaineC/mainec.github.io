@@ -1,7 +1,7 @@
 ---
 title: "March 2010 Apache Hadoop Get Together Berlin"
 date: 2010-01-29T08:40:52+01:00
-tags: Berlin,Solr,Hadoop,Get Together,Spatial,
+tags: [Berlin,Solr,Hadoop,Get Together,Spatial,]
 ---
 
 # March 2010 Apache Hadoop Get Together Berlin

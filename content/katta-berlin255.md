@@ -1,7 +1,7 @@
 ---
 title: "katta @ Berlin"
 date: 2009-10-10T20:46:35+02:00
-tags: tierpark,katta,Freetime,
+tags: [tierpark,katta,Freetime,]
 ---
 
 # katta @ Berlin

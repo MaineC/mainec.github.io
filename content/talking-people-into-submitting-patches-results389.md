@@ -1,7 +1,7 @@
 ---
 title: "Talking people into submitting patches - results"
 date: 2012-01-01T18:42:16+01:00
-tags: Apache,Open Source,contributing,Apache Con,
+tags: [Apache,Open Source,contributing,Apache Con,]
 ---
 
 # Talking people into submitting patches - results

@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2009-03-04T08:55:20+01:00
-tags: About,Blogroll,Uncategorized,
+tags: [About,Blogroll,Uncategorized,]
 ---
 
 # About

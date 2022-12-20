@@ -1,7 +1,7 @@
 ---
 title: "Berlin Tech Meetups"
 date: 2011-12-09T22:32:57+01:00
-tags: Relocating to Berlin,Berlin,Meetups,General,
+tags: [Relocating to Berlin,Berlin,Meetups,General,]
 ---
 
 # Berlin Tech Meetups

@@ -1,7 +1,7 @@
 ---
 title: "Moving to a new domain"
 date: 2012-09-12T12:30:46+02:00
-tags: kernel,travelling teddy,dresden,wedding,FSFE,General,Linux,Apache,
+tags: [kernel,travelling teddy,dresden,wedding,FSFE,General,Linux,Apache,]
 ---
 
 # Moving to a new domain

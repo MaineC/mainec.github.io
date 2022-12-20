@@ -1,7 +1,7 @@
 ---
 title: "Definition of a Blogger"
 date: 2010-03-12T19:17:34+01:00
-tags: self-irony,bloggers,irony,Freetime,
+tags: [self-irony,bloggers,irony,Freetime,]
 ---
 
 # Definition of a Blogger

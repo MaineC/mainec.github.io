@@ -1,7 +1,7 @@
 ---
 title: "JAX: Tales from production"
 date: 2013-05-23T20:38:57+02:00
-tags: logging,Java,Event,JAX,
+tags: [logging,Java,Event,JAX,]
 ---
 
 # JAX: Tales from production

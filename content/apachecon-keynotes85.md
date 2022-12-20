@@ -1,7 +1,7 @@
 ---
 title: "ApacheCon - Keynotes"
 date: 2010-11-25T23:20:10+01:00
-tags: Keynotes,ApacheCon,Apache Con,NASA,
+tags: [Keynotes,ApacheCon,Apache Con,NASA,]
 ---
 
 # ApacheCon - Keynotes

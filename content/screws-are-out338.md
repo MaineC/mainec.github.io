@@ -1,7 +1,7 @@
 ---
 title: "Screws are out"
 date: 2009-12-26T16:45:27+01:00
-tags: screwed,Freetime,
+tags: [screwed,Freetime,]
 ---
 
 # Screws are out

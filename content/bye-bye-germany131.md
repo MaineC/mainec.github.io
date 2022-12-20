@@ -1,7 +1,7 @@
 ---
 title: "Bye, bye Germany"
 date: 2010-06-20T15:27:46+02:00
-tags: Freetime,vacation,
+tags: [Freetime,vacation,]
 ---
 
 # Bye, bye Germany

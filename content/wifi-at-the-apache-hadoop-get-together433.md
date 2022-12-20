@@ -1,7 +1,7 @@
 ---
 title: "WiFi at the Apache Hadoop Get Together"
 date: 2011-01-18T20:40:39+01:00
-tags: Lucene,Hadoop,Get Together,zanox,
+tags: [Lucene,Hadoop,Get Together,zanox,]
 ---
 
 # WiFi at the Apache Hadoop Get Together

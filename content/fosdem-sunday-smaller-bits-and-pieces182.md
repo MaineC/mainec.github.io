@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM - Sunday - smaller bits and pieces"
 date: 2011-02-18T20:17:57+01:00
-tags: Brussels,Fosdem,General,
+tags: [Brussels,Fosdem,General,]
 ---
 
 # FOSDEM - Sunday - smaller bits and pieces

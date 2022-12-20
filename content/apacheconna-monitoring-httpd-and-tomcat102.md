@@ -1,7 +1,7 @@
 ---
 title: "ApacheConNA: Monitoring httpd and Tomcat"
 date: 2013-05-13T20:23:23+02:00
-tags: Httpd,ApacheConNA,ApacheCon,Apache Con,tomcat,
+tags: [Httpd,ApacheConNA,ApacheCon,Apache Con,tomcat,]
 ---
 
 # ApacheConNA: Monitoring httpd and Tomcat

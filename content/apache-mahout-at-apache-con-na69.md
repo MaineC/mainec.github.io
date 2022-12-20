@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout at Apache Con NA"
 date: 2010-10-15T20:39:30+02:00
-tags: Lucene,NOSQL,Hadoop,Mahout,ApacheConNA,Apache Con,Software Foundation,
+tags: [Lucene,NOSQL,Hadoop,Mahout,ApacheConNA,Apache Con,Software Foundation,]
 ---
 
 # Apache Mahout at Apache Con NA

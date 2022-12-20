@@ -1,7 +1,7 @@
 ---
 title: "JAX: Logging best practices"
 date: 2013-05-22T20:37:59+02:00
-tags: logging,Java,Event,JAX,
+tags: [logging,Java,Event,JAX,]
 ---
 
 # JAX: Logging best practices

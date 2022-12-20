@@ -1,8 +1,8 @@
 ---
 title: "FrOSCon 2018"
 date: 2018-08-29T18:34:49+02:00
-tags: FrOSCon, conferences, Open Source
-categories: Hacking people
+tags: [FrOSCon, conferences, Open Source]
+categories: [Hacking people]
 ---
 
 # FrOSCon 2018

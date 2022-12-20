@@ -1,7 +1,7 @@
 ---
 title: "Preliminary schedule online for ignite Berlin"
 date: 2010-02-23T19:13:37+01:00
-tags: Mahout,ignite,Berlin,Freetime,General,
+tags: [Mahout,ignite,Berlin,Freetime,General,]
 ---
 
 # Preliminary schedule online for ignite Berlin

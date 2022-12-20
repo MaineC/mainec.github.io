@@ -1,7 +1,7 @@
 ---
 title: "First steps with git"
 date: 2010-10-30T19:47:00+02:00
-tags: svn,Hacking,git,version control,Note to Self,
+tags: [svn,Hacking,git,version control,Note to Self,]
 ---
 
 # First steps with git

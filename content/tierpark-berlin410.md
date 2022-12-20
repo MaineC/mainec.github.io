@@ -1,7 +1,7 @@
 ---
 title: "Tierpark Berlin"
 date: 2010-05-19T19:36:08+02:00
-tags: free time,camera,Freetime,
+tags: [free time,camera,Freetime,]
 ---
 
 # Tierpark Berlin

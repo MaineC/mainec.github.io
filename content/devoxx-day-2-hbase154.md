@@ -1,7 +1,7 @@
 ---
 title: "Devoxx – Day 2 HBase "
 date: 2010-12-09T21:25:36+01:00
-tags: adobe,NOSQL,twitter,General,Mahout,facebook,Hacking,hbase,Devoxx,
+tags: [adobe,NOSQL,twitter,General,Mahout,facebook,Hacking,hbase,Devoxx,]
 ---
 
 # Devoxx – Day 2 HBase 

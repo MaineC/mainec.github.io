@@ -1,7 +1,7 @@
 ---
 title: "JAX: Pigs, snakes and deaths by 1k cuts"
 date: 2013-05-20T20:32:16+02:00
-tags: performance,Java,Event,JAX,
+tags: [performance,Java,Event,JAX,]
 ---
 
 # JAX: Pigs, snakes and deaths by 1k cuts

@@ -1,7 +1,7 @@
 ---
 title: "Note to self: Clojure with Vim and Maven"
 date: 2012-07-17T20:07:55+02:00
-tags: Hacking,clojure,Cascalog,Note to Self,vim,
+tags: [Hacking,clojure,Cascalog,Note to Self,vim,]
 ---
 
 # Note to self: Clojure with Vim and Maven

@@ -1,7 +1,7 @@
 ---
 title: "Keepers of secrets - FOSDEM 09"
 date: 2013-02-20T20:49:49+01:00
-tags: secrets,communities,Fosdem,Event,
+tags: [secrets,communities,Fosdem,Event,]
 ---
 
 # Keepers of secrets - FOSDEM 09

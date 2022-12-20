@@ -1,7 +1,7 @@
 ---
 title: "First December Apache Hadoop Berlin video online"
 date: 2009-12-31T20:27:24+01:00
-tags: Simon Willnauer,Hadoop,Berlin,Video,Software Foundation,Get Together,
+tags: [Simon Willnauer,Hadoop,Berlin,Video,Software Foundation,Get Together,]
 ---
 
 # First December Apache Hadoop Berlin video online

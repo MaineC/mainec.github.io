@@ -1,7 +1,7 @@
 ---
 title: "Notes on storage options - FOSDEM 05"
 date: 2013-02-17T20:43:06+01:00
-tags: Free Software,Hadoop,MySQL,hbase,Fosdem,Event,
+tags: [Free Software,Hadoop,MySQL,hbase,Fosdem,Event,]
 ---
 
 # Notes on storage options - FOSDEM 05

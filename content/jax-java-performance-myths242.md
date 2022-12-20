@@ -1,7 +1,7 @@
 ---
 title: "JAX: Java performance myths"
 date: 2013-05-22T20:37:07+02:00
-tags: performance,myth,Java,Event,JAX,
+tags: [performance,myth,Java,Event,JAX,]
 ---
 
 # JAX: Java performance myths

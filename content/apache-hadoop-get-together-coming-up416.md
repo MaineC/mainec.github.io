@@ -1,7 +1,7 @@
 ---
 title: "Upcoming: Apache Hadoop Get Together Berlin"
 date: 2009-09-23T19:00:52+02:00
-tags: Lucene,Berlin,Hadoop,Get Together,
+tags: [Lucene,Berlin,Hadoop,Get Together,]
 ---
 
 # Upcoming: Apache Hadoop Get Together Berlin

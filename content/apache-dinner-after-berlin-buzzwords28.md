@@ -1,7 +1,7 @@
 ---
 title: "Apache Dinner after Berlin Buzzwords"
 date: 2010-06-03T08:52:21+02:00
-tags: Berlin,Apache Dinner Berlin,Berlin Buzzwords,Apache Dinner,
+tags: [Berlin,Apache Dinner Berlin,Berlin Buzzwords,Apache Dinner,]
 ---
 
 # Apache Dinner after Berlin Buzzwords

@@ -1,7 +1,7 @@
 ---
 title: "Apache Dinner January 2010"
 date: 2010-01-18T22:48:29+01:00
-tags: Berlin,Apache Dinner,Dinner,Software Foundation,Freetime,
+tags: [Berlin,Apache Dinner,Dinner,Software Foundation,Freetime,]
 ---
 
 # Apache Dinner January 2010

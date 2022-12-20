@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop Get Together - Hand over "
 date: 2011-11-02T16:20:44+01:00
-tags: Scaling,NOSQL,Apache Hadoop Get Together,Hadoop,Lucene,Berlin,Get Together,
+tags: [Scaling,NOSQL,Apache Hadoop Get Together,Hadoop,Lucene,Berlin,Get Together,]
 ---
 
 # Apache Hadoop Get Together - Hand over 

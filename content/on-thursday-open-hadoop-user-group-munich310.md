@@ -1,7 +1,7 @@
 ---
 title: "On Thursday: Open Hadoop User Group Munich"
 date: 2009-12-16T06:06:28+01:00
-tags: Camp,Hadoop,Munich,Software Foundation,
+tags: [Camp,Hadoop,Munich,Software Foundation,]
 ---
 
 # On Thursday: Open Hadoop User Group Munich

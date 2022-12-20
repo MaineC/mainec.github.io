@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM - Saturday"
 date: 2011-02-15T20:17:28+01:00
-tags: Brussels,Fosdem,General,
+tags: [Brussels,Fosdem,General,]
 ---
 
 # FOSDEM - Saturday

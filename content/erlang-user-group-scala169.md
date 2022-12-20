@@ -1,7 +1,7 @@
 ---
 title: "Erlang User Group - Scala"
 date: 2009-03-09T12:25:32+01:00
-tags: Java,Event,General,
+tags: [Java,Event,General,]
 ---
 
 # Erlang User Group - Scala

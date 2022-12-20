@@ -1,7 +1,7 @@
 ---
 title: "Working on Mahout as part of your studies at TU Berlin"
 date: 2010-04-09T14:37:43+02:00
-tags: Mahout,TU,Hadoop,
+tags: [Mahout,TU,Hadoop,]
 ---
 
 # Working on Mahout as part of your studies at TU Berlin

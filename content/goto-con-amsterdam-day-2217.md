@@ -1,7 +1,7 @@
 ---
 title: "GoTo Con AMS - Day 2"
 date: 2011-10-23T10:47:14+02:00
-tags: amsterdam,gotocon,General,
+tags: [amsterdam,gotocon,General,]
 ---
 
 # GoTo Con AMS - Day 2

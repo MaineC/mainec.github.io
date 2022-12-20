@@ -1,8 +1,8 @@
 ---
 title: "Notebook - OSS office at Adobe"
 date: 2017-05-12T08:46:30+02:00
-tags: oss, adobe, notes to self, Open Source 
-categories: Open Source
+tags: [oss, adobe, notes to self, Open Source ]
+categories: [Open Source]
 ---
 
 # Notebook - OSS office at Adobe

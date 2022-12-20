@@ -1,7 +1,7 @@
 ---
 title: "Devoxx University – MongoDB, Mahout"
 date: 2010-12-05T21:19:39+01:00
-tags: Mahout,mongodb,NOSQL,
+tags: [Mahout,mongodb,NOSQL,]
 ---
 
 # Devoxx University – MongoDB, Mahout

@@ -1,7 +1,7 @@
 ---
 title: "Scrum Table with Thoralf Klatt"
 date: 2009-04-29T09:19:14+02:00
-tags: Berlin,Scrum,General,
+tags: [Berlin,Scrum,General,]
 ---
 
 # Scrum Table with Thoralf Klatt

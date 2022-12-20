@@ -1,7 +1,7 @@
 ---
 title: "Berlin Scrumtisch - open discussion"
 date: 2010-08-25T21:29:05+02:00
-tags: Self organising teams,Scrum,Definition of done,Team Motivation,Software Foundation,Decision making,
+tags: [Self organising teams,Scrum,Definition of done,Team Motivation,Software Foundation,Decision making,]
 ---
 
 # Berlin Scrumtisch - open discussion

@@ -1,7 +1,7 @@
 ---
 title: "Shopping at Ikea"
 date: 2010-02-01T19:17:03+01:00
-tags: Hacking,Hadoop,LackRack,Server,
+tags: [Hacking,Hadoop,LackRack,Server,]
 ---
 
 # Shopping at Ikea

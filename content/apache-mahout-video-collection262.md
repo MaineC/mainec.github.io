@@ -1,7 +1,7 @@
 ---
 title: "Learning Machine Learning with Apache Mahout"
 date: 2011-12-13T22:20:12+01:00
-tags: Mahout,Science,electure,linear algebra,
+tags: [Mahout,Science,electure,linear algebra,]
 ---
 
 # Learning Machine Learning with Apache Mahout

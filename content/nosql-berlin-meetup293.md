@@ -1,7 +1,7 @@
 ---
 title: "NoSQL Berlin Meetup"
 date: 2009-10-23T13:24:26+02:00
-tags: Camp,NoSQL Berlin,
+tags: [Camp,NoSQL Berlin,]
 ---
 
 # NoSQL Berlin Meetup

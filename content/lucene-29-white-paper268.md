@@ -1,7 +1,7 @@
 ---
 title: "Lucene 2.9 White Paper"
 date: 2009-10-28T21:51:32+01:00
-tags: Lucene,lucid,Software Foundation,
+tags: [Lucene,lucid,Software Foundation,]
 ---
 
 # Lucene 2.9 White Paper

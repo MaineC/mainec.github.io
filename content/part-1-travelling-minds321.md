@@ -1,7 +1,7 @@
 ---
 title: "Part 1: Travelling minds"
 date: 2010-08-03T06:00:23+02:00
-tags: Getting things done,Scrum,Free Software,Freetime,Hacking,Software Foundation,
+tags: [Getting things done,Scrum,Free Software,Freetime,Hacking,Software Foundation,]
 ---
 
 # Part 1: Travelling minds

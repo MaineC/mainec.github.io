@@ -1,7 +1,7 @@
 ---
 title: "Dragan Milosevic on Product Search and Reporting with Hadoop"
 date: 2010-03-19T20:30:48+01:00
-tags: Berlin,Video,Hadoop,Get Together,product search,
+tags: [Berlin,Video,Hadoop,Get Together,product search,]
 ---
 
 # Dragan Milosevic on Product Search and Reporting with Hadoop

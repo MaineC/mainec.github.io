@@ -1,7 +1,7 @@
 ---
 title: "AFERO GPL Panel discussion - FOSDEM 04"
 date: 2013-02-16T20:41:23+01:00
-tags: agpl,oss,Fosdem,Event,legal,
+tags: [agpl,oss,Fosdem,Event,legal,]
 ---
 
 # AFERO GPL Panel discussion - FOSDEM 04

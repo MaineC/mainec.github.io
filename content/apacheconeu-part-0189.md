@@ -1,7 +1,7 @@
 ---
 title: "ApacheConEU - part 01"
 date: 2012-11-10T14:30:57+01:00
-tags: ApacheCon,Apache Con,apcheconeu,
+tags: [ApacheCon,Apache Con,apcheconeu,]
 ---
 
 # ApacheConEU - part 01

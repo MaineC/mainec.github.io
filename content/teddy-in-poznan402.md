@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Poznan"
 date: 2012-05-27T20:03:30+02:00
-tags: poznan,geecon,Event,teddy,
+tags: [poznan,geecon,Event,teddy,]
 ---
 
 # Teddy in Poznan

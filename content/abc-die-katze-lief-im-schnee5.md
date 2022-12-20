@@ -1,7 +1,7 @@
 ---
 title: "ABC - die Katze lief im Schnee"
 date: 2013-01-11T20:42:47+01:00
-tags: Relocating to Berlin,Berlin,winter,snow,
+tags: [Relocating to Berlin,Berlin,winter,snow,]
 ---
 
 # ABC - die Katze lief im Schnee

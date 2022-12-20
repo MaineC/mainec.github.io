@@ -1,7 +1,7 @@
 ---
 title: "GeeCon - Randomized testing"
 date: 2012-05-21T08:02:55+02:00
-tags: Science,testing,Free Software,randomized,geecon,Hacking,
+tags: [Science,testing,Free Software,randomized,geecon,Hacking,]
 ---
 
 # GeeCon - Randomized testing

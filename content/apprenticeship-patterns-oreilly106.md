@@ -1,7 +1,7 @@
 ---
 title: "Apprenticeship patterns (O'Reilly)"
 date: 2010-09-23T08:17:45+02:00
-tags: software development,apprenticeship patterns,Free Software,book,learning,Hacking,
+tags: [software development,apprenticeship patterns,Free Software,book,learning,Hacking,]
 ---
 
 # Apprenticeship patterns (O'Reilly)

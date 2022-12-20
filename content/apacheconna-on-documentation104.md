@@ -1,7 +1,7 @@
 ---
 title: "ApacheConNA: On documentation"
 date: 2013-05-11T20:20:34+02:00
-tags: ApacheConNA,ApacheCon,Apache Con,community,
+tags: [ApacheConNA,ApacheCon,Apache Con,community,]
 ---
 
 # ApacheConNA: On documentation

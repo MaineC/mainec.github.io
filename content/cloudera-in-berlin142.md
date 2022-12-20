@@ -1,7 +1,7 @@
 ---
 title: "Cloudera in Berlin"
 date: 2011-11-14T20:24:54+01:00
-tags: hbase,Hadoop,Get Together,
+tags: [hbase,Hadoop,Get Together,]
 ---
 
 # Cloudera in Berlin

@@ -1,7 +1,7 @@
 ---
 title: "Lucene Meetup Oakland"
 date: 2009-11-04T06:05:23+01:00
-tags: Lucene,Apache Con,ApacheConUS09,
+tags: [Lucene,Apache Con,ApacheConUS09,]
 ---
 
 # Lucene Meetup Oakland

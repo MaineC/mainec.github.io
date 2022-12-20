@@ -1,7 +1,7 @@
 ---
 title: "Winter arrived at Berlin"
 date: 2009-12-18T20:10:55+01:00
-tags: snow,Berlin,bike,Freetime,winter,
+tags: [snow,Berlin,bike,Freetime,winter,]
 ---
 
 # Winter arrived at Berlin

@@ -1,7 +1,7 @@
 ---
 title: "Bob Schulze on Tips and patterns with HBase"
 date: 2010-03-24T03:41:42+01:00
-tags: hbase,Berlin,Video,Hadoop,Get Together,
+tags: [hbase,Berlin,Video,Hadoop,Get Together,]
 ---
 
 # Bob Schulze on Tips and patterns with HBase

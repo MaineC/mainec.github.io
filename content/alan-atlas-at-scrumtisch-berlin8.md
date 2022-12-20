@@ -1,7 +1,7 @@
 ---
 title: "Alan Atlas at Scrumtisch Berlin"
 date: 2010-02-17T23:35:43+01:00
-tags: S3,Amazon,Scrum,Hadoop,
+tags: [S3,Amazon,Scrum,Hadoop,]
 ---
 
 # Alan Atlas at Scrumtisch Berlin

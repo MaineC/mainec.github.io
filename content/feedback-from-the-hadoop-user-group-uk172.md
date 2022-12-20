@@ -1,7 +1,7 @@
 ---
 title: "Feedback from the Hadoop User Group UK"
 date: 2009-04-29T08:54:54+02:00
-tags: Hadoop,General,Mahout,London,Hadoop User Group UK,Software Foundation,
+tags: [Hadoop,General,Mahout,London,Hadoop User Group UK,Software Foundation,]
 ---
 
 # Feedback from the Hadoop User Group UK

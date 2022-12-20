@@ -1,7 +1,7 @@
 ---
 title: "Apache Dinner - May 2010"
 date: 2010-05-27T22:50:36+02:00
-tags: Berlin,Dinner,Software Foundation,Apache Dinner Berlin,
+tags: [Berlin,Dinner,Software Foundation,Apache Dinner Berlin,]
 ---
 
 # Apache Dinner - May 2010

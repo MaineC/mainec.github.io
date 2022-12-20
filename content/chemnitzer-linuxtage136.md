@@ -1,7 +1,7 @@
 ---
 title: "Chemnitzer Linuxtage"
 date: 2010-03-05T12:32:14+01:00
-tags: Linux,Free Software,Chemnitz,FSFE,General,
+tags: [Linux,Free Software,Chemnitz,FSFE,General,]
 ---
 
 # Chemnitzer Linuxtage

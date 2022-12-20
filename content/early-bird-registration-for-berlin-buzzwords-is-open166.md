@@ -1,7 +1,7 @@
 ---
 title: "Early bird registration for Berlin Buzzwords on June 7th/8th open"
 date: 2010-03-09T18:34:44+01:00
-tags: Lucene,Berlin Buzzwords,Hadoop,NOSQL,
+tags: [Lucene,Berlin Buzzwords,Hadoop,NOSQL,]
 ---
 
 # Early bird registration for Berlin Buzzwords on June 7th/8th open

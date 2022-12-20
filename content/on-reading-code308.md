@@ -1,7 +1,7 @@
 ---
 title: "On Reading Code"
 date: 2012-08-02T15:14:58+02:00
-tags: geecon,Hacking,Video,coding,
+tags: [geecon,Hacking,Video,coding,]
 ---
 
 # On Reading Code

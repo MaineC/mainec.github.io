@@ -1,7 +1,7 @@
 ---
 title: "Devoxx – University – Cassandra, HBase  "
 date: 2010-12-06T21:20:56+01:00
-tags: hbase,Cassandra,Devoxx,NOSQL,General,
+tags: [hbase,Cassandra,Devoxx,NOSQL,General,]
 ---
 
 # Devoxx – University – Cassandra, HBase  

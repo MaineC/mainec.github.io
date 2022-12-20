@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout Meetup Amsterdam"
 date: 2011-02-19T20:18:06+01:00
-tags: Mahout,Apache Mahout,amsterdam,JTeam,General,
+tags: [Mahout,Apache Mahout,amsterdam,JTeam,General,]
 ---
 
 # Apache Mahout Meetup Amsterdam

@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Brussels"
 date: 2011-02-14T20:16:40+01:00
-tags: Freetime,
+tags: [Freetime,]
 ---
 
 # Teddy in Brussels

@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop Get Together March 2010"
 date: 2010-03-11T00:40:36+01:00
-tags: buzzwords,Lucene,Spatial,hbase,Solr,Get Together,
+tags: [buzzwords,Lucene,Spatial,hbase,Solr,Get Together,]
 ---
 
 # Apache Hadoop Get Together March 2010

@@ -1,7 +1,7 @@
 ---
 title: "The 7 deadly sins of (Java) software developers"
 date: 2010-01-23T09:09:46+01:00
-tags: SwEng,anti-patterns,Scrum,Free Software,Lucene,Hacking,Solr,sin,
+tags: [SwEng,anti-patterns,Scrum,Free Software,Lucene,Hacking,Solr,sin,]
 ---
 
 # The 7 deadly sins of (Java) software developers

@@ -1,7 +1,7 @@
 ---
 title: "Hadoop trainings in Europe"
 date: 2010-02-02T19:23:19+01:00
-tags: Trainings,Hadoop,Get Together,
+tags: [Trainings,Hadoop,Get Together,]
 ---
 
 # Hadoop trainings in Europe

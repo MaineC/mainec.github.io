@@ -1,8 +1,8 @@
 ---
 title: "Async decision making"
 date: 2017-05-16T08:45:35+02:00
-tags: Open Source, async, inner source 
-categories: Open Source
+tags: [Open Source, async, inner source ]
+categories: [Open Source]
 ---
 
 # Async decision making

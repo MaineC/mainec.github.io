@@ -1,7 +1,7 @@
 ---
 title: "Design Thinking @ Scrumtisch Berlin"
 date: 2011-09-26T21:38:14+02:00
-tags: agile,Scrum,lean,scrumtisch,
+tags: [agile,Scrum,lean,scrumtisch,]
 ---
 
 # Design Thinking @ Scrumtisch Berlin

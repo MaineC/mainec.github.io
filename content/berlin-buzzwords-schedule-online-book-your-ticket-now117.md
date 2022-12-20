@@ -1,7 +1,7 @@
 ---
 title: "Berlin Buzzwords Schedule online - book your ticket now"
 date: 2012-04-30T10:29:14+02:00
-tags: Lucene,Berlin,Hadoop,Berlin Buzzwords,
+tags: [Lucene,Berlin,Hadoop,Berlin Buzzwords,]
 ---
 
 # Berlin Buzzwords Schedule online - book your ticket now

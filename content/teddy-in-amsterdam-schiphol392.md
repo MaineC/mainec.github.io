@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Amsterdam Schiphol"
 date: 2010-12-02T21:11:36+01:00
-tags: amsterdam,codebits,Freetime,Devoxx,teddy,
+tags: [amsterdam,codebits,Freetime,Devoxx,teddy,]
 ---
 
 # Teddy in Amsterdam Schiphol

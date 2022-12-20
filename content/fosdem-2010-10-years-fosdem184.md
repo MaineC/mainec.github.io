@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM 2010 - 10 years FOSDEM"
 date: 2010-02-03T19:33:33+01:00
-tags: Mahout,Free Software,General,
+tags: [Mahout,Free Software,General,]
 ---
 
 # FOSDEM 2010 - 10 years FOSDEM

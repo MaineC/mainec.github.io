@@ -18,8 +18,8 @@ BEGINFILE {
             cmd | getline created;
             close(cmd) }
 /.. tags:/ {tags=gensub(".*tags:[ ]*","","g")
-            tags=gensub("\*", "", "g", tags)}
-/.. category:/ {cat=gensub(".*category:[ ]*","","g")}
+            tags="[" gensub("\*", "", "g", tags) "]"}
+/.. category:/ {cat="[" gensub(".*category:[ ]*","","g") "]"}
 
 
 { if ( in_body )

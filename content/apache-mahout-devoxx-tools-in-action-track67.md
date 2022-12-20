@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout @ Devoxx Tools in Action Track"
 date: 2010-11-01T09:32:26+01:00
-tags: Apache Dinner,Hadoop,General,Mahout,hbase,Software Foundation,Devoxx,
+tags: [Apache Dinner,Hadoop,General,Mahout,hbase,Software Foundation,Devoxx,]
 ---
 
 # Apache Mahout @ Devoxx Tools in Action Track

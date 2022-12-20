@@ -1,7 +1,7 @@
 ---
 title: "Video: Sebastian Schelter on Recommendation w/ Apache Mahout"
 date: 2010-10-21T13:55:25+02:00
-tags: Mahout,Video,Hadoop,Get Together,
+tags: [Mahout,Video,Hadoop,Get Together,]
 ---
 
 # Video: Sebastian Schelter on Recommendation w/ Apache Mahout

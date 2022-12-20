@@ -1,7 +1,7 @@
 ---
 title: "Apache Con returns to Europe"
 date: 2012-08-01T20:41:49+02:00
-tags: Apache,apacheconeu,Apache Con,Hadoop,asf,
+tags: [Apache,apacheconeu,Apache Con,Hadoop,asf,]
 ---
 
 # Apache Con returns to Europe

@@ -1,7 +1,7 @@
 ---
 title: "O'Reilly Strata - Tutorial data analytics"
 date: 2011-02-11T20:17:19+01:00
-tags: SFO,strataconf,Event,Data Analytics,General,
+tags: [SFO,strataconf,Event,Data Analytics,General,]
 ---
 
 # O'Reilly Strata - Tutorial data analytics

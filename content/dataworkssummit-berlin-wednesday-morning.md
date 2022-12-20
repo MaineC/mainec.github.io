@@ -1,8 +1,8 @@
 ---
 title: "DataworksSummit Berlin - Wednesday morning"
 date: 2018-04-19T08:50:41+02:00
-tags: hortonworks, BigData, Apache
-categories: Apache, BigData
+tags: [hortonworks, BigData, Apache]
+categories: [Apache, BigData]
 ---
 
 # DataworksSummit Berlin - Wednesday morning

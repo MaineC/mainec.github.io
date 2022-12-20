@@ -1,7 +1,7 @@
 ---
 title: "Note to self: Basic R operations"
 date: 2012-10-18T22:55:53+02:00
-tags: R,matrix,Note to Self,
+tags: [R,matrix,Note to Self,]
 ---
 
 # Note to self: Basic R operations

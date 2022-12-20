@@ -1,7 +1,7 @@
 ---
 title: "Slides of yesterday's Apache Hadoop Get Together"
 date: 2011-01-28T21:40:18+01:00
-tags: Apache Hadoop,Lucene4,Redis,Apache Lucene,Get Together,
+tags: [Apache Hadoop,Lucene4,Redis,Apache Lucene,Get Together,]
 ---
 
 # Slides of yesterday's Apache Hadoop Get Together

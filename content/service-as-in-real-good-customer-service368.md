@@ -1,7 +1,7 @@
 ---
 title: "Service as in real good customer service"
 date: 2010-06-19T08:07:02+02:00
-tags: coffee,Freetime,service,
+tags: [coffee,Freetime,service,]
 ---
 
 # Service as in real good customer service

@@ -1,7 +1,7 @@
 ---
 title: "Slides available"
 date: 2010-10-08T09:19:20+02:00
-tags: Mahout,Get Together,
+tags: [Mahout,Get Together,]
 ---
 
 # Slides available

@@ -1,7 +1,7 @@
 ---
 title: "Devoxx University – Productive programmer, HBase"
 date: 2010-12-04T21:17:50+01:00
-tags: antwerp,General,productive programmer,Hacking,hbase,Devoxx,
+tags: [antwerp,General,productive programmer,Hacking,hbase,Devoxx,]
 ---
 
 # Devoxx University – Productive programmer, HBase

@@ -1,7 +1,7 @@
 ---
 title: "Solr at AOL"
 date: 2009-07-02T13:06:55+02:00
-tags: Solr,Hacking,Free Software,Software Foundation,
+tags: [Solr,Hacking,Free Software,Software Foundation,]
 ---
 
 # Solr at AOL

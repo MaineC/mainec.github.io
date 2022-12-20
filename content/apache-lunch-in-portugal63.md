@@ -1,7 +1,7 @@
 ---
 title: "Apache Lunch in Portugal"
 date: 2010-07-15T13:37:23+02:00
-tags: Software Foundation,
+tags: [Software Foundation,]
 ---
 
 # Apache Lunch in Portugal

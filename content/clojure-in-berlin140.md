@@ -1,7 +1,7 @@
 ---
 title: "Clojure in Berlin"
 date: 2012-02-02T00:01:53+01:00
-tags: clojure,overtone,General,
+tags: [clojure,overtone,General,]
 ---
 
 # Clojure in Berlin

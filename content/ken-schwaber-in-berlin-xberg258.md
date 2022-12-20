@@ -1,7 +1,7 @@
 ---
 title: "Ken Schwaber in Berlin XBerg"
 date: 2009-05-24T18:56:15+02:00
-tags: software development,management,Scrum,General,
+tags: [software development,management,Scrum,General,]
 ---
 
 # Ken Schwaber in Berlin XBerg

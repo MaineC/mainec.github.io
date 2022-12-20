@@ -1,7 +1,7 @@
 ---
 title: "Scrumtisch Berlin"
 date: 2012-01-26T23:10:35+01:00
-tags: Scrum,scrumtisch,
+tags: [Scrum,scrumtisch,]
 ---
 
 # Scrumtisch Berlin

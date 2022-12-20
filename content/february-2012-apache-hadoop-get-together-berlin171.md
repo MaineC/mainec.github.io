@@ -1,7 +1,7 @@
 ---
 title: "February 2012 Apache Hadoop Get Together Berlin"
 date: 2012-01-31T20:34:25+01:00
-tags: Kanban,Scrum,Hadoop,Get Together,Berlin Apache Hadoop,
+tags: [Kanban,Scrum,Hadoop,Get Together,Berlin Apache Hadoop,]
 ---
 
 # February 2012 Apache Hadoop Get Together Berlin

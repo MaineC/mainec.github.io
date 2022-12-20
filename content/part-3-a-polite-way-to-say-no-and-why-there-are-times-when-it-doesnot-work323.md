@@ -1,7 +1,7 @@
 ---
 title: "Part 3: A polite way to say no - and why there are times when it does not work. "
 date: 2010-09-07T23:05:13+02:00
-tags: Hacking,saying no,energy management,Freetime,Time management,
+tags: [Hacking,saying no,energy management,Freetime,Time management,]
 ---
 
 # Part 3: A polite way to say no - and why there are times when it does not work. 

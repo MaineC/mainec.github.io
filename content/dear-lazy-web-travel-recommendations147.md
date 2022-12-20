@@ -1,7 +1,7 @@
 ---
 title: "Dear lazy web: Travel recommendations"
 date: 2011-10-21T21:21:05+02:00
-tags: Freetime,vacation,
+tags: [Freetime,vacation,]
 ---
 
 # Dear lazy web: Travel recommendations

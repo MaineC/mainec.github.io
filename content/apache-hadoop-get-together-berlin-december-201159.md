@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop Get Together Berlin December 2011"
 date: 2011-12-08T01:50:26+01:00
-tags: GetTogether,Hadoop,Get Together,triposo,
+tags: [GetTogether,Hadoop,Get Together,triposo,]
 ---
 
 # Apache Hadoop Get Together Berlin December 2011

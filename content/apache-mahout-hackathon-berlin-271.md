@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout Hackathon Berlin"
 date: 2011-03-21T21:39:49+01:00
-tags: Mahout,
+tags: [Mahout,]
 ---
 
 # Apache Mahout Hackathon Berlin

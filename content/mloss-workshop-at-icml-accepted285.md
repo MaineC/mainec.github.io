@@ -1,7 +1,7 @@
 ---
 title: "MLOSS workshop at ICML accepted"
 date: 2010-02-15T19:31:02+01:00
-tags: Science,FOSS,ICML,Machine Learning,
+tags: [Science,FOSS,ICML,Machine Learning,]
 ---
 
 # MLOSS workshop at ICML accepted

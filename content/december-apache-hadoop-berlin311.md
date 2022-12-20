@@ -1,7 +1,7 @@
 ---
 title: "On Wednesday: December Apache Hadoop @ Berlin"
 date: 2009-12-14T20:15:02+01:00
-tags: Cookies,Berlin,Hadoop,Get Together,
+tags: [Cookies,Berlin,Hadoop,Get Together,]
 ---
 
 # On Wednesday: December Apache Hadoop @ Berlin

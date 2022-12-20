@@ -1,7 +1,7 @@
 ---
 title: "Are devs contributing to OSS happier?"
 date: 2010-09-24T20:18:58+02:00
-tags: software development,Motivation,Get Better,apprenticeship patterns,Free Software,Self Direction,Mastery,Freetime,Hacking,Purpose,
+tags: [software development,Motivation,Get Better,apprenticeship patterns,Free Software,Self Direction,Mastery,Freetime,Hacking,Purpose,]
 ---
 
 # Are devs contributing to OSS happier?

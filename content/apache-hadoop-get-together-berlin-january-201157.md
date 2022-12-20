@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop Get Together Berlin - January 2011"
 date: 2010-12-28T16:31:48+01:00
-tags: Lucene,Apache Lucene,Apache Hadoop Get Together,Apache Hadoop,Hadoop,Mahout,Get Together,
+tags: [Lucene,Apache Lucene,Apache Hadoop Get Together,Apache Hadoop,Hadoop,Mahout,Get Together,]
 ---
 
 # Apache Hadoop Get Together Berlin - January 2011

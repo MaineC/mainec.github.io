@@ -1,7 +1,7 @@
 ---
 title: "Moving from Fast to Solr"
 date: 2009-11-19T20:34:34+01:00
-tags: Lucene,Solr,Free Software,fast,
+tags: [Lucene,Solr,Free Software,fast,]
 ---
 
 # Moving from Fast to Solr

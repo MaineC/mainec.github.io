@@ -1,7 +1,7 @@
 ---
 title: "How hard can it be - organising a conference"
 date: 2014-03-15T19:37:07+01:00
-tags: Conference, Berlin Buzzwords 
+tags: [Conference, Berlin Buzzwords ]
 ---
 
 # How hard can it be - organising a conference

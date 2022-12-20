@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning Gossip Meeting Berlin"
 date: 2010-10-25T18:51:25+02:00
-tags: Mahout,Science,Berlin,Machine Learning,General,
+tags: [Mahout,Science,Berlin,Machine Learning,General,]
 ---
 
 # Machine Learning Gossip Meeting Berlin

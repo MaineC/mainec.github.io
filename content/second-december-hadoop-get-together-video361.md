@@ -1,7 +1,7 @@
 ---
 title: "Second December Hadoop Get Together video"
 date: 2010-01-03T14:57:13+01:00
-tags: Berlin,Video,Hadoop,Get Together,
+tags: [Berlin,Video,Hadoop,Get Together,]
 ---
 
 # Second December Hadoop Get Together video

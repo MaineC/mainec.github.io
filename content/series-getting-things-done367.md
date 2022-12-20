@@ -1,7 +1,7 @@
 ---
 title: "Series: Getting things done"
 date: 2010-07-30T07:07:59+02:00
-tags: Getting things done,Scrum,Free Software,Freetime,Hacking,Software Foundation,
+tags: [Getting things done,Scrum,Free Software,Freetime,Hacking,Software Foundation,]
 ---
 
 # Series: Getting things done

@@ -1,8 +1,8 @@
 ---
 title: "My board nomination statement 2018"
 date: 2018-03-23T08:21:15+01:00
-tags: Apache, TheASF
-categories: apache, organisation
+tags: [Apache, TheASF]
+categories: [apache, organisation]
 ---
 
 # My board nomination statement 2018

@@ -1,7 +1,7 @@
 ---
 title: "Fourth #Recsys Stammtisch Berlin"
 date: 2012-10-23T22:38:55+02:00
-tags: Mahout,Recommender Systems,recsys,
+tags: [Mahout,Recommender Systems,recsys,]
 ---
 
 # Fourth #Recsys Stammtisch Berlin

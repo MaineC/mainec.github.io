@@ -1,7 +1,7 @@
 ---
 title: "Scrum @ Home"
 date: 2009-03-08T00:12:28+01:00
-tags: Scrum,
+tags: [Scrum,]
 ---
 
 # Scrum @ Home

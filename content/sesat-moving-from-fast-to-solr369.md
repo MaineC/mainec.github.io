@@ -1,7 +1,7 @@
 ---
 title: "Sesat - moving from FAST to Solr"
 date: 2009-12-01T22:07:49+01:00
-tags: Solr,Free Software,Sesat,fast,
+tags: [Solr,Free Software,Sesat,fast,]
 ---
 
 # Sesat - moving from FAST to Solr

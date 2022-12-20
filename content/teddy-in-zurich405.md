@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Zürich"
 date: 2012-05-28T20:20:39+02:00
-tags: travelling teddy,zurich,teddy,
+tags: [travelling teddy,zurich,teddy,]
 ---
 
 # Teddy in Zürich

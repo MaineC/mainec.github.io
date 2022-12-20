@@ -1,7 +1,7 @@
 ---
 title: "Scientific debugging"
 date: 2010-10-28T20:09:28+02:00
-tags: Science,Hacking,scientific method,debugging,
+tags: [Science,Hacking,scientific method,debugging,]
 ---
 
 # Scientific debugging

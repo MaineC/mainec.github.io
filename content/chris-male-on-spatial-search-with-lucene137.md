@@ -1,7 +1,7 @@
 ---
 title: "Chris Male on spatial search with Lucene"
 date: 2010-03-16T20:42:14+01:00
-tags: Lucene,Video,Solr,Get Together,Spatial,
+tags: [Lucene,Video,Solr,Get Together,Spatial,]
 ---
 
 # Chris Male on spatial search with Lucene

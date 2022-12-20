@@ -1,7 +1,7 @@
 ---
 title: "GSoC: Student applications."
 date: 2009-04-05T09:57:57+02:00
-tags: GSoC,Software Foundation,Event,General,
+tags: [GSoC,Software Foundation,Event,General,]
 ---
 
 # GSoC: Student applications.

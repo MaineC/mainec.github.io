@@ -1,7 +1,7 @@
 ---
 title: "Building online communities - from the 0MQ trenches"
 date: 2013-11-13T21:38:58+01:00
-tags: Uncategorized,
+tags: [Uncategorized,]
 ---
 
 # Building online communities - from the 0MQ trenches

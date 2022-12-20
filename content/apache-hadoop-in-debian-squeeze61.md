@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop in Debian Squeeze"
 date: 2010-07-17T12:04:27+02:00
-tags: hbase,Zookeeper,Hadoop,Debian,
+tags: [hbase,Zookeeper,Hadoop,Debian,]
 ---
 
 # Apache Hadoop in Debian Squeeze

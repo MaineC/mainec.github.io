@@ -1,7 +1,7 @@
 ---
 title: "Some pictures"
 date: 2010-03-25T11:00:15+01:00
-tags: Berlin,Solr,Hadoop,Get Together,
+tags: [Berlin,Solr,Hadoop,Get Together,]
 ---
 
 # Some pictures

@@ -1,7 +1,7 @@
 ---
 title: "June 2009 Apache Hadoop Get Together @ Berlin"
 date: 2009-06-21T21:33:58+02:00
-tags: Hadoop,
+tags: [Hadoop,]
 ---
 
 # June 2009 Apache Hadoop Get Together @ Berlin

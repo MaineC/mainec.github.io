@@ -1,7 +1,7 @@
 ---
 title: "GeeCon - TDD and it's influence on software design"
 date: 2012-05-22T08:04:00+02:00
-tags: Science,Hacking,testing,Free Software,geecon,
+tags: [Science,Hacking,testing,Free Software,geecon,]
 ---
 
 # GeeCon - TDD and it's influence on software design

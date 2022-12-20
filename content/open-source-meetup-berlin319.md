@@ -1,7 +1,7 @@
 ---
 title: "Open Source Meetup Berlin"
 date: 2012-08-19T20:22:33+02:00
-tags: Berlin,beer,Event,Linux,
+tags: [Berlin,beer,Event,Linux,]
 ---
 
 # Open Source Meetup Berlin

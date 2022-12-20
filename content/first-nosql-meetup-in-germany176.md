@@ -1,7 +1,7 @@
 ---
 title: "First NoSQL Meetup in Germany"
 date: 2009-09-09T18:58:50+02:00
-tags: newthinking,NOSQL,General,Berlin,Camp,Software Foundation,
+tags: [newthinking,NOSQL,General,Berlin,Camp,Software Foundation,]
 ---
 
 # First NoSQL Meetup in Germany

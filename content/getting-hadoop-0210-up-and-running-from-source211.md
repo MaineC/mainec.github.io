@@ -1,7 +1,7 @@
 ---
 title: "Getting Hadoop trunk up and running from source"
 date: 2009-10-04T20:18:27+02:00
-tags: 0.21.0,Hadoop,dhb,Camp,Hacking,dumbo,
+tags: [0.21.0,Hadoop,dhb,Camp,Hacking,dumbo,]
 ---
 
 # Getting Hadoop trunk up and running from source

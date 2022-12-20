@@ -1,8 +1,8 @@
 ---
 title: "Agile, inner source, open development, open source development"
 date: 2017-05-07T17:53:53+02:00
-tags: agile, lean, inner source, open development, apache way, open source development 
-categories: Hacking people
+tags: [agile, lean, inner source, open development, apache way, open source development ]
+categories: [Hacking people]
 ---
 
 # Agile, inner source, open development, open source development

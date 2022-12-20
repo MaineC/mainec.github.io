@@ -1,7 +1,7 @@
 ---
 title: "Part 4: Constant evaluation and improvement: Finding sources for feedback."
 date: 2010-10-24T08:13:08+02:00
-tags: apprenticeship patterns,Hacking,Scrum,Freetime,Feedback,
+tags: [apprenticeship patterns,Hacking,Scrum,Freetime,Feedback,]
 ---
 
 # Part 4: Constant evaluation and improvement: Finding sources for feedback.

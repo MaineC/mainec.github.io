@@ -1,7 +1,7 @@
 ---
 title: "Open Source Expo"
 date: 2009-10-29T07:38:12+01:00
-tags: Mahout,Lucene,Apache,Booth,General,
+tags: [Mahout,Lucene,Apache,Booth,General,]
 ---
 
 # Open Source Expo

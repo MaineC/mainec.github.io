@@ -1,7 +1,7 @@
 ---
 title: "Tomcat Tuesday talk"
 date: 2009-05-21T09:07:43+02:00
-tags: Free Software,Software Foundation,tomcat,Event,
+tags: [Free Software,Software Foundation,tomcat,Event,]
 ---
 
 # Tomcat Tuesday talk

@@ -1,7 +1,7 @@
 ---
 title: "Apache Dinner this evening"
 date: 2010-09-21T08:00:59+02:00
-tags: Apache Dinner Berlin,Software Foundation,Apache Dinner,
+tags: [Apache Dinner Berlin,Software Foundation,Apache Dinner,]
 ---
 
 # Apache Dinner this evening

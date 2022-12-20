@@ -1,7 +1,7 @@
 ---
 title: "Videos are up"
 date: 2009-10-22T07:31:39+02:00
-tags: JAQL,Hadoop,mapreduce,Lucene,Video,Get Together,
+tags: [JAQL,Hadoop,mapreduce,Lucene,Video,Get Together,]
 ---
 
 # Videos are up

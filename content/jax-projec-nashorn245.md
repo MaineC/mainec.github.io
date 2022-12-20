@@ -1,7 +1,7 @@
 ---
 title: "JAX: Project Nashorn"
 date: 2013-05-24T20:41:00+02:00
-tags: nashorn,jvm,Event,JAX,js,
+tags: [nashorn,jvm,Event,JAX,js,]
 ---
 
 # JAX: Project Nashorn

@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop Get Together - March 2010 - Update"
 date: 2010-02-11T14:25:03+01:00
-tags: GetTogether,Berlin,Hadoop,Get Together,
+tags: [GetTogether,Berlin,Hadoop,Get Together,]
 ---
 
 # Apache Hadoop Get Together - March 2010 - Update

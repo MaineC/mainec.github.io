@@ -1,7 +1,7 @@
 ---
 title: "ApacheConNA: On Security"
 date: 2013-05-12T20:22:19+02:00
-tags: ApacheConNA,ApacheCon,Apache Con,security,community,
+tags: [ApacheConNA,ApacheCon,Apache Con,security,community,]
 ---
 
 # ApacheConNA: On Security

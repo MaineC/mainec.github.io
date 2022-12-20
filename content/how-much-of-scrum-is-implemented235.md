@@ -1,7 +1,7 @@
 ---
 title: "How much of Scrum is implemented?"
 date: 2010-01-06T22:36:17+01:00
-tags: dish washer,Berlin,Scrum,
+tags: [dish washer,Berlin,Scrum,]
 ---
 
 # How much of Scrum is implemented?

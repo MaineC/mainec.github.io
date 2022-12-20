@@ -1,7 +1,7 @@
 ---
 title: "Video: \"Accessing Hadoop data with HCatalog and PostgreSQL\""
 date: 2012-08-20T20:53:54+02:00
-tags: postgreSQL,hcatalog,Hadoop,hadoop gettogether,gameduell,Video,Get Together,
+tags: [postgreSQL,hcatalog,Hadoop,hadoop gettogether,gameduell,Video,Get Together,]
 ---
 
 # Video: "Accessing Hadoop data with HCatalog and PostgreSQL"

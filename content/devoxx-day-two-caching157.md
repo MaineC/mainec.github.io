@@ -1,7 +1,7 @@
 ---
 title: "Devoxx – Day two – Caching "
 date: 2010-12-07T21:22:10+01:00
-tags: caching,Hacking,Java,Devoxx,
+tags: [caching,Hacking,Java,Devoxx,]
 ---
 
 # Devoxx – Day two – Caching 

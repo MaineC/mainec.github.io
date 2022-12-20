@@ -1,7 +1,7 @@
 ---
 title: "Scrum Table Berlin"
 date: 2009-06-21T21:26:29+02:00
-tags: Scrum,Event,General,
+tags: [Scrum,Event,General,]
 ---
 
 # Scrum Table Berlin

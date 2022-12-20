@@ -1,7 +1,7 @@
 ---
 title: "Large Scalability - Papers and implementations"
 date: 2009-06-23T12:08:10+02:00
-tags: search,Hacking,Free Software,Hadoop,Software Foundation,
+tags: [search,Hacking,Free Software,Hadoop,Software Foundation,]
 ---
 
 # Large Scalability - Papers and implementations

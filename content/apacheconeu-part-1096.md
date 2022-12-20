@@ -1,7 +1,7 @@
 ---
 title: "ApacheConEU - part 10"
 date: 2012-11-19T20:34:15+01:00
-tags: Lucene,tika,ApacheCon,Apache Con,apacheconeu,
+tags: [Lucene,tika,ApacheCon,Apache Con,apacheconeu,]
 ---
 
 # ApacheConEU - part 10

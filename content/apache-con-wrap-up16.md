@@ -1,7 +1,7 @@
 ---
 title: "Apache Con – Wrap up"
 date: 2010-11-29T23:27:58+01:00
-tags: Atlanta,ApacheCon,Apache Con,
+tags: [Atlanta,ApacheCon,Apache Con,]
 ---
 
 # Apache Con – Wrap up

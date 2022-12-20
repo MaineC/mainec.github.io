@@ -1,7 +1,7 @@
 ---
 title: "Announcing Apache Mahout 0.1"
 date: 2009-04-08T15:11:56+02:00
-tags: Mahout,Free Software,Software Foundation,
+tags: [Mahout,Free Software,Software Foundation,]
 ---
 
 # Announcing Apache Mahout 0.1

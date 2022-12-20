@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop Get Together - February 2012"
 date: 2012-02-23T00:14:42+01:00
-tags: Storm,Kanban,Hadoop,Get Together,
+tags: [Storm,Kanban,Hadoop,Get Together,]
 ---
 
 # Apache Hadoop Get Together - February 2012

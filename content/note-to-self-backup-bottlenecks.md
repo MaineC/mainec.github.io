@@ -1,7 +1,7 @@
 ---
 title: "Note to self: Backup bottlenecks"
 date: 2014-03-23T18:26:47+01:00
-tags: network speed, Note to Self, Hacking
+tags: [network speed, Note to Self, Hacking]
 ---
 
 # Note to self: Backup bottlenecks

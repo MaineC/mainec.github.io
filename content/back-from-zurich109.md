@@ -1,7 +1,7 @@
 ---
 title: "Back from Zürich"
 date: 2009-05-05T16:58:42+02:00
-tags: google,Free Software,Hadoop,General,Mahout,Software Foundation,
+tags: [google,Free Software,Hadoop,General,Mahout,Software Foundation,]
 ---
 
 # Back from Zürich

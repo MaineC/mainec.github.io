@@ -1,7 +1,7 @@
 ---
 title: "Mahout at Berlin ignite"
 date: 2010-03-01T22:24:48+01:00
-tags: Mahout,Camp,berlin ignite,
+tags: [Mahout,Camp,berlin ignite,]
 ---
 
 # Mahout at Berlin ignite

@@ -1,7 +1,7 @@
 ---
 title: "Teaching Free Software Development"
 date: 2010-06-20T12:55:07+02:00
-tags: Mahout,Teaching,University,Free Software,TU Berlin,
+tags: [Mahout,Teaching,University,Free Software,TU Berlin,]
 ---
 
 # Teaching Free Software Development

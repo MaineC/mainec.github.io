@@ -1,7 +1,7 @@
 ---
 title: "O'Reilly Strata coming to London"
 date: 2012-07-30T20:05:56+02:00
-tags: strataconf,London,Strata,big data,Event,
+tags: [strataconf,London,Strata,big data,Event,]
 ---
 
 # O'Reilly Strata coming to London

@@ -1,7 +1,7 @@
 ---
 title: "Mahout@TU WS 09/10"
 date: 2009-09-09T23:08:23+02:00
-tags: Mahout,course,Software Foundation,TU Berlin,
+tags: [Mahout,course,Software Foundation,TU Berlin,]
 ---
 
 # Mahout@TU WS 09/10

@@ -1,7 +1,7 @@
 ---
 title: "Open Street Map @ FSFE meetup"
 date: 2009-06-21T20:59:49+02:00
-tags: Open Street Map,Free Software,FSFE,General,
+tags: [Open Street Map,Free Software,FSFE,General,]
 ---
 
 # Open Street Map @ FSFE meetup

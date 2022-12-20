@@ -1,7 +1,7 @@
 ---
 title: "ApacheConNA: Hadoop metrics"
 date: 2013-05-14T20:25:25+02:00
-tags: sizing,ApacheConNA,ApacheCon,Apache Con,Hadoop,
+tags: [sizing,ApacheConNA,ApacheCon,Apache Con,Hadoop,]
 ---
 
 # ApacheConNA: Hadoop metrics

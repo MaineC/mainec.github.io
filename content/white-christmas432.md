@@ -1,7 +1,7 @@
 ---
 title: "White Christmas"
 date: 2010-12-25T16:44:33+01:00
-tags: snow,Freetime,winter,
+tags: [snow,Freetime,winter,]
 ---
 
 # White Christmas

@@ -1,7 +1,7 @@
 ---
 title: "ApacheConNA: Meet the indian tribe"
 date: 2013-05-08T20:10:58+02:00
-tags: ApacheCon,apacheco,ApacheConNA,Apache,Apache Con,Uncategorized,
+tags: [ApacheCon,apacheco,ApacheConNA,Apache,Apache Con,Uncategorized,]
 ---
 
 # ApacheConNA: Meet the indian tribe

@@ -1,7 +1,7 @@
 ---
 title: "Third Apache Dinner Berlin"
 date: 2010-03-11T22:04:41+01:00
-tags: Berlin,Dinner,Software Foundation,Apache Dinner Berlin,
+tags: [Berlin,Dinner,Software Foundation,Apache Dinner Berlin,]
 ---
 
 # Third Apache Dinner Berlin

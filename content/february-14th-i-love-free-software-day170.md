@@ -1,7 +1,7 @@
 ---
 title: "February 14th: \"I love free software day\""
 date: 2012-02-13T21:07:00+01:00
-tags: Free Software,Software Foundation,FSFE,patches,
+tags: [Free Software,Software Foundation,FSFE,patches,]
 ---
 
 # February 14th: "I love free software day"

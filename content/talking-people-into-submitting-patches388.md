@@ -1,7 +1,7 @@
 ---
 title: "Talking people into submitting patches"
 date: 2011-09-21T20:22:34+02:00
-tags: ApacheCon,Apache Con,Software Foundation,patching,
+tags: [ApacheCon,Apache Con,Software Foundation,patching,]
 ---
 
 # Talking people into submitting patches

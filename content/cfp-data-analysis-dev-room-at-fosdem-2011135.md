@@ -1,7 +1,7 @@
 ---
 title: "CfP: Data Analysis Dev Room at Fosdem 2011"
 date: 2010-10-27T06:56:56+02:00
-tags: Lucene,data analysis,Hadoop,General,Mahout,Fosdem,cfp,
+tags: [Lucene,data analysis,Hadoop,General,Mahout,Fosdem,cfp,]
 ---
 
 # CfP: Data Analysis Dev Room at Fosdem 2011

@@ -1,7 +1,7 @@
 ---
 title: "Cloud Camp Berlin"
 date: 2009-03-23T13:29:47+01:00
-tags: Camp,Free Software,Event,General,
+tags: [Camp,Free Software,Event,General,]
 ---
 
 # Cloud Camp Berlin

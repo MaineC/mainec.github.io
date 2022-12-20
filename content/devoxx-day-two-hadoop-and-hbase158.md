@@ -1,7 +1,7 @@
 ---
 title: "Devoxx – Day two – Hadoop and HBase "
 date: 2010-12-08T21:24:40+01:00
-tags: hbase,Hadoop,Devoxx,General,
+tags: [hbase,Hadoop,Devoxx,General,]
 ---
 
 # Devoxx – Day two – Hadoop and HBase 

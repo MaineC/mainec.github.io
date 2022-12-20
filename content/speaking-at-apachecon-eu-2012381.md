@@ -1,7 +1,7 @@
 ---
 title: "Speaking at ApacheCon EU 2012"
 date: 2012-09-15T12:47:32+02:00
-tags: Mahout,Apache Con,apacheconeu,
+tags: [Mahout,Apache Con,apacheconeu,]
 ---
 
 # Speaking at ApacheCon EU 2012

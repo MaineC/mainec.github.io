@@ -1,7 +1,7 @@
 ---
 title: "Berlin Scrumtisch - February 2011"
 date: 2011-02-24T21:33:06+01:00
-tags: agile,coaching,Scrum,lean,
+tags: [agile,coaching,Scrum,lean,]
 ---
 
 # Berlin Scrumtisch - February 2011

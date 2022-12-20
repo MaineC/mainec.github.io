@@ -1,7 +1,7 @@
 ---
 title: "Summary - December Get Together"
 date: 2009-12-16T22:23:20+01:00
-tags: Berlin,Hadoop,Get Together,
+tags: [Berlin,Hadoop,Get Together,]
 ---
 
 # Summary - December Get Together

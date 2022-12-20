@@ -1,6 +1,7 @@
 ---
 title: "On being aggressivly public"
 date: 2014-02-01T19:06:54+01:00
+tags: []
 ---
 
 # On being aggressivly public

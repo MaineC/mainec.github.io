@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Chicago"
 date: 2012-01-22T21:56:07+01:00
-tags: teddy,chicago,General,
+tags: [teddy,chicago,General,]
 ---
 
 # Teddy in Chicago

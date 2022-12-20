@@ -1,7 +1,7 @@
 ---
 title: "Flying back home from Cologne"
 date: 2009-08-23T20:40:09+02:00
-tags: Mahout,Germany,Free Software,Software Foundation,FrOSCon,
+tags: [Mahout,Germany,Free Software,Software Foundation,FrOSCon,]
 ---
 
 # Flying back home from Cologne

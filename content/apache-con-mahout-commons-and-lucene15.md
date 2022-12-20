@@ -1,7 +1,7 @@
 ---
 title: "Apache Con – Mahout, commons and Lucene"
 date: 2010-11-26T23:21:40+01:00
-tags: Mahout,ApacheCon,Apache Con,commons,
+tags: [Mahout,ApacheCon,Apache Con,commons,]
 ---
 
 # Apache Con – Mahout, commons and Lucene

@@ -1,7 +1,7 @@
 ---
 title: "Berlin Hadoop Get Together (April 2012)- videos are up"
 date: 2012-04-23T14:22:05+02:00
-tags: GetTogether,Video,Hadoop,Get Together,giraph,
+tags: [GetTogether,Video,Hadoop,Get Together,giraph,]
 ---
 
 # Berlin Hadoop Get Together (April 2012)- videos are up

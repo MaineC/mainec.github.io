@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Meißen"
 date: 2012-10-23T20:19:07+02:00
-tags: travelling teddy,teddy,
+tags: [travelling teddy,teddy,]
 ---
 
 # Teddy in Meißen

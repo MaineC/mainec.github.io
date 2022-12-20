@@ -1,7 +1,7 @@
 ---
 title: "JAX: Does parallel equal performant?"
 date: 2013-05-21T20:34:40+02:00
-tags: performance,Java,Event,JAX,
+tags: [performance,Java,Event,JAX,]
 ---
 
 # JAX: Does parallel equal performant?

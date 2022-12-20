@@ -1,7 +1,7 @@
 ---
 title: "Looking for a dancing school in Berlin"
 date: 2009-09-24T20:23:28+02:00
-tags: Freetime,
+tags: [Freetime,]
 ---
 
 # Looking for a dancing school in Berlin

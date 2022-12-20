@@ -1,7 +1,7 @@
 ---
 title: "Scrum discussions in Berlin"
 date: 2009-03-07T20:11:03+01:00
-tags: Scrum,Blogroll,
+tags: [Scrum,Blogroll,]
 ---
 
 # Scrum discussions in Berlin

@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Atlanta"
 date: 2010-11-28T23:24:29+01:00
-tags: Atlanta,ApacheCon,Apache Con,teddy,
+tags: [Atlanta,ApacheCon,Apache Con,teddy,]
 ---
 
 # Teddy in Atlanta

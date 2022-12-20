@@ -1,7 +1,7 @@
 ---
 title: "Two days on Rügen"
 date: 2009-09-06T15:50:04+02:00
-tags: Freetime,trip,
+tags: [Freetime,trip,]
 ---
 
 # Two days on Rügen

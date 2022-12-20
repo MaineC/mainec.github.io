@@ -1,7 +1,7 @@
 ---
 title: "Scaling user groups"
 date: 2010-05-26T19:32:39+02:00
-tags: Lucene,NOSQL,Hadoop,General,Mahout,Berlin Buzzwords,Meetups,Solr,Get Together,
+tags: [Lucene,NOSQL,Hadoop,General,Mahout,Berlin Buzzwords,Meetups,Solr,Get Together,]
 ---
 
 # Scaling user groups

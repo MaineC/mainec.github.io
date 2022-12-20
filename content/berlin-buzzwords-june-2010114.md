@@ -1,7 +1,7 @@
 ---
 title: "Berlin Buzzwords - June 2010"
 date: 2010-02-11T22:42:16+01:00
-tags: NOSQL,Hadoop,General,Lucene,Berlin,Berlin Buzzwords,
+tags: [NOSQL,Hadoop,General,Lucene,Berlin,Berlin Buzzwords,]
 ---
 
 # Berlin Buzzwords - June 2010

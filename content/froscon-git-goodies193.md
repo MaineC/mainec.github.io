@@ -1,7 +1,7 @@
 ---
 title: "FrOSCon - Git Goodies"
 date: 2012-09-05T20:34:14+02:00
-tags: Hacking,git,FrOSCon,
+tags: [Hacking,git,FrOSCon,]
 ---
 
 # FrOSCon - Git Goodies

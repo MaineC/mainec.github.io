@@ -1,7 +1,7 @@
 ---
 title: "Open Source Expo 09"
 date: 2009-11-16T22:17:36+01:00
-tags: Lucene,yacy,General,Mahout,ose09,Software Foundation,
+tags: [Lucene,yacy,General,Mahout,ose09,Software Foundation,]
 ---
 
 # Open Source Expo 09

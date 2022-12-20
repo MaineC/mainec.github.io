@@ -1,7 +1,7 @@
 ---
 title: "Apache Dinner Berlin"
 date: 2011-02-28T06:06:35+01:00
-tags: Berlin,Apache Dinner Berlin,Apache Dinner,
+tags: [Berlin,Apache Dinner Berlin,Apache Dinner,]
 ---
 
 # Apache Dinner Berlin

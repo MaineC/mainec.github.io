@@ -1,7 +1,7 @@
 ---
 title: "FSFE booth at the Chemnitzer Linux Tage"
 date: 2009-03-23T08:30:39+01:00
-tags: Free Software,Event,FSFE,General,
+tags: [Free Software,Event,FSFE,General,]
 ---
 
 # FSFE booth at the Chemnitzer Linux Tage

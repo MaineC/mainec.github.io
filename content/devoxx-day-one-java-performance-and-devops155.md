@@ -1,7 +1,7 @@
 ---
 title: "Devoxx – Day one – Java, Performance and Devops  "
 date: 2010-12-15T21:22:06+01:00
-tags: Java,devops,General,performance,optimisation,Devoxx,
+tags: [Java,devops,General,performance,optimisation,Devoxx,]
 ---
 
 # Devoxx – Day one – Java, Performance and Devops  

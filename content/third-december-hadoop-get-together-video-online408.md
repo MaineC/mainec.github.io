@@ -1,7 +1,7 @@
 ---
 title: "Third \"December Hadoop Get Together\" video online"
 date: 2010-01-05T19:29:28+01:00
-tags: Sun,Berlin,Video,Hadoop,Get Together,
+tags: [Sun,Berlin,Video,Hadoop,Get Together,]
 ---
 
 # Third "December Hadoop Get Together" video online

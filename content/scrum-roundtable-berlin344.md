@@ -1,7 +1,7 @@
 ---
 title: "Scrum Roundtable Berlin"
 date: 2009-03-09T14:51:23+01:00
-tags: Scrum,Event,General,
+tags: [Scrum,Event,General,]
 ---
 
 # Scrum Roundtable Berlin

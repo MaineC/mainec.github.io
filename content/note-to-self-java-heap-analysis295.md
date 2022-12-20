@@ -1,7 +1,7 @@
 ---
 title: "Note to self - Java heap analysis"
 date: 2012-02-09T21:30:21+01:00
-tags: Hacking,Java,troubleshooting,heap,Note to Self,
+tags: [Hacking,Java,troubleshooting,heap,Note to Self,]
 ---
 
 # Note to self - Java heap analysis

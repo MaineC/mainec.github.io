@@ -1,7 +1,7 @@
 ---
 title: "Preparation done - clock is ticking"
 date: 2012-05-31T21:24:11+02:00
-tags: Berlin,Berlin Buzzwords,
+tags: [Berlin,Berlin Buzzwords,]
 ---
 
 # Preparation done - clock is ticking

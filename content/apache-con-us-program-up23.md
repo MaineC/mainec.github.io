@@ -1,7 +1,7 @@
 ---
 title: "Apache Con US - Program up"
 date: 2009-10-29T07:35:43+01:00
-tags: Conference,California,Apache Con,Software Foundation,
+tags: [Conference,California,Apache Con,Software Foundation,]
 ---
 
 # Apache Con US - Program up

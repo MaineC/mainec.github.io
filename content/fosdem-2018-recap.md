@@ -1,8 +1,8 @@
 ---
 title: "FOSDEM 2018 - recap"
 date: 2018-02-13T07:13:20+01:00
-tags: Fosdem, Open Source 
-categories: Fosdem, Open Source
+tags: [Fosdem, Open Source ]
+categories: [Fosdem, Open Source]
 ---
 
 # FOSDEM 2018 - recap

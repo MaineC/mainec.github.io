@@ -1,7 +1,7 @@
 ---
 title: "Inglourious Basterds"
 date: 2009-08-24T22:48:13+02:00
-tags: Mahout,Odeon,Software Foundation,cinema,
+tags: [Mahout,Odeon,Software Foundation,cinema,]
 ---
 
 # Inglourious Basterds

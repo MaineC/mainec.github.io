@@ -1,7 +1,7 @@
 ---
 title: "Apache Dinner October Today in Potsdam"
 date: 2010-10-04T08:16:14+02:00
-tags: Potsdam,Dinner,Apache Dinner Berlin,Software Foundation,Apache Dinner,
+tags: [Potsdam,Dinner,Apache Dinner Berlin,Software Foundation,Apache Dinner,]
 ---
 
 # Apache Dinner October Today in Potsdam

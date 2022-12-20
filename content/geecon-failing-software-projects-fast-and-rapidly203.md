@@ -1,7 +1,7 @@
 ---
 title: "GeeCon - failing software projects fast and rapidly"
 date: 2012-05-23T08:04:56+02:00
-tags: management,Scrum,Free Software,geecon,
+tags: [management,Scrum,Free Software,geecon,]
 ---
 
 # GeeCon - failing software projects fast and rapidly

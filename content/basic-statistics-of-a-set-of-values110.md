@@ -1,7 +1,7 @@
 ---
 title: "Basic statistics of a set of values"
 date: 2009-03-09T11:21:51+01:00
-tags: Hacking,Statistics,
+tags: [Hacking,Statistics,]
 ---
 
 # Basic statistics of a set of values

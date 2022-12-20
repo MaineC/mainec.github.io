@@ -1,8 +1,8 @@
 ---
 title: "FOSS Backstage - CfP open"
 date: 2018-01-23T17:21:31+01:00
-tags: FOSS Backstage, Conference, Open Source
-categories: Open Source
+tags: [FOSS Backstage, Conference, Open Source]
+categories: [Open Source]
 ---
 
 # FOSS Backstage - CfP open

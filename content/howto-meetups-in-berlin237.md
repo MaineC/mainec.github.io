@@ -1,7 +1,7 @@
 ---
 title: "HowTo: Meetups in Berlin"
 date: 2012-02-14T20:23:32+01:00
-tags: meetup,Checklist,howto,Meetups,General,
+tags: [meetup,Checklist,howto,Meetups,General,]
 ---
 
 # HowTo: Meetups in Berlin

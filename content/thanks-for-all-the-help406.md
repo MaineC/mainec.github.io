@@ -1,7 +1,7 @@
 ---
 title: "Thanks for all the help"
 date: 2012-12-31T11:24:44+01:00
-tags: Free Software,Thanks,General,
+tags: [Free Software,Thanks,General,]
 ---
 
 # Thanks for all the help

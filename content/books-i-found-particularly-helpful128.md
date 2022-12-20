@@ -1,7 +1,7 @@
 ---
 title: "Books I found particularly helpful"
 date: 2009-03-12T18:44:44+01:00
-tags: Programming,Hacking,book,Java,
+tags: [Programming,Hacking,book,Java,]
 ---
 
 # Books I found particularly helpful

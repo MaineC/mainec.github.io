@@ -1,8 +1,8 @@
 ---
 title: "FOSS Backstage - Schedule online"
 date: 2018-04-17T09:27:09+02:00
-tags: fossback, FOSS, Apache
-categories: fossback, events
+tags: [fossback, FOSS, Apache]
+categories: [fossback, events]
 ---
 
 # FOSS Backstage - Schedule online

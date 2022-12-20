@@ -1,7 +1,7 @@
 ---
 title: "I love FS 2014"
 date: 2014-02-13T16:49:25+01:00
-tags: valentine, FSFE, i_love_fs 
+tags: [valentine, FSFE, i_love_fs ]
 ---
 
 # I love FS 2014

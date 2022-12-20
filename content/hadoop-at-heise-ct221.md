@@ -1,7 +1,7 @@
 ---
 title: "Hadoop at Heise c't"
 date: 2010-01-31T13:37:19+01:00
-tags: Hadoop,General,Lucene,Berlin,heise,Apache Con,Get Together,
+tags: [Hadoop,General,Lucene,Berlin,heise,Apache Con,Get Together,]
 ---
 
 # Hadoop at Heise c't

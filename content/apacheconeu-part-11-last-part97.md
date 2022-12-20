@@ -1,7 +1,7 @@
 ---
 title: "ApacheConEU - part 11 (last part)"
 date: 2012-11-20T20:35:21+01:00
-tags: buildr,ApacheCon,Apache Con,log4j,apacheconeu,
+tags: [buildr,ApacheCon,Apache Con,log4j,apacheconeu,]
 ---
 
 # ApacheConEU - part 11 (last part)

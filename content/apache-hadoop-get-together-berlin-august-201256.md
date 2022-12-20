@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop Get Together Berlin - August 2012"
 date: 2012-08-15T23:30:29+02:00
-tags: GetTogether,Cascalog,hcatalog,Hadoop,hive,Pig,Berlin,Get Together,
+tags: [GetTogether,Cascalog,hcatalog,Hadoop,hive,Pig,Berlin,Get Together,]
 ---
 
 # Apache Hadoop Get Together Berlin - August 2012

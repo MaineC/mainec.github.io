@@ -1,7 +1,7 @@
 ---
 title: "Apache Con NA"
 date: 2011-10-25T10:50:23+02:00
-tags: Vancouver,ApacheConNA,Apache Con,
+tags: [Vancouver,ApacheConNA,Apache Con,]
 ---
 
 # Apache Con NA

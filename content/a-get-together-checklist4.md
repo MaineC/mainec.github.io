@@ -1,7 +1,7 @@
 ---
 title: "A Get Together Checklist"
 date: 2010-10-06T19:38:28+02:00
-tags: Checklist,Hacking,Freetime,Get Together,
+tags: [Checklist,Hacking,Freetime,Get Together,]
 ---
 
 # A Get Together Checklist

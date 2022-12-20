@@ -1,7 +1,7 @@
 ---
 title: "Dorkbot Berlin"
 date: 2012-01-30T23:18:46+01:00
-tags: Hacking,c-base,
+tags: [Hacking,c-base,]
 ---
 
 # Dorkbot Berlin

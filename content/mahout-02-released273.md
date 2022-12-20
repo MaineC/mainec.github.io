@@ -1,7 +1,7 @@
 ---
 title: "Mahout 0.2 released"
 date: 2009-11-18T10:52:04+01:00
-tags: Mahout,release,announce,Hadoop,Software Foundation,
+tags: [Mahout,release,announce,Hadoop,Software Foundation,]
 ---
 
 # Mahout 0.2 released

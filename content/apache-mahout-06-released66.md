@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout 0.6 released"
 date: 2012-02-08T21:33:37+01:00
-tags: Mahout,Apache,mongodb,Cassandra,
+tags: [Mahout,Apache,mongodb,Cassandra,]
 ---
 
 # Apache Mahout 0.6 released

@@ -1,7 +1,7 @@
 ---
 title: "ApacheConNA: Misc"
 date: 2013-05-15T20:26:39+02:00
-tags: spdy,Httpd,ApacheConNA,ApacheCon,Apache Con,
+tags: [spdy,Httpd,ApacheConNA,ApacheCon,Apache Con,]
 ---
 
 # ApacheConNA: Misc

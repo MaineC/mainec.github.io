@@ -1,7 +1,7 @@
 ---
 title: "Visiting Berlin Buzzwords - where to go for drinks and food"
 date: 2012-03-07T19:39:50+01:00
-tags: Relocating to Berlin,Berlin,tourist,
+tags: [Relocating to Berlin,Berlin,tourist,]
 ---
 
 # Visiting Berlin Buzzwords - where to go for drinks and food

@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop Get Together Berlin - October 2010"
 date: 2010-09-15T07:31:13+02:00
-tags: Mahout,Hadoop,Get Together,General,
+tags: [Mahout,Hadoop,Get Together,General,]
 ---
 
 # Apache Hadoop Get Together Berlin - October 2010

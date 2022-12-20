@@ -1,7 +1,7 @@
 ---
 title: "Video: Max Jacob on Pig for NLP"
 date: 2011-12-09T21:26:26+01:00
-tags: neofonie,Video,Hadoop,Get Together,Pig,
+tags: [neofonie,Video,Hadoop,Get Together,Pig,]
 ---
 
 # Video: Max Jacob on Pig for NLP

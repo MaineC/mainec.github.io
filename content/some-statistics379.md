@@ -1,7 +1,7 @@
 ---
 title: "Some statistics"
 date: 2010-08-11T20:03:35+02:00
-tags: Open Source,Free Software,Metrics,involvement,Professional support,Hacking,
+tags: [Open Source,Free Software,Metrics,involvement,Professional support,Hacking,]
 ---
 
 # Some statistics

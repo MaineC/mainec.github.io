@@ -1,7 +1,7 @@
 ---
 title: "AMQP Erlang user group talk"
 date: 2009-07-10T15:56:38+02:00
-tags: Messaging,Hacking,Erlang,Free Software,General,
+tags: [Messaging,Hacking,Erlang,Free Software,General,]
 ---
 
 # AMQP Erlang user group talk

@@ -1,7 +1,7 @@
 ---
 title: "Apache Dinner June 2010"
 date: 2010-06-09T23:54:45+02:00
-tags: Apache Dinner Berlin,Hadoop,Lucene,Dinner,Software Foundation,Berlin Buzzwords,
+tags: [Apache Dinner Berlin,Hadoop,Lucene,Dinner,Software Foundation,Berlin Buzzwords,]
 ---
 
 # Apache Dinner June 2010

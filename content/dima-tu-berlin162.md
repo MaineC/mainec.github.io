@@ -1,7 +1,7 @@
 ---
 title: "DIMA @ TU Berlin"
 date: 2009-05-03T07:26:07+02:00
-tags: Research,Information Retrieval,Hadoop,TU Berlin,General,
+tags: [Research,Information Retrieval,Hadoop,TU Berlin,General,]
 ---
 
 # DIMA @ TU Berlin

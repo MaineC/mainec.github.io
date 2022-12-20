@@ -1,7 +1,7 @@
 ---
 title: "Slides are available"
 date: 2010-03-11T00:49:41+01:00
-tags: Hadoop,Lucene,Spatial,hbase,Solr,Get Together,
+tags: [Hadoop,Lucene,Spatial,hbase,Solr,Get Together,]
 ---
 
 # Slides are available

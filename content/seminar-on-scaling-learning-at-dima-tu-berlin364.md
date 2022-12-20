@@ -1,7 +1,7 @@
 ---
 title: "Seminar on scaling learning at DIMA TU Berlin"
 date: 2010-03-17T21:10:38+01:00
-tags: Learning To Rank,dima,dups,NOSQL,Science,mapreduce,Mahout,topic tracking,topic detection,hbase,pnuts,TU Berlin,
+tags: [Learning To Rank,dima,dups,NOSQL,Science,mapreduce,Mahout,topic tracking,topic detection,hbase,pnuts,TU Berlin,]
 ---
 
 # Seminar on scaling learning at DIMA TU Berlin

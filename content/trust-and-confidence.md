@@ -1,8 +1,8 @@
 ---
 title: "Trust and confidence"
 date: 2017-12-06T06:48:23+01:00
-tags: Open Source, confidence, trust, delegation
-categories: Open Source
+tags: [Open Source, confidence, trust, delegation]
+categories: [Open Source]
 ---
 
 # Trust and confidence

@@ -1,7 +1,7 @@
 ---
 title: "ApacheConEU - part 08"
 date: 2012-11-17T20:53:23+01:00
-tags: ApacheCon,Apache Con,community,CouchDB,apacheconeu,
+tags: [ApacheCon,Apache Con,community,CouchDB,apacheconeu,]
 ---
 
 # ApacheConEU - part 08

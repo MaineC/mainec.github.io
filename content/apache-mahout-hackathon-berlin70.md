@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout Hackathon Berlin"
 date: 2010-12-14T20:50:42+01:00
-tags: Mahout,Hadoop,
+tags: [Mahout,Hadoop,]
 ---
 
 # Apache Mahout Hackathon Berlin

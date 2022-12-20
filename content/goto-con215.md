@@ -1,7 +1,7 @@
 ---
 title: "GoTo Con"
 date: 2011-10-10T20:49:38+02:00
-tags: Mahout,AMS,GoTo,General,
+tags: [Mahout,AMS,GoTo,General,]
 ---
 
 # GoTo Con

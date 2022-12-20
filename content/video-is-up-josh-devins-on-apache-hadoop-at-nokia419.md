@@ -1,7 +1,7 @@
 ---
 title: "Video is up - Josh Devins on Apache Hadoop at Nokia"
 date: 2011-02-21T21:19:55+01:00
-tags: Apache Hadoop,Berlin,Video,Get Together,Apache Hadoop Get Together,
+tags: [Apache Hadoop,Berlin,Video,Get Together,Apache Hadoop Get Together,]
 ---
 
 # Video is up - Josh Devins on Apache Hadoop at Nokia

@@ -1,7 +1,7 @@
 ---
 title: "Recsys meetup Berlin"
 date: 2012-07-25T01:31:47+02:00
-tags: Mahout,Berlin,recommender,Event,
+tags: [Mahout,Berlin,recommender,Event,]
 ---
 
 # Recsys meetup Berlin

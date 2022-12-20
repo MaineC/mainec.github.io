@@ -1,7 +1,7 @@
 ---
 title: "NoSQL summer Berlin - this evening"
 date: 2010-08-11T06:38:02+02:00
-tags: Science,Berlin,Freetime,NOSQL,
+tags: [Science,Berlin,Freetime,NOSQL,]
 ---
 
 # NoSQL summer Berlin - this evening

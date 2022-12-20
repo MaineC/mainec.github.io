@@ -1,7 +1,7 @@
 ---
 title: "GeeCon - Solr at Allegro"
 date: 2012-05-25T08:07:06+02:00
-tags: Lucene,geecon,Solr,
+tags: [Lucene,geecon,Solr,]
 ---
 
 # GeeCon - Solr at Allegro

@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM II 2011"
 date: 2011-01-23T15:46:32+01:00
-tags: Apache Mahout,Fosdem,Event,General,
+tags: [Apache Mahout,Fosdem,Event,General,]
 ---
 
 # FOSDEM II 2011

@@ -1,7 +1,7 @@
 ---
 title: "One year coding with \"Das Keyboard\""
 date: 2009-10-04T19:47:35+02:00
-tags: Hacking,gadget,
+tags: [Hacking,gadget,]
 ---
 
 # One year coding with "Das Keyboard"

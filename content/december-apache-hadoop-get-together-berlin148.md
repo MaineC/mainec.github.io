@@ -1,7 +1,7 @@
 ---
 title: "December Apache Hadoop Get Together @ Berlin"
 date: 2009-11-15T18:01:16+01:00
-tags: newthinking,Berlin,Hadoop,Get Together,Software Foundation,
+tags: [newthinking,Berlin,Hadoop,Get Together,Software Foundation,]
 ---
 
 # December Apache Hadoop Get Together @ Berlin

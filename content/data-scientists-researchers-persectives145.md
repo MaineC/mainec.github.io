@@ -1,7 +1,7 @@
 ---
 title: "Data Scientists - researchers' persectives"
 date: 2012-08-03T20:35:58+02:00
-tags: Science,data science,Statistics,Machine Learning,
+tags: [Science,data science,Statistics,Machine Learning,]
 ---
 
 # Data Scientists - researchers' persectives

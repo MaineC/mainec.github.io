@@ -1,7 +1,7 @@
 ---
 title: "Reasons for you to visit Berlin Buzzwords"
 date: 2012-01-15T19:59:00+01:00
-tags: Relocating to Berlin,ostsee,ruegen,vacation,Berlin,paddeln,Berlin Buzzwords,Spreewald,
+tags: [Relocating to Berlin,ostsee,ruegen,vacation,Berlin,paddeln,Berlin Buzzwords,Spreewald,]
 ---
 
 # Reasons for you to visit Berlin Buzzwords

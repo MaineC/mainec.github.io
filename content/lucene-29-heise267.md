@@ -1,7 +1,7 @@
 ---
 title: "Lucene 2.9 @ Heise"
 date: 2009-10-06T18:13:12+02:00
-tags: Lucene,press,Hadoop,Get Together,Software Foundation,
+tags: [Lucene,press,Hadoop,Get Together,Software Foundation,]
 ---
 
 # Lucene 2.9 @ Heise

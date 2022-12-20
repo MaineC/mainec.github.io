@@ -1,7 +1,7 @@
 ---
 title: "Getting a Ubuntu Laptop setup for my Mum"
 date: 2010-05-17T19:15:31+02:00
-tags: Laptop,Free Software,Freetime,Ubuntu,
+tags: [Laptop,Free Software,Freetime,Ubuntu,]
 ---
 
 # Getting a Ubuntu Laptop setup for my Mum

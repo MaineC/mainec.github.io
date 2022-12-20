@@ -1,7 +1,7 @@
 ---
 title: "Scrum done wrong"
 date: 2012-01-22T06:39:11+01:00
-tags: agile,plato,Scrum,
+tags: [agile,plato,Scrum,]
 ---
 
 # Scrum done wrong

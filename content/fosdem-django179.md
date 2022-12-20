@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM - Django"
 date: 2011-02-16T20:17:38+01:00
-tags: Django,Brussels,Fosdem,General,
+tags: [Django,Brussels,Fosdem,General,]
 ---
 
 # FOSDEM - Django

@@ -1,7 +1,7 @@
 ---
 title: "One day later"
 date: 2012-01-05T23:57:25+01:00
-tags: Hacking,arduino,
+tags: [Hacking,arduino,]
 ---
 
 # One day later

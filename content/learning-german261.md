@@ -1,7 +1,7 @@
 ---
 title: "Learning German"
 date: 2012-09-14T08:07:09+02:00
-tags: German,Relocating to Berlin,Berlin,
+tags: [German,Relocating to Berlin,Berlin,]
 ---
 
 # Learning German

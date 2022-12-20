@@ -1,7 +1,7 @@
 ---
 title: "Travelling"
 date: 2010-11-22T23:17:49+01:00
-tags: ApacheCon,codebits,Schiphol,General,Lisbon,Apache Con,Software Foundation,Devoxx,
+tags: [ApacheCon,codebits,Schiphol,General,Lisbon,Apache Con,Software Foundation,Devoxx,]
 ---
 
 # Travelling

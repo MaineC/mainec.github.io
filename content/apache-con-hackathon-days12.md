@@ -1,7 +1,7 @@
 ---
 title: "Apache Con – Hackathon days"
 date: 2010-11-23T23:17:53+01:00
-tags: ApacheCon,Apache Con,Hackathon,
+tags: [ApacheCon,Apache Con,Hackathon,]
 ---
 
 # Apache Con – Hackathon days

@@ -1,7 +1,7 @@
 ---
 title: "FrOSCon - on teaching"
 date: 2012-09-09T08:17:38+02:00
-tags: education,FrOSCon,General,
+tags: [education,FrOSCon,General,]
 ---
 
 # FrOSCon - on teaching

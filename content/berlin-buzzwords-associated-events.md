@@ -1,7 +1,7 @@
 ---
 title: "Berlin Buzzwords - Associated Events"
 date: 2014-02-13T17:00:35+01:00
-tags: Berlin Buzzwords 
+tags: [Berlin Buzzwords ]
 ---
 
 # Berlin Buzzwords - Associated Events

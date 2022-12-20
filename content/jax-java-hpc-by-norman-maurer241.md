@@ -1,7 +1,7 @@
 ---
 title: "JAX: Java HPC by Norman Maurer"
 date: 2013-05-19T20:31:16+02:00
-tags: performance,Event,JAX,netty,
+tags: [performance,Event,JAX,netty,]
 ---
 
 # JAX: Java HPC by Norman Maurer

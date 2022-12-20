@@ -1,7 +1,7 @@
 ---
 title: "BigDataCon"
 date: 2013-05-17T20:29:03+02:00
-tags: BigDataCon,Event,JAX,
+tags: [BigDataCon,Event,JAX,]
 ---
 
 # BigDataCon

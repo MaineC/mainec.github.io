@@ -1,8 +1,8 @@
 ---
 title: "An argument against proxies"
 date: 2018-03-08T18:53:09+01:00
-tags: Open Source, governance 
-categories: governance
+tags: [Open Source, governance ]
+categories: [governance]
 ---
 
 # An argument against proxies

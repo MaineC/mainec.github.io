@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Down Under"
 date: 2012-10-24T20:24:23+02:00
-tags: travelling teddy,teddy,
+tags: [travelling teddy,teddy,]
 ---
 
 # Teddy in Down Under

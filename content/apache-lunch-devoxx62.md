@@ -1,7 +1,7 @@
 ---
 title: "Apache Lunch Devoxx "
 date: 2010-12-11T21:30:10+01:00
-tags: apache lunch,antwerp,Software Foundation,Devoxx,General,
+tags: [apache lunch,antwerp,Software Foundation,Devoxx,General,]
 ---
 
 # Apache Lunch Devoxx 

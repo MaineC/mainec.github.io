@@ -1,7 +1,7 @@
 ---
 title: "Building a Hadoop Job Jar with Maven"
 date: 2010-03-11T19:16:14+01:00
-tags: Maven,Job,Hadoop,Note to Self,
+tags: [Maven,Job,Hadoop,Note to Self,]
 ---
 
 # Building a Hadoop Job Jar with Maven

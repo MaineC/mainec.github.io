@@ -1,7 +1,7 @@
 ---
 title: "FrOSCon - Robust Linux embedded platform"
 date: 2012-09-04T20:05:03+02:00
-tags: open embedded,FrOSCon,Event,General,
+tags: [open embedded,FrOSCon,Event,General,]
 ---
 
 # FrOSCon - Robust Linux embedded platform

@@ -1,7 +1,7 @@
 ---
 title: "Slides are up"
 date: 2009-09-30T09:02:43+02:00
-tags: Slides,Berlin,Hadoop,Get Together,
+tags: [Slides,Berlin,Hadoop,Get Together,]
 ---
 
 # Slides are up

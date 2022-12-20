@@ -1,7 +1,7 @@
 ---
 title: "With a little help from my friends"
 date: 2009-12-31T23:55:22+01:00
-tags: Lucene,Hadoop,Mahout,Berlin,Thanks,TU Berlin,
+tags: [Lucene,Hadoop,Mahout,Berlin,Thanks,TU Berlin,]
 ---
 
 # With a little help from my friends

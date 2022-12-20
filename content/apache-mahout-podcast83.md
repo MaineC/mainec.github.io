@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout Podcast"
 date: 2010-12-13T21:21:05+01:00
-tags: Apache Mahout,Mahout,ApacheConNA,Interview,Apache Con,Software Foundation,
+tags: [Apache Mahout,Mahout,ApacheConNA,Interview,Apache Con,Software Foundation,]
 ---
 
 # Apache Mahout Podcast

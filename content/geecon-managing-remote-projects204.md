@@ -1,7 +1,7 @@
 ---
 title: "GeeCon - managing remote projects"
 date: 2012-05-24T08:05:54+02:00
-tags: telecommuting,management,Scrum,geecon,
+tags: [telecommuting,management,Scrum,geecon,]
 ---
 
 # GeeCon - managing remote projects

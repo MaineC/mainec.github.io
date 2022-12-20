@@ -1,7 +1,7 @@
 ---
 title: "Apache Dinner Berlin - next Monday"
 date: 2010-04-12T08:00:45+02:00
-tags: Berlin,Software Foundation,Apache Dinner Berlin,
+tags: [Berlin,Software Foundation,Apache Dinner Berlin,]
 ---
 
 # Apache Dinner Berlin - next Monday

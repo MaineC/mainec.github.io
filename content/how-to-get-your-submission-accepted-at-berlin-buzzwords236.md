@@ -1,7 +1,7 @@
 ---
 title: "How to get your submission accepted at Berlin Buzzwords"
 date: 2013-05-07T11:21:48+02:00
-tags: review,talk selection,Berlin Buzzwords,Uncategorized,
+tags: [review,talk selection,Berlin Buzzwords,Uncategorized,]
 ---
 
 # How to get your submission accepted at Berlin Buzzwords

@@ -1,7 +1,7 @@
 ---
 title: "Coaching self-organising teams"
 date: 2010-03-30T21:58:54+02:00
-tags: scrum master,management,product owner,Scrum,Berlin,scrumtisch,team,
+tags: [scrum master,management,product owner,Scrum,Berlin,scrumtisch,team,]
 ---
 
 # Coaching self-organising teams

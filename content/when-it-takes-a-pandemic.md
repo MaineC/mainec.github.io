@@ -1,6 +1,8 @@
 ---
 title: "When it takes a pandemic ..."
 date: 2021-05-25T20:12:03+02:00
+tags: []
+categories: []
 ---
 
 # When it takes a pandemic ...

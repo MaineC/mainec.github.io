@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout 0.4 release"
 date: 2010-11-03T15:21:28+01:00
-tags: Mahout,release,Apache Mahout,
+tags: [Mahout,release,Apache Mahout,]
 ---
 
 # Apache Mahout 0.4 release

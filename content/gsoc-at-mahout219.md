@@ -1,7 +1,7 @@
 ---
 title: "GSoC at Mahout"
 date: 2009-09-09T22:22:02+02:00
-tags: Mahout,Software Foundation,
+tags: [Mahout,Software Foundation,]
 ---
 
 # GSoC at Mahout

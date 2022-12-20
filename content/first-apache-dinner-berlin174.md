@@ -1,7 +1,7 @@
 ---
 title: "First Apache Dinner Berlin"
 date: 2009-11-25T02:33:44+01:00
-tags: Software Foundation,Apache Dinner,
+tags: [Software Foundation,Apache Dinner,]
 ---
 
 # First Apache Dinner Berlin

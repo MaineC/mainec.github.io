@@ -1,7 +1,7 @@
 ---
 title: "Apache Con drawing closer"
 date: 2009-09-04T06:47:14+02:00
-tags: Hacking,Apache Con,Software Foundation,Apache Con US,
+tags: [Hacking,Apache Con,Software Foundation,Apache Con US,]
 ---
 
 # Apache Con drawing closer

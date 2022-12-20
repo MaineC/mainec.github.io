@@ -1,7 +1,7 @@
 ---
 title: "ApacheCon EU - part 09"
 date: 2012-11-18T20:54:29+01:00
-tags: tfidf,Apache Con,ApacheCon,Lucene,ap,apacheconeu,Solr,
+tags: [tfidf,Apache Con,ApacheCon,Lucene,ap,apacheconeu,Solr,]
 ---
 
 # ApacheCon EU - part 09

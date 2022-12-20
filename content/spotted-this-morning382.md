@@ -1,7 +1,7 @@
 ---
 title: "Spotted this morning..."
 date: 2012-08-16T22:03:28+02:00
-tags: maps,Hacking,nokia,Navteq,
+tags: [maps,Hacking,nokia,Navteq,]
 ---
 
 # Spotted this morning...

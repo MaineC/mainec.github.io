@@ -1,7 +1,7 @@
 ---
 title: "Frau Holle, Frau Holle"
 date: 2010-12-05T18:32:10+01:00
-tags: snow,Berlin,Freetime,winter,
+tags: [snow,Berlin,Freetime,winter,]
 ---
 
 # Frau Holle, Frau Holle

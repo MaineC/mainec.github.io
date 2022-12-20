@@ -1,7 +1,7 @@
 ---
 title: "Apache Con – Hadoop, HBase, Httpd"
 date: 2010-11-24T23:19:10+01:00
-tags: Httpd,ApacheCon,Hadoop,Atlanta,Apache Con,hbase,
+tags: [Httpd,ApacheCon,Hadoop,Atlanta,Apache Con,hbase,]
 ---
 
 # Apache Con – Hadoop, HBase, Httpd

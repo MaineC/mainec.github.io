@@ -1,7 +1,7 @@
 ---
 title: "Berlin Buzzwords 2012 - Call for submissions"
 date: 2012-01-13T19:15:11+01:00
-tags: Berlin Buzzwords,
+tags: [Berlin Buzzwords,]
 ---
 
 # Berlin Buzzwords 2012 - Call for submissions

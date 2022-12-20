@@ -1,7 +1,7 @@
 ---
 title: "Berlin hospital chaos (Charite)"
 date: 2009-12-02T08:05:15+01:00
-tags: hospital,Freetime,wtf,
+tags: [hospital,Freetime,wtf,]
 ---
 
 # Berlin hospital chaos (Charite)

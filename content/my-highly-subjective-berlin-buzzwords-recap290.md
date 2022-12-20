@@ -1,7 +1,7 @@
 ---
 title: "My highly subjective Berlin Buzzwords recap"
 date: 2010-06-13T18:32:53+02:00
-tags: Lucene,NOSQL,Hadoop,General,Mahout,Berlin Buzzwords,Software Foundation,Get Together,
+tags: [Lucene,NOSQL,Hadoop,General,Mahout,Berlin Buzzwords,Software Foundation,Get Together,]
 ---
 
 # My highly subjective Berlin Buzzwords recap

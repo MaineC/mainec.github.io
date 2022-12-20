@@ -1,8 +1,8 @@
 ---
 title: "Open Source Summit Prague 2017 - part 1"
 date: 2017-10-23T13:18:47+02:00
-tags: Open Source, Linux Foundation, Conference
-categories: Conference
+tags: [Open Source, Linux Foundation, Conference]
+categories: [Conference]
 ---
 
 # Open Source Summit Prague 2017 - part 1

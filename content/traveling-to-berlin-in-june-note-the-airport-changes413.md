@@ -1,7 +1,7 @@
 ---
 title: "Traveling to Berlin in June? Update: No airport changes!"
 date: 2012-05-01T09:23:09+02:00
-tags: airport,Berlin Buzzwords,
+tags: [airport,Berlin Buzzwords,]
 ---
 
 # Traveling to Berlin in June? Update: No airport changes!

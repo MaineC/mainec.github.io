@@ -1,7 +1,7 @@
 ---
 title: "September Apache Hadoop Get Together @ Berlin"
 date: 2009-08-23T20:48:47+02:00
-tags: General,Hadoop,Get Together,Software Foundation,
+tags: [General,Hadoop,Get Together,Software Foundation,]
 ---
 
 # September Apache Hadoop Get Together @ Berlin

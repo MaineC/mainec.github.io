@@ -1,7 +1,7 @@
 ---
 title: "JAX: Hadoop overview by Bernd Fondermann"
 date: 2013-05-18T20:29:57+02:00
-tags: BigDataCon,Hadoop,JAX,Event,
+tags: [BigDataCon,Hadoop,JAX,Event,]
 ---
 
 # JAX: Hadoop overview by Bernd Fondermann

@@ -1,7 +1,7 @@
 ---
 title: "Hello elasticsearch"
 date: 2013-12-02T20:17:49+01:00
-tags: Lucene, elasticsearch 
+tags: [Lucene, elasticsearch ]
 ---
 
 # Hello elasticsearch

@@ -1,7 +1,7 @@
 ---
 title: "Apache dinner wrap-up"
 date: 2010-09-21T22:19:22+02:00
-tags: Dinner,Apache Dinner Berlin,Apache Dinner,
+tags: [Dinner,Apache Dinner Berlin,Apache Dinner,]
 ---
 
 # Apache dinner wrap-up

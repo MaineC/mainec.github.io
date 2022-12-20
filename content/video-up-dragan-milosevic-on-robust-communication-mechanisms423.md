@@ -1,7 +1,7 @@
 ---
 title: "Video up: Dragan Milosevic on \"Robust Communication Mechanisms\" "
 date: 2012-09-11T08:06:27+02:00
-tags: hadoop get together,rpc,Video,Get Together,
+tags: [hadoop get together,rpc,Video,Get Together,]
 ---
 
 # Video up: Dragan Milosevic on "Robust Communication Mechanisms" 

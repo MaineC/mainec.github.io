@@ -1,7 +1,7 @@
 ---
 title: "Data serialization"
 date: 2009-06-26T08:39:47+02:00
-tags: Avro,Data Serialization,General,Protocol Buffers,Etch,Get Together,Thrift,
+tags: [Avro,Data Serialization,General,Protocol Buffers,Etch,Get Together,Thrift,]
 ---
 
 # Data serialization

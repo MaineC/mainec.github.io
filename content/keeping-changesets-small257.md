@@ -1,7 +1,7 @@
 ---
 title: "Keeping changesets small"
 date: 2009-06-21T20:48:19+02:00
-tags: svn,Hacking,
+tags: [svn,Hacking,]
 ---
 
 # Keeping changesets small

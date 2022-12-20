@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Portugal"
 date: 2010-07-08T20:32:06+02:00
-tags: Lisboa,teddy,Freetime,vacation,
+tags: [Lisboa,teddy,Freetime,vacation,]
 ---
 
 # Teddy in Portugal

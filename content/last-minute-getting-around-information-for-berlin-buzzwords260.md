@@ -1,7 +1,7 @@
 ---
 title: "Last minute Getting Around information for Berlin Buzzwords"
 date: 2012-05-29T12:47:23+02:00
-tags: Relocating to Berlin,Berlin,getting around,
+tags: [Relocating to Berlin,Berlin,getting around,]
 ---
 
 # Last minute Getting Around information for Berlin Buzzwords

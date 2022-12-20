@@ -1,7 +1,7 @@
 ---
 title: "Part 2: Tracking tasks, or - Where the hack did my time go to last week?"
 date: 2010-09-03T18:22:43+02:00
-tags: Hacking,Scrum,Freetime,Time management,
+tags: [Hacking,Scrum,Freetime,Time management,]
 ---
 
 # Part 2: Tracking tasks, or - Where the hack did my time go to last week?

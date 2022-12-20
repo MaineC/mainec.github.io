@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM 2010 - part 3"
 date: 2010-02-10T21:02:18+01:00
-tags: Freetime,Fosdem,Free Software,Hadoop,General,
+tags: [Freetime,Fosdem,Free Software,Hadoop,General,]
 ---
 
 # FOSDEM 2010 - part 3

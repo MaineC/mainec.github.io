@@ -1,7 +1,7 @@
 ---
 title: "Teddy in Lisbon"
 date: 2010-12-01T21:09:14+01:00
-tags: Mahout,codebits,Lisbon,teddy,
+tags: [Mahout,codebits,Lisbon,teddy,]
 ---
 
 # Teddy in Lisbon

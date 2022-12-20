@@ -1,7 +1,7 @@
 ---
 title: "ScrumTisch Berlin - November"
 date: 2009-11-26T23:03:26+01:00
-tags: ScrumDay,Transition,Scrum,
+tags: [ScrumDay,Transition,Scrum,]
 ---
 
 # ScrumTisch Berlin - November

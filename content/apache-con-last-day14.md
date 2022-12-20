@@ -1,7 +1,7 @@
 ---
 title: "Apache Con – last day"
 date: 2010-11-27T23:23:30+01:00
-tags: Solr,ApacheCon,Apache Con,fast,MySQL,
+tags: [Solr,ApacheCon,Apache Con,fast,MySQL,]
 ---
 
 # Apache Con – last day

@@ -1,7 +1,7 @@
 ---
 title: "Open Source Development is good for you"
 date: 2009-05-21T09:08:14+02:00
-tags: students,Hacking,SwEng,Free Software,
+tags: [students,Hacking,SwEng,Free Software,]
 ---
 
 # Open Source Development is good for you

@@ -1,7 +1,7 @@
 ---
 title: "Scrumtisch August Berlin"
 date: 2010-08-14T16:26:34+02:00
-tags: Berlin,Scrum,Event,scrumtisch,
+tags: [Berlin,Scrum,Event,scrumtisch,]
 ---
 
 # Scrumtisch August Berlin

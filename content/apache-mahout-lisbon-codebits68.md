@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout @ Lisbon Codebits"
 date: 2010-10-31T09:36:43+01:00
-tags: Apache Mahout,sapo,codebits,General,Mahout,Software Foundation,
+tags: [Apache Mahout,sapo,codebits,General,Mahout,Software Foundation,]
 ---
 
 # Apache Mahout @ Lisbon Codebits

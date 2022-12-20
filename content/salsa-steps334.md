@@ -1,7 +1,7 @@
 ---
 title: "Salsa steps"
 date: 2010-10-14T20:50:57+02:00
-tags: Freetime,dancing,
+tags: [Freetime,dancing,]
 ---
 
 # Salsa steps

@@ -1,8 +1,8 @@
 ---
 title: "Apache Board of Directors - a retrospective"
 date: 2019-03-28T20:06:06+01:00
-tags: Apache, board, director
-categories: Apache, board, director, oss governance
+tags: [Apache, board, director]
+categories: [Apache, board, director, oss governance]
 ---
 
 # Apache Board of Directors - a retrospective

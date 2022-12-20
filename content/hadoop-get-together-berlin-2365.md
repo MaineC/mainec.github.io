@@ -1,7 +1,7 @@
 ---
 title: "September 2009 Hadoop Get Together Berlin"
 date: 2009-08-17T09:11:35+02:00
-tags: JAQL,Hadoop,Software Foundation,Lucene,Event,Get Together,
+tags: [JAQL,Hadoop,Software Foundation,Lucene,Event,Get Together,]
 ---
 
 # September 2009 Hadoop Get Together Berlin

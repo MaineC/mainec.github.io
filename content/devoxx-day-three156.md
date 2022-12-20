@@ -1,7 +1,7 @@
 ---
 title: "Devoxx – Day three "
 date: 2010-12-10T21:28:26+01:00
-tags: lombok,Java,Devoxx,General,
+tags: [lombok,Java,Devoxx,General,]
 ---
 
 # Devoxx – Day three 

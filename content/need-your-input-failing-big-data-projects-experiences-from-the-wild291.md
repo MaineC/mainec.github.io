@@ -1,7 +1,7 @@
 ---
 title: "Need your input: Failing big data projects - experiences from the wild"
 date: 2012-07-18T20:11:30+02:00
-tags: big data,Science,Hadoop,Strata,fail,Hacking,Event,
+tags: [big data,Science,Hadoop,Strata,fail,Hacking,Event,]
 ---
 
 # Need your input: Failing big data projects - experiences from the wild

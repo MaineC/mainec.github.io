@@ -1,7 +1,7 @@
 ---
 title: "Clojure Berlin - March 2012"
 date: 2012-03-07T22:37:03+01:00
-tags: clojure,Cascalog,Hadoop,Event,General,
+tags: [clojure,Cascalog,Hadoop,Event,General,]
 ---
 
 # Clojure Berlin - March 2012

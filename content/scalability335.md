@@ -1,7 +1,7 @@
 ---
 title: "Scalability"
 date: 2010-06-23T11:17:53+02:00
-tags: CouchDB,Free Software,scalability,
+tags: [CouchDB,Free Software,scalability,]
 ---
 
 # Scalability

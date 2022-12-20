@@ -1,7 +1,7 @@
 ---
 title: "Teddy in San Francisco"
 date: 2011-02-10T20:13:56+01:00
-tags: SFO,teddy,Freetime,General,
+tags: [SFO,teddy,Freetime,General,]
 ---
 
 # Teddy in San Francisco

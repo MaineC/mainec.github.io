@@ -1,7 +1,7 @@
 ---
 title: "Apache Hadoop Get Together Berlin"
 date: 2009-09-29T16:38:34+02:00
-tags: Get Together,
+tags: [Get Together,]
 ---
 
 # Apache Hadoop Get Together Berlin

@@ -1,7 +1,7 @@
 ---
 title: "Call for Presentations Berlin Buzzwords - one more week to go"
 date: 2011-02-21T20:24:44+01:00
-tags: bbuzz2011,Berlin Buzzwords,
+tags: [bbuzz2011,Berlin Buzzwords,]
 ---
 
 # Call for Presentations Berlin Buzzwords - one more week to go

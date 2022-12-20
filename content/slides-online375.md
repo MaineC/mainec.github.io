@@ -1,7 +1,7 @@
 ---
 title: "Slides online"
 date: 2011-12-09T06:55:36+01:00
-tags: NLP,Pig,Hadoop,Get Together,triposo,
+tags: [NLP,Pig,Hadoop,Get Together,triposo,]
 ---
 
 # Slides online

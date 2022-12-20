@@ -1,7 +1,7 @@
 ---
 title: "Berlin Buzzwords - Early bird registration"
 date: 2010-04-10T15:02:03+02:00
-tags: Lucene,NOSQL,Hadoop,Mahout,hbase,Solr,Berlin Buzzwords,Cassandra,
+tags: [Lucene,NOSQL,Hadoop,Mahout,hbase,Solr,Berlin Buzzwords,Cassandra,]
 ---
 
 # Berlin Buzzwords - Early bird registration

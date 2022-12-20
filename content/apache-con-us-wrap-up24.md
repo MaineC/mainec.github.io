@@ -1,7 +1,7 @@
 ---
 title: "Apache Con US Wrap Up"
 date: 2009-11-16T22:10:51+01:00
-tags: Mahout,Apache Con,Software Foundation,ApacheConUS09,
+tags: [Mahout,Apache Con,Software Foundation,ApacheConUS09,]
 ---
 
 # Apache Con US Wrap Up

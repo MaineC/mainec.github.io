@@ -1,7 +1,7 @@
 ---
 title: "Some thoughts on a conf taxonomy"
 date: 2012-09-16T12:53:40+02:00
-tags: conferences,General,
+tags: [conferences,General,]
 ---
 
 # Some thoughts on a conf taxonomy

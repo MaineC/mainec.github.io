@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM 2014"
 date: 2014-02-03T14:53:08+01:00
-tags: Fosdem, oss, elasticsearch 
+tags: [Fosdem, oss, elasticsearch ]
 ---
 
 # FOSDEM 2014

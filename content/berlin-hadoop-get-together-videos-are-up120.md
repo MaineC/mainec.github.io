@@ -1,7 +1,7 @@
 ---
 title: "Berlin Hadoop Get Together - videos are up"
 date: 2012-03-02T20:08:36+01:00
-tags: Berlin,Video,Hadoop,Get Together,
+tags: [Berlin,Video,Hadoop,Get Together,]
 ---
 
 # Berlin Hadoop Get Together - videos are up

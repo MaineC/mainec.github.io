@@ -1,7 +1,7 @@
 ---
 title: "Systemd - FOSDEM 06"
 date: 2013-02-18T20:45:29+01:00
-tags: systemd,Fosdem,Event,
+tags: [systemd,Fosdem,Event,]
 ---
 
 # Systemd - FOSDEM 06

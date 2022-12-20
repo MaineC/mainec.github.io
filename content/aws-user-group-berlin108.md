@@ -1,7 +1,7 @@
 ---
 title: "AWS User Group Berlin"
 date: 2009-09-29T16:06:17+02:00
-tags: Camp,EC2 Amazon,
+tags: [Camp,EC2 Amazon,]
 ---
 
 # AWS User Group Berlin

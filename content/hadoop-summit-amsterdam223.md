@@ -1,7 +1,7 @@
 ---
 title: "Hadoop Summit Amsterdam"
 date: 2013-05-16T20:27:56+02:00
-tags: amsterdam,Hadoop,hadoopsummit,Event,
+tags: [amsterdam,Hadoop,hadoopsummit,Event,]
 ---
 
 # Hadoop Summit Amsterdam

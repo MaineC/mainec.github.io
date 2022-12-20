@@ -1,7 +1,7 @@
 ---
 title: "Elastic Search meetup Berlin – January 2013"
 date: 2013-02-01T18:34:17+01:00
-tags: Lucene,tfidf,Free Software,elastic search,
+tags: [Lucene,tfidf,Free Software,elastic search,]
 ---
 
 # Elastic Search meetup Berlin – January 2013

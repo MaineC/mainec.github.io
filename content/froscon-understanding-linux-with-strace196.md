@@ -1,7 +1,7 @@
 ---
 title: "FrOSCon - understanding Linux with strace"
 date: 2012-09-06T20:29:10+02:00
-tags: Event,General,
+tags: [Event,General,]
 ---
 
 # FrOSCon - understanding Linux with strace

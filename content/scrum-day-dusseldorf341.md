@@ -1,7 +1,7 @@
 ---
 title: "Scrum Day Düsseldorf"
 date: 2009-10-06T05:24:39+02:00
-tags: Scrum,
+tags: [Scrum,]
 ---
 
 # Scrum Day Düsseldorf

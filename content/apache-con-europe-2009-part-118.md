@@ -1,7 +1,7 @@
 ---
 title: "Apache Con Europe 2009 - part 1"
 date: 2009-03-29T18:41:17+02:00
-tags: ApacheCon,Event,Camp,ApacheConEU09,Hacking,General,Apache Con,Software Foundation,
+tags: [ApacheCon,Event,Camp,ApacheConEU09,Hacking,General,Apache Con,Software Foundation,]
 ---
 
 # Apache Con Europe 2009 - part 1

@@ -1,7 +1,7 @@
 ---
 title: "FSFE Happy Valentine"
 date: 2010-02-14T07:05:09+01:00
-tags: Free Software,Freetime,
+tags: [Free Software,Freetime,]
 ---
 
 # FSFE Happy Valentine

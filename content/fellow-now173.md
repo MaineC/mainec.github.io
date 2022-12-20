@@ -1,7 +1,7 @@
 ---
 title: "Fellow now"
 date: 2009-08-23T20:45:26+02:00
-tags: Free Software,FSFE,
+tags: [Free Software,FSFE,]
 ---
 
 # Fellow now

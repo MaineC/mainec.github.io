@@ -1,8 +1,8 @@
 ---
 title: "Open source summit - Day 2"
 date: 2017-10-25T12:58:31+02:00
-tags: Conference, Open Source, LinuxCon
-categories: Conference
+tags: [Conference, Open Source, LinuxCon]
+categories: [Conference]
 ---
 
 # Open source summit - Day 2

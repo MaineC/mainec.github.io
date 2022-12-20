@@ -1,7 +1,7 @@
 ---
 title: "GeeCon 2012 - part 1"
 date: 2012-05-20T11:02:54+02:00
-tags: geecon,Event,
+tags: [geecon,Event,]
 ---
 
 # GeeCon 2012 - part 1

@@ -1,7 +1,7 @@
 ---
 title: "Note to self: svn:ignore usage"
 date: 2011-02-25T20:47:54+01:00
-tags: svn,Hacking,cheat sheet,trivia,Note to Self,
+tags: [svn,Hacking,cheat sheet,trivia,Note to Self,]
 ---
 
 # Note to self: svn:ignore usage

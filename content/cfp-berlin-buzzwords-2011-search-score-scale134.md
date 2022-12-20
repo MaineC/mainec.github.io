@@ -1,7 +1,7 @@
 ---
 title: "CFP - Berlin Buzzwords 2011 - search, score, scale"
 date: 2011-01-26T08:00:20+01:00
-tags: Lucene,Hadoop,Mahout,Berlin,hbase,Berlin Buzzwords,
+tags: [Lucene,Hadoop,Mahout,Berlin,hbase,Berlin Buzzwords,]
 ---
 
 # CFP - Berlin Buzzwords 2011 - search, score, scale

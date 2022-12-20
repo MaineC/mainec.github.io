@@ -1,7 +1,7 @@
 ---
 title: "Apache Con Wrap Up"
 date: 2011-11-16T20:45:56+01:00
-tags: Slides,ApacheCon,Apache Con,audio,
+tags: [Slides,ApacheCon,Apache Con,audio,]
 ---
 
 # Apache Con Wrap Up

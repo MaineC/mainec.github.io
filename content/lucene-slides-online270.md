@@ -1,7 +1,7 @@
 ---
 title: "Lucene slides online"
 date: 2009-06-30T10:04:47+02:00
-tags: Lucene,Get Together,General,
+tags: [Lucene,Get Together,General,]
 ---
 
 # Lucene slides online

@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM - HBase at Facebook Messaging"
 date: 2011-02-17T20:17:48+01:00
-tags: Apache Hadoop,Apache HBase,General,hbase,Brussels,Fosdem,
+tags: [Apache Hadoop,Apache HBase,General,hbase,Brussels,Fosdem,]
 ---
 
 # FOSDEM - HBase at Facebook Messaging

@@ -1,7 +1,7 @@
 ---
 title: "Scrum Tisch"
 date: 2009-06-04T11:27:12+02:00
-tags: Scrum,
+tags: [Scrum,]
 ---
 
 # Scrum Tisch

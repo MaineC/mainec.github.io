@@ -1,7 +1,7 @@
 ---
 title: "On Taming Text"
 date: 2013-01-01T20:21:19+01:00
-tags: Mahout,Lucene,review,book,Science,
+tags: [Mahout,Lucene,review,book,Science,]
 ---
 
 # On Taming Text

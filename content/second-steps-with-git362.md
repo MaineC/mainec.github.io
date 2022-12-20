@@ -1,7 +1,7 @@
 ---
 title: "Second steps with git"
 date: 2012-04-22T20:34:46+02:00
-tags: Hacking,git,Note to Self,
+tags: [Hacking,git,Note to Self,]
 ---
 
 # Second steps with git

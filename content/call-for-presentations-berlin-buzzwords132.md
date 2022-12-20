@@ -1,7 +1,7 @@
 ---
 title: "Call for presentations - Berlin Buzzwords"
 date: 2010-03-11T15:09:09+01:00
-tags: Lucene,Berlin Buzzwords,Solr,Hadoop,NOSQL,
+tags: [Lucene,Berlin Buzzwords,Solr,Hadoop,NOSQL,]
 ---
 
 # Call for presentations - Berlin Buzzwords

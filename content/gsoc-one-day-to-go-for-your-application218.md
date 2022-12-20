@@ -1,7 +1,7 @@
 ---
 title: "GSoC - one day to go for your application"
 date: 2010-04-08T14:37:42+02:00
-tags: Mahout,GSoC,Software Foundation,
+tags: [Mahout,GSoC,Software Foundation,]
 ---
 
 # GSoC - one day to go for your application

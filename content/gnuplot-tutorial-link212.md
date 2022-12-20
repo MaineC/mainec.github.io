@@ -1,7 +1,7 @@
 ---
 title: "gnuplot tutorial link"
 date: 2009-09-02T12:30:41+02:00
-tags: Hacking,Statistics,gnuplot,
+tags: [Hacking,Statistics,gnuplot,]
 ---
 
 # gnuplot tutorial link

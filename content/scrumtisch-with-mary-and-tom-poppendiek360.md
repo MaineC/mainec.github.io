@@ -1,7 +1,7 @@
 ---
 title: "Scrumtisch with Mary and Tom Poppendiek"
 date: 2009-10-12T15:07:45+02:00
-tags: Scrum,lean,
+tags: [Scrum,lean,]
 ---
 
 # Scrumtisch with Mary and Tom Poppendiek

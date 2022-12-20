@@ -1,7 +1,7 @@
 ---
 title: "Hadoop Get Together Berlin @ Apache Con US Barcamp"
 date: 2009-11-03T21:05:07+01:00
-tags: Berlin,ApacheConUS09,Apache Con,Meetups,Get Together,
+tags: [Berlin,ApacheConUS09,Apache Con,Meetups,Get Together,]
 ---
 
 # Hadoop Get Together Berlin @ Apache Con US Barcamp

@@ -1,7 +1,7 @@
 ---
 title: "O'Reilly Strata - Day two - keynotes"
 date: 2011-02-12T20:17:09+01:00
-tags: SFO,strataconf,Data Analytics,General,
+tags: [SFO,strataconf,Data Analytics,General,]
 ---
 
 # O'Reilly Strata - Day two - keynotes

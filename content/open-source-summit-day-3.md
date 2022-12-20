@@ -1,8 +1,8 @@
 ---
 title: "Open Source Summit - Day 3"
 date: 2017-10-29T09:35:15+01:00
-tags: Open Source, Linux Foundation, Conference
-categories: Conference
+tags: [Open Source, Linux Foundation, Conference]
+categories: [Conference]
 ---
 
 # Open Source Summit - Day 3

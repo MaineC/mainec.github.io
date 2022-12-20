@@ -1,7 +1,7 @@
 ---
 title: "Velocity update"
 date: 2010-06-14T18:34:22+02:00
-tags: Scrum,Berlin Buzzwords,
+tags: [Scrum,Berlin Buzzwords,]
 ---
 
 # Velocity update

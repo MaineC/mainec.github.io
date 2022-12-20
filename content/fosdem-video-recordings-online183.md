@@ -1,7 +1,7 @@
 ---
 title: "FOSDEM - video recordings online"
 date: 2010-02-14T20:32:32+01:00
-tags: Hadoop,General,Video,Freetime,Brussels,Fosdem,
+tags: [Hadoop,General,Video,Freetime,Brussels,Fosdem,]
 ---
 
 # FOSDEM - video recordings online

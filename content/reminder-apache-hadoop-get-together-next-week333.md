@@ -1,7 +1,7 @@
 ---
 title: "Reminder: Apache Hadoop Get Together next week"
 date: 2009-12-07T20:16:25+01:00
-tags: Berlin,Hadoop,Get Together,
+tags: [Berlin,Hadoop,Get Together,]
 ---
 
 # Reminder: Apache Hadoop Get Together next week

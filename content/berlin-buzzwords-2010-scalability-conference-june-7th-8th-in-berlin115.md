@@ -1,7 +1,7 @@
 ---
 title: "Berlin Buzzwords 2010 - Scalability conference June 7th/ 8th in Berlin"
 date: 2010-05-14T15:48:47+02:00
-tags: Lucene,Berlin Buzzwords,buzzwords,Hadoop,NOSQL,
+tags: [Lucene,Berlin Buzzwords,buzzwords,Hadoop,NOSQL,]
 ---
 
 # Berlin Buzzwords 2010 - Scalability conference June 7th/ 8th in Berlin

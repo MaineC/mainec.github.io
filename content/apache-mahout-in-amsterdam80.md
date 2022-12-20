@@ -1,7 +1,7 @@
 ---
 title: "Apache Mahout in Amsterdam"
 date: 2011-01-25T20:00:54+01:00
-tags: JTeam,Apache Mahout,amsterdam,General,
+tags: [JTeam,Apache Mahout,amsterdam,General,]
 ---
 
 # Apache Mahout in Amsterdam

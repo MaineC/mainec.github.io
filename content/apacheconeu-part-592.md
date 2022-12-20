@@ -1,7 +1,7 @@
 ---
 title: "ApacheConEU - part 05"
 date: 2012-11-14T20:47:22+01:00
-tags: hbase,ApacheCon,Apache Con,Hadoop,apacheconeu,
+tags: [hbase,ApacheCon,Apache Con,Hadoop,apacheconeu,]
 ---
 
 # ApacheConEU - part 05

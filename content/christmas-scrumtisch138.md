@@ -1,7 +1,7 @@
 ---
 title: "Christmas Scrumtisch"
 date: 2010-11-29T22:59:28+01:00
-tags: Scrum,Self organising teams,Software Foundation,Team Motivation,team,
+tags: [Scrum,Self organising teams,Software Foundation,Team Motivation,team,]
 ---
 
 # Christmas Scrumtisch

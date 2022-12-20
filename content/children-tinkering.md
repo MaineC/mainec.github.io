@@ -1,7 +1,7 @@
 ---
 title: "Children tinkering"
 date: 2014-01-05T02:07:59+01:00
-tags: children, tinker, Hacking, hacks
+tags: [children, tinker, Hacking, hacks]
 ---
 
 # Children tinkering

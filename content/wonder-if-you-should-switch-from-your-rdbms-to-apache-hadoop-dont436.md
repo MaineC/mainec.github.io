@@ -1,7 +1,7 @@
 ---
 title: "Wonder if you should switch from your RDBMS to Apache Hadoop: Don't!"
 date: 2013-08-26T17:10:58+02:00
-tags: Hadoop,NOSQL,rdbms,
+tags: [Hadoop,NOSQL,rdbms,]
 ---
 
 # Wonder if you should switch from your RDBMS to Apache Hadoop: Don't!

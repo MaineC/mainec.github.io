@@ -1,7 +1,7 @@
 ---
 title: "FSFE Meetup Berlin"
 date: 2009-03-07T23:07:19+01:00
-tags: Free Software,Event,General,
+tags: [Free Software,Event,General,]
 ---
 
 # FSFE Meetup Berlin

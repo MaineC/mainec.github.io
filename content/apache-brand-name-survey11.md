@@ -1,7 +1,7 @@
 ---
 title: "Apache brand name - survey"
 date: 2010-02-16T19:03:35+01:00
-tags: brand,Software Foundation,
+tags: [brand,Software Foundation,]
 ---
 
 # Apache brand name - survey

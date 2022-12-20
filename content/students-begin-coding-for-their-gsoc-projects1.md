@@ -1,7 +1,7 @@
 ---
 title: "Students begin coding for their GSoC projects"
 date: 2009-04-05T09:54:44+02:00
-tags: GSoC,Software Foundation,Event,General,
+tags: [GSoC,Software Foundation,Event,General,]
 ---
 
 # Students begin coding for their GSoC projects

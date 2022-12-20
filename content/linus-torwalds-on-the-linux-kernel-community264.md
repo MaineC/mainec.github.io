@@ -1,7 +1,7 @@
 ---
 title: "Linus Torwalds on the Linux kernel community"
 date: 2010-06-15T18:10:20+02:00
-tags: FreeSoftware,Free Software,Software Foundation,LinuxKernel,
+tags: [FreeSoftware,Free Software,Software Foundation,LinuxKernel,]
 ---
 
 # Linus Torwalds on the Linux kernel community

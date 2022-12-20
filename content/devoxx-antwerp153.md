@@ -1,7 +1,7 @@
 ---
 title: "Devoxx Antwerp"
 date: 2010-12-03T21:16:07+01:00
-tags: Java,NOSQL,antwerp,General,Mahout,Software Foundation,Devoxx,
+tags: [Java,NOSQL,antwerp,General,Mahout,Software Foundation,Devoxx,]
 ---
 
 # Devoxx Antwerp

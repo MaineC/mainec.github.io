@@ -1,7 +1,7 @@
 ---
 title: "Converting a git repo to svn"
 date: 2009-08-17T10:15:20+02:00
-tags: svn,Hacking,git,
+tags: [svn,Hacking,git,]
 ---
 
 # Converting a git repo to svn

@@ -1,7 +1,7 @@
 ---
 title: "Being in San Francisco"
 date: 2011-11-06T04:47:08+01:00
-tags: SFO,Freetime,vacation,
+tags: [SFO,Freetime,vacation,]
 ---
 
 # Being in San Francisco

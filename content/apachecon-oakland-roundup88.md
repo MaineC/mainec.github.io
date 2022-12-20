@@ -1,7 +1,7 @@
 ---
 title: "ApacheCon Oakland Roundup"
 date: 2009-11-19T20:15:23+01:00
-tags: press,Apache Con,Software Foundation,ApacheConUS09,
+tags: [press,Apache Con,Software Foundation,ApacheConUS09,]
 ---
 
 # ApacheCon Oakland Roundup

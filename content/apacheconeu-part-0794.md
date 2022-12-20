@@ -1,7 +1,7 @@
 ---
 title: "ApacheConEU - part 07"
 date: 2012-11-16T20:51:08+01:00
-tags: nutch,Apache Con,ApacheCon,Lucene,gora,apacheconeu,Solr,
+tags: [nutch,Apache Con,ApacheCon,Lucene,gora,apacheconeu,Solr,]
 ---
 
 # ApacheConEU - part 07

@@ -1,7 +1,7 @@
 ---
 title: "Music in Berlin early June"
 date: 2012-04-18T18:20:59+02:00
-tags: Relocating to Berlin,bbuzz,Berlin Buzzwords,
+tags: [Relocating to Berlin,bbuzz,Berlin Buzzwords,]
 ---
 
 # Music in Berlin early June

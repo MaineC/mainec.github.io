@@ -1,7 +1,7 @@
 ---
 title: "Hadoop User Group UK"
 date: 2009-03-07T23:10:22+01:00
-tags: Hadoop,
+tags: [Hadoop,]
 ---
 
 # Hadoop User Group UK

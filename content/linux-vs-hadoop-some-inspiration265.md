@@ -1,7 +1,7 @@
 ---
 title: "Linux vs. Hadoop - some inspiration?"
 date: 2013-01-16T20:22:14+01:00
-tags: Hadoop,brainstorming,standardisation,Linux,desgin,Hacking,
+tags: [Hadoop,brainstorming,standardisation,Linux,desgin,Hacking,]
 ---
 
 # Linux vs. Hadoop - some inspiration?

@@ -1,7 +1,7 @@
 ---
 title: "Mahout on EC2"
 date: 2009-04-21T21:00:46+02:00
-tags: Mahout,Hadoop,Software Foundation,
+tags: [Mahout,Hadoop,Software Foundation,]
 ---
 
 # Mahout on EC2

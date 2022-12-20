@@ -1,7 +1,7 @@
 ---
 title: "GeeCon - Testing hell and how to fix it"
 date: 2012-05-26T08:08:20+02:00
-tags: jira,geecon,Hacking,testing,atlassian,
+tags: [jira,geecon,Hacking,testing,atlassian,]
 ---
 
 # GeeCon - Testing hell and how to fix it

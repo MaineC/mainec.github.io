@@ -1,7 +1,7 @@
 ---
 title: "O'Reilly Strata Conference"
 date: 2011-01-22T04:34:41+01:00
-tags: Apache Mahout,Strata,General,Mahout,Speaker,California,
+tags: [Apache Mahout,Strata,General,Mahout,Speaker,California,]
 ---
 
 # O'Reilly Strata Conference

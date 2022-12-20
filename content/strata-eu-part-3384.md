@@ -1,7 +1,7 @@
 ---
 title: "Strata EU - part 3"
 date: 2012-10-27T20:16:29+02:00
-tags: strataeu,General,
+tags: [strataeu,General,]
 ---
 
 # Strata EU - part 3

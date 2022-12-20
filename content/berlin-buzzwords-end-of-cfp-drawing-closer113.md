@@ -1,7 +1,7 @@
 ---
 title: "Berlin Buzzwords - End of CfP drawing closer"
 date: 2010-04-11T14:55:52+02:00
-tags: Lucene,NOSQL,Hadoop,Mahout,registration,Berlin Buzzwords,
+tags: [Lucene,NOSQL,Hadoop,Mahout,registration,Berlin Buzzwords,]
 ---
 
 # Berlin Buzzwords - End of CfP drawing closer

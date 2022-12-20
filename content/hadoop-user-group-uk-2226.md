@@ -1,7 +1,7 @@
 ---
 title: "Hadoop User Group UK"
 date: 2009-04-21T20:34:15+02:00
-tags: Mahout,Hadoop,Software Foundation,
+tags: [Mahout,Hadoop,Software Foundation,]
 ---
 
 # Hadoop User Group UK

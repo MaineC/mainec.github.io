@@ -1,7 +1,7 @@
 ---
 title: "Going to Berlin Buzzwords"
 date: 2010-05-21T08:46:11+02:00
-tags: Lucene,Berlin Buzzwords,Hadoop,NOSQL,Software Foundation,
+tags: [Lucene,Berlin Buzzwords,Hadoop,NOSQL,Software Foundation,]
 ---
 
 # Going to Berlin Buzzwords

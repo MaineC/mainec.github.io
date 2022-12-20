@@ -1,7 +1,7 @@
 ---
 title: "Mozilla legal issues - FOSDEM 03"
 date: 2013-02-15T22:39:35+01:00
-tags: oss,mozilla,Fosdem,Event,legal,
+tags: [oss,mozilla,Fosdem,Event,legal,]
 ---
 
 # Mozilla legal issues - FOSDEM 03

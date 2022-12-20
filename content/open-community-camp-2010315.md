@@ -1,7 +1,7 @@
 ---
 title: "Open Community Camp 2010"
 date: 2010-02-12T13:07:20+01:00
-tags: Camp,Netherlands,NOSQL,General,
+tags: [Camp,Netherlands,NOSQL,General,]
 ---
 
 # Open Community Camp 2010

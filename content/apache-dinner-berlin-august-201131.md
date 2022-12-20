@@ -1,7 +1,7 @@
 ---
 title: "Apache Dinner Berlin - August 2010"
 date: 2010-08-04T14:52:45+02:00
-tags: Dinner,Software Foundation,Apache Dinner Berlin,
+tags: [Dinner,Software Foundation,Apache Dinner Berlin,]
 ---
 
 # Apache Dinner Berlin - August 2010

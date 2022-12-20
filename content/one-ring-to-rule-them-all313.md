@@ -1,7 +1,7 @@
 ---
 title: "One Ring to rule them all"
 date: 2011-10-28T19:23:15+02:00
-tags: rings,Freetime,
+tags: [rings,Freetime,]
 ---
 
 # One Ring to rule them all
