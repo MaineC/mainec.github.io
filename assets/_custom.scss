@@ -1,0 +1,15 @@
+/* You can add custom styles here. */
+
+// @import "plugins/numbered";
+:root { --body-background: #fefff5; }
+body { background-image: url("/header.jpg");
+       background-repeat: no-repeat; 
+       margin-top: 150pt; }
+.book-menu { --body-background: transparent; }
+.book-menu-content {  margin-top: 130pt; }
+.book-brand { color: #da4213; 
+              font-family: "Trajan Pro";
+              font-size: 23pt ;
+              font-weight: bolder; }
+
+.book-page {margin-top: 10pt;}
