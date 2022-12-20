@@ -22,7 +22,8 @@ enableGitInfo = true
 [[menu.before]]
   name = "About"
   url = "/about"
-  weight = 9
+  weight = 10
+  post = '<div style="height: 20pt;"></div>'
 
 
 [params]
