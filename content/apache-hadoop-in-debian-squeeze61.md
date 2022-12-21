@@ -28,7 +28,7 @@ gets released, installing Hadoop on your Debian box will be as easy as issuing <
 you need]</code>: <a 
 href="http://packages.debian.org/search?keywords=hadoop&searchon=names&suite=testing&section=all">Debian package 
 search</a>. <br><br><a href="http://www.flickr.com/photos/jemsphotos/522064956/"><img 
-src="http://isabel-drost.de/Bilder/wordpress/squeeze.jpg" alt="Squeeze" /></a><br><br>If you want to speed up the 
+src="/squeeze.jpg" alt="Squeeze" /></a><br><br>If you want to speed up the 
 process of Squeeze being released as stable version: Help fixing the remaining bugs in that distribution. There are 
 various <a href="http://wiki.debian.org/BSPMarathonSqueeze">Debian Bug Squashing Parties</a> being organised around the 
 world. Next one in Berlin is on <a href="http://wiki.debian.org/BSP2010/Berlin">next Monday</a>, the one for Munich is 

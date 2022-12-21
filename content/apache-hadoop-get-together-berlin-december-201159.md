@@ -11,7 +11,7 @@ First of all a huge Thank You to David Obermann for organising today's Apache Ha
 successful Berlin Buzzwords and a rather long pause following that finally a Christmas meetup took place today at 
 Smarthouse, kindly sponsored by Axel Springer and organised by David Obermann from idealo. About 40 guests from 
 Neofonie, Nokia, Amen, StudiVZ, Gameduell, TU Berlin, nurago, Soundcloud, nugg.ad and many others made it to the 
-event.<br><br><img src="http://isabel-drost.de/Bilder/wordpress/hadoop_201112.jpg"/><br><br>In the first presentation 
+event.<br><br><img src="/hadoop_201112.jpg"/><br><br>In the first presentation 
 Douwe Osinga from <a href="http://www.triposo.com/">triposo</a> went into some details on what Triposo is all about, 
 how development for it differs in terms of scope and focus at larger corporations and what patterns they use for 
 getting the data crawled, cleaned and served to users.<br><br>The goal of Triposo is to be able to build travel guides 
@@ -55,7 +55,7 @@ from the raw German wikipedia dump. They used Pig to scale a pipeline down from 
 development overhead: Quite some logic could be re-used from the open source project pignlproc initiated by Olivier 
 Grisel. This project already features a Wikipedia loader, a UDF for extracting information from Wikipedia documents and 
 additional scripts for training and building corpora.<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/hadoop_201112_neo.jpg"/><br><br>Based on that they defined the ML 
+src="/hadoop_201112_neo.jpg"/><br><br>Based on that they defined the ML 
 probability of a surface form being a named entity. The script itself is not very magical: The whole process can be 
 expressed as a few steps involving grouping and couting tuples. The effect in terms of runtime vs. development time 
 however is impressive.<br><br>Checkout their <a href="http://github.com/dicode-project/pignlproc">DICODE github 

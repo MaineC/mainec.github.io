@@ -8,4 +8,4 @@ tags: [amsterdam,codebits,Freetime,Devoxx,teddy,]
 
 
 Caught Teddy just before the plane took off:<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/teddy_ams_nov10.png"/>
+src="/teddy_ams_nov10.png"/>

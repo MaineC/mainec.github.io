@@ -8,7 +8,7 @@ tags: [Free Software,Freetime,]
 
 
 Today I got woken up with a friendly hug and roses waiting for me:<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/SDIM0778.jpg" width="300"><br><br>I do not really care about presents for 
+src="/SDIM0778.jpg" width="300"><br><br>I do not really care about presents for 
 sort-of-artificial celebration days like valentines day. However, FSFE had a very nice idea: The proposal was to use 
 valentines day to show your love for free software. The website proposed to e.g. hug a free software developer, to make 
 a gift to a team of free software developers:<br><br><a 

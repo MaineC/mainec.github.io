@@ -38,7 +38,7 @@ various objects need and how many of these object you actually keep in memory - 
 detail when using code generated from frameworks like thrift. <br><br><b>Latency fights</b><br><br>When taking a simple 
 view latency optimization boils down to making a tradeoff between memory usage and time. A little less naive view is to 
 understand that actually it is a set of three goals to optimize:<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/triangle_goto_11.png" width="300" style="float:left"/><br><br>Tuning an 
+src="/triangle_goto_11.png" width="300" style="float:left"/><br><br>Tuning an 
 application means to take the product of the three, shift focus but keep the product stable. Optimization is assumed to 
 increase the resulting product.<br><br>Biggest thread to latency are full gc cycles. Things to keep in mind when tuning 
 and optimizing: Though the type of gc to run is configurable, this configuration does not apply to cleanup of eden 

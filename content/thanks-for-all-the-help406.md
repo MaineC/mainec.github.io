@@ -39,7 +39,7 @@ helped turn our wedding day and vacation afterwards into the great time it was: 
 so far</a>, those who <a href="http://blog.isabel-drost.de/index.php/archives/430/teddy-in-down-under">hosted us in 
 Sydney</a>, and the many people who provided us with information on where to go and what to do.)<br><br>There's one 
 thing though that bugged me by the end of this year: <br><br><center><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/silent.jpg"/><br></center><br><br>So I decided that my New Year's 
+src="/silent.jpg"/><br></center><br><br>So I decided that my New Year's 
 resolution for 2013 would be to ramp up the time I spend on Apache one way or another: At least as committer for Apache 
 Mahout, Mentor for Apache Drill and as a Member of the foundation.<br><br>Wishing all of you a Happy New Year - and 
 looking forward to another successful Berlin Buzzwords in 2013.

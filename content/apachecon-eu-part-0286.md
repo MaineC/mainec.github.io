@@ -17,7 +17,7 @@ pre-processing is involved in order to get from raw html files to a prediction o
 going to be accepted. (Un-?)fortunately I quickly got distracted and drawn into discussions on what kind of hardware 
 works best for running an Apache Hadoop cluster, how the whole Hadoop community works and where the problem areas are 
 (e.g. constantly missing more helping hands to get all things on the todo list done).<br><br><center><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/apache_2013.jpg"/><br></center><br><br>The evening featured a really neat 
+src="/apache_2013.jpg"/><br></center><br><br>The evening featured a really neat 
 event: Committers and Hackathon participants were invited to the committer reception in the Sinsheim technical and 
 traffic museum. One interesting observation: There's an easy way to stop geeks from rushing over to the beer, drinks 
 and food: Just put some cars, motor cycles and planes in between them and the food ;)

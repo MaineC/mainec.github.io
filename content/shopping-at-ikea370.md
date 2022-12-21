@@ -14,8 +14,8 @@ some friends of us probably, maybe have some usable hardware left as well - we'l
 a server on your dinner table is not really practical: There's always some danger of spilling tea over it... However 
 last week, one of my colleagues posted a link to the <a href="http://wiki.eth-0.nl/index.php/LackRack">Lack Rack</a> 
 wiki page in the eth-0 Wiki on one of our mailing lists. <br><table broder="0"><tr><td><br><img 
-src="http://www.isabel-drost.de/Bilder/wordpress/troeroe_1.JPG" height="120"><br></td><td><br><img 
-src="http://www.isabel-drost.de/Bilder/wordpress/troeroe_2.JPG" height="120"><br></td><td><br><img 
-src="http://www.isabel-drost.de/Bilder/wordpress/troeroe_3.JPG" height="120"><br></td></tr></table><br><br>So yesterday 
+src="/troeroe_1.JPG" height="120"><br></td><td><br><img 
+src="/troeroe_2.JPG" height="120"><br></td><td><br><img 
+src="/troeroe_3.JPG" height="120"><br></td></tr></table><br><br>So yesterday 
 was one of the (very rare) days, when I got Thilo to join me on a trip to Ikea. The result can be seen in the images 
 above. Looks like elephants invaded our living room ;)<br>

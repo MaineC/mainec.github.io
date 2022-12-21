@@ -15,7 +15,7 @@ easy to evaluate the business value of each item.<br><br>If Scrum is a method su
 me asked ourselves: Why not use it to manage tasks such as "Shopping", "Laundry", "Prepare Slides", "Vakuuming"? So we 
 simply tried it out: We set up a whiteboard with the typical Scrum board layout. Each task to do for the upcoming week 
 was noted on a little yellow post it, annotated with a complexity and sticked to the board.<br><br><img 
-src="http://www.isabel-drost.de/Bilder/wordpress/moto_0145.jpg" alt="Scrum Board" /><br><br>The funny thing is: The 
+src="/moto_0145.jpg" alt="Scrum Board" /><br><br>The funny thing is: The 
 experiment did work out really well. There are a few lessons learned as well:<br><ul><br>  <li> Annotating the 
 complexities helped answering the question "Where the hack did my freetime go to this week?<br>  <li> After like three 
 iterations (in our case iteration length is one week) we knew exactly when we had planned for too much and were able to 

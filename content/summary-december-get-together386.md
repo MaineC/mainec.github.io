@@ -23,7 +23,7 @@ version available.<br><br>Second talk was given by Jörg Möllenkamp on what Sun
 do have an operating system that scales to that architecture. But now they are looking for applications that can use 
 such hardware efficiently as well. Hadoop is well suited for distributing computations - so it looked like a great fit 
 for Sun. <a href="http://www.isabel-drost.de/hadoop/slides/hadoop.sun.pdf">Slides are available 
-online.</a><br><center><br><img src="http://www.isabel-drost.de/hadoop/slides/IMG_3688.jpg"><br></center><br>The last 
+online.</a><br><center><br><img src="/IMG_3688.jpg"><br></center><br>The last 
 talk was given by Nikolaus Pohle from nurago. They switched to Hadoop only recently. Coming from online market 
 analysis, they have to analyse lots of user interaction data. Currently they are moving away from a MySQL based 
 architecture to a distributed system based on HDFS and Map/Reduce. In order to ease writing M/R jobs for their 

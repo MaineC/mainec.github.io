@@ -15,14 +15,14 @@ roomy with lots space outside and inside.<br><br>Little more than one year ago I
 been there pretty often. In spring when most animal babies are born, in summer to escape heat in town, in winter when 
 all paths are white of snow.<br><br>One attraction we usually do not want to miss are the pelicans (Thanks to <a 
 href="http://www.flickr.com/photos/photomic/">p_h_o_t_o_m_i_c</a> who <a href="http://gnarrg.blogspot.com/">took the 
-picture below</a>):<br><center><img src="http://isabel-drost.de/Bilder/wordpress/tintenpatrone.jpg" alt="Tinte" 
+picture below</a>):<br><center><img src="/tintenpatrone.jpg" alt="Tinte" 
 /></center><br><br>If you are wondering "What's that thing hanging 'round her neck?" Whenever I have some spare time 
 left, I usually take my camera with me. It's not particularly new, not even a digital one. My parents already used it 
 during vacation before I was born. It's a Praktika Nova 1 - capable of taking breathtakingly beautiful 
-images:<br><center><img src="http://isabel-drost.de/Bilder/wordpress/praktika.jpg" alt="praktika" 
+images:<br><center><img src="/praktika.jpg" alt="praktika" 
 /></center><br><br>There's just one catch: The camera is not self focussing, nor does it come with an internal exposure 
 meter. Instead the one I have is to be used separately before taking the picture.<br><br><table><tr><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/links.jpg" /></td><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/rechts.jpg"  /></td></tr></table><br><br>However even after reading just a 
+src="/links.jpg" /></td><td><img 
+src="/rechts.jpg"  /></td></tr></table><br><br>However even after reading just a 
 tiny little bit about f-numbers, exposure times initial pictures I took four years ago were astonishingly beautiful. 
 Since I regularly tend to go out just for taking pictures.

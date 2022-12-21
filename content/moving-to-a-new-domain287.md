@@ -12,7 +12,7 @@ redirects will soon change to by <a href="http://isabel-drost-fromm.de">isabel-d
 adjust your rss subscription accordingly.<br><br>Longer version: This blog post is scheduled to go live some time after 
 lunch-time on September 12th 2012. You might have heart rumors before - that date Ms. Isabel Drost and Mr. Thilo Fromm 
 are supposed to get married. <br><br><center><img 
-src="http://www.isabel-drost.de/Bilder/wordpress/wedding.jpg"/></center><br><br>There were times when war and conflicts 
+src="/wedding.jpg"/></center><br><br>There were times when war and conflicts 
 between kingdoms were settled by having children of the reigns get married. Today this old tradition is being continued 
 on a much smaller scale by having a couple get married that is comprised of one half being passionate about Linux 
 Kernel hacking and a strong proponent of GPL/LGPL open source licensing and the other half coming from the Java world, 

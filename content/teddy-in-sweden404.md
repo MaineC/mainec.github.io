@@ -8,7 +8,7 @@ tags: [travelling teddy,sweden,teddy,]
 
 
 Some picture taken all the way up in northern Sweden:<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/sweden_2012.jpeg"/><br><br>Those picture were taken mid-June. That means 
+src="/sweden_2012.jpeg"/><br><br>Those picture were taken mid-June. That means 
 what looks like Teddy sitting in the afternoon sun actually was taken 20min before midnight some 40km south of the 
 arctic circle at <a href="http://www.frevisoren.se/">Camp Frevisören</a> - an incredible spot to start the day on a 
 canoo:<br><br><iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" 

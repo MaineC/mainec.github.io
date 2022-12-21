@@ -8,4 +8,4 @@ tags: [home,snow,Freetime,winter,]
 
 
 First snow seen this morning - seems like finally it's winter:<br><br><center><br><img 
-src="http://www.isabel-drost.de/Bilder/wordpress/moto_0231.jpg"><br></center>
+src="/moto_0231.jpg"><br></center>

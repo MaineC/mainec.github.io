@@ -12,7 +12,7 @@ food, nice drinks - or put another way, for a very nice evening. Simon had booke
 than eight people. However, as with any user group these meetup tends to grow. Shortly after the appointed time we had 
 to move to another table to fit everyone around. See below for a quick shot taken while eating (Thanks to Eric for 
 taking the picture):<br><center><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/dinner_may_2010.jpg"/><br></center><br>There were people from Lucene, from 
+src="/dinner_may_2010.jpg"/><br></center><br>There were people from Lucene, from 
 SVN, Cocoon, CouchDB, HttpComponents and various other projects. Even one potential future Mahout committer :) Counting 
 attendees quickly I guess we were about fifteen people.<br><br>Looking forward to the next meetup that will be 
 scheduled to take place shortely after Buzzwords. Please talk to <a href="http://vafer.org/blog/">Torsten Curdt</a> if 

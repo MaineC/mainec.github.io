@@ -9,4 +9,4 @@ tags: [travelling teddy,teddy,]
 
 While I was at the conference – Teddy spent some time exploring the surroundings of the conference hotel. Looks like in 
 particular Hyde park was attractive:<br><br><center><img 
-src="http://isabel-drost.de/Bilder/wordpress/lhr_2012.jpg"></center>
+src="/lhr_2012.jpg"></center>

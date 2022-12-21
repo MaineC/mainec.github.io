@@ -18,7 +18,7 @@ Hadoop knowledge that is now spread across companies like Linked.In, Facebook an
 Y! and joining one of those companies. With that also the development cycle of Hadoop has changed: While it was mostly 
 driven by Y! schedule in the beginning - crunching out new releases nearly on a monthly basis with a dip around 
 Christmas time it's got more irregular later - to pick up a more regular schedule just recently.<br><center><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/apache_2013_3.jpg"/><br><br>Image taken a few talks earlier in the same 
+src="/apache_2013_3.jpg"/><br><br>Image taken a few talks earlier in the same 
 session.<br></center><br><br>In terms of version numbers: 1.x is to be considered stable, production ready with fixes 
 and low risk patches applied only. For 2.x the picture is a bit different - currently that is in alpha stage, features 
 and fixes go there first, new code is developed there first. However Hadoop is not just http://hadoop.apache.org - the 

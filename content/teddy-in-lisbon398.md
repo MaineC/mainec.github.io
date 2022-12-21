@@ -11,7 +11,7 @@ After Apache Con I spent a few days in Lisbon for Codebits. The conference is no
 mixture of hacking event, conference, exhibition. Though the location was not optimal for giving presentations (large 
 exhibition hall with now a rather noisy presentation area) the whole event brought quite an interesting mixture of 
 people together in one place in the capital of Portugal.<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/teddy_lis_nov10.png"/><br><br>I had been to Portugal earlier this year, 
+src="/teddy_lis_nov10.png"/><br><br>I had been to Portugal earlier this year, 
 however that was just for recreating and vacation. So this time around I was quite happy to get the chance of seeing 
 some part of the local culture that otherwise I would probably never have gotten access to. Having some loose ties to 
 the Berlin hackers community, to the free software people in Europe but also to pragmatic open source developers what 

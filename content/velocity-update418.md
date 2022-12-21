@@ -7,7 +7,7 @@ tags: [Scrum,Berlin Buzzwords,]
 # Velocity update
 
 
-<img src="http://isabel-drost.de/Bilder/wordpress/velocity_2.png" style="float: left" width="200"> After Berlin 
+<img src="/velocity_2.png" style="float: left" width="200"> After Berlin 
 Buzzwords is over now, I thought it might be time to update a formerly published velocity graph. If you have been 
 following this blog during the past few months you may know already, that we are using <a 
 href="http://blog.isabel-drost.de/index.php/archives/12/scrum-home">Scrum @ Home</a> for several months already. I even 

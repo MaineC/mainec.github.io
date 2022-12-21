@@ -18,8 +18,8 @@ known to arrive no earlier than Saturday. Fortunately for us we have a few frien
 very kind to let us have his guest couch for the following night.<br><br>Checkin time next morning: On the right hand 
 side the regular registration booth. On the left hand side the entrance for VIPs only. The FSFE quickly realized it's 
 opportunity: They soon started distributing flyers and stickers among the waiting exhibitors and 
-speakers.<br><br><center><br><img src="http://www.isabel-drost.de/Bilder/wordpress/_small_Foto0067.jpg"><br><img 
-src="http://www.isabel-drost.de/Bilder/wordpress/_small_Foto0068.jpg"><br></center><br><br>Set aside the organizational 
+speakers.<br><br><center><br><img src="/_small_Foto0067.jpg"><br><img 
+src="/_small_Foto0068.jpg"><br></center><br><br>Set aside the organizational 
 issues, most of the talks were very interesting and well presented. The Java track featured two talks by Apache Tomcat 
 committer Peter Roßbach, the first one on the new Servlet 3.0 API, the second one on Tomcat 7. Too sad, my talk was in 
 parallel to his Tomcat talk, so I couldn't attend that. I appreciate several of the ideas on cloud computing 
