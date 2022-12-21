@@ -10,7 +10,7 @@ tags: [Hadoop,]
 This evening I joined the group over at <a href="http://www.immobilienscout24.de/">Immobilienscout 24</a> for today's 
 Hadoop Get Together. David Obermann had invited Dr. Falk-Florian Henrich from CeleraOne to talk about their real-time 
 analytics on live data streams.<br><br><center><img 
-src="http://isabel-drost.de/Bilder/wordpress/hgt_june_2013_2.jpg"/></center><br><br>Their system is being used by <del> 
+src="/hgt_june_2013_2.jpg"/></center><br><br>Their system is being used by <del> 
 the <a href="http://global.nytimes.com/">New York Times</a></del> Springer's Die Welt for traffic analysis. The goal is 
 to identify recurring users that might be willing to pay for the content they want to read. The trade-off here is to 
 keep readers interested long enough to make them pay in the end, instead of scaring them away with a restrictive pay 
@@ -20,8 +20,8 @@ connecting to the controlling web frontend. The live traffic analysis is all don
 up in MongoDB.<br><br>The second speaker was <a href="http://mhausenblas.info/">Michael Hausenblas</a> from <a 
 href="http://www.mapr.com/">MapR</a>. He spends most of his time contributing to Apache Drill - an open source 
 implementation of Google's Dremel.<br><br><table><tr><td><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/hgt_june_2013.jpg"/><br></td><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/hgt_june_2013_1.JPG"/><br></td></tr></table><br><br>Being an Apache 
+src="/hgt_june_2013.jpg"/><br></td><td><img 
+src="/hgt_june_2013_1.JPG"/><br></td></tr></table><br><br>Being an Apache 
 project Drill is developed in an open, meritocratic way - contributors come from various different backgrounds. 
 Currently Drill is in its early stages of development: They have a logical plan, a reference interpreter, a basic SQL 
 parser. There is a demo application. As data backends they support HBase.<br><br>For most of the implementation they 

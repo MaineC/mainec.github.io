@@ -20,25 +20,25 @@ in all it's amazing to fly across an ocean, cross multiple time zones and arrive
 home.<br><br>Following a brief overview of what our final schedule turned out to be - happy to share pictures we took 
 privately. After getting our car on Sunday, we went over to Berkeley to see their impressive campus - and got to see 
 part of the Berkeley occupy movement.<br clear="all"/><br><br><h2>Day one was reserved for sports</h2><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day2.jpeg" height="100" 
+src="/sfo_2011_day2.jpeg" height="100" 
 style="float:right;margin-left:20px;margin-top:10px"/><br><br>After biking the bridge we went down to Sausalito. Got 
 some delicious food at <a href="http://www.331fish.com/">fish</a> - a restaurant serving all sorts of healthy and tasty 
 fish dishes. After that we went out on a canoe from <a href="http://seatrek.com/">Sea Trek Kayaking</a>, taking a 
 closer look at the house boat community and a brief tour over to the Sausalito ferry port. When back at the shore we 
 cycled to Sausalito and took the ferry to SFO.<br clear="all"/><br><br><h2>Day 2 was booked for Highway #1 to Santa 
-Cruz</h2><br><br><img src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day3.jpeg" height="100" 
+Cruz</h2><br><br><img src="/sfo_2011_day3.jpeg" height="100" 
 style="float:left;margin-right:20px;margin-top:10px"/><br><br>We headed down scenic Highway#1, past the cliffs at Half 
 Moon Bay. Went out for a hike in Butano park to hug some Redwood trees and take pictures of a fairy-tale like forest. 
 Then headed over to Pigeon Point Lighthouse - even if you are not into staying at hostels you should stop there: this 
 place is great for a nice view of the ocean and the lighthouse itself. Finally we went down to beautiful Santa Cruz.<br 
 clear="all"/><br><br><h2>Day 3 Muir woods</h2><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day4.jpeg" height="100" 
+src="/sfo_2011_day4.jpeg" height="100" 
 style="float:right;margin-left:20px;margin-top:10px"/><br><br>Not much to be said here: It's always impressive to walk 
 underneath huge Redwood trees and go hiking in the mountains around to get a better view.<br 
 clear="all"/><br><br><h2>Weekend for Yosemite</h2><br><br><center><img 
-src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day5.jpeg" height="100" 
+src="/sfo_2011_day5.jpeg" height="100" 
 margin-right:20px;margin-top:10px"/></center><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day6.jpeg" height="200" 
+src="/sfo_2011_day6.jpeg" height="200" 
 style="float:right;margin-left:20px;margin-top:10px"/><br><br>Took the route via Highway 140 - the drive itself was 
 interesting already as it took us to quite a different country side than what we had seen until then. Got through 
 Mariposa in the end over to Midpines. We stayed at <a href="http://www.yosemitebug.com/">friendly Bug Rustic 
@@ -48,35 +48,35 @@ lines to be shouted at the screen for those who do not know these already.<br><b
 Yosemite park. Only then I realized how close different landscapes can be: It took us only half a day by car to go from 
 coast and ocean over to high mountains. We chose to hike to the upper Yosemite fall - returning after 7m of rather 
 steep trails on a sunny but fortunately quite clear day we were absolutely tired.<br clear="all"/><br><br><h2>Day 7 
-Halloween</h2><br><br><img src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day8.jpeg" height="100" 
+Halloween</h2><br><br><img src="/sfo_2011_day8.jpeg" height="100" 
 style="float:left;margin-right:20px;margin-top:10px"/><br><br>We spent Halloween morning over in St. Helena and went to 
 the <a href="http://www.franciscoppolawinery.com/">Francis Ford Coppola Winery</a>. Hard to believe, but several tasty 
 types of Californian wine do exist - at least that's what Thilo confirmed when in St. Helena.<br><br>Evening was booked 
 for dressing up and going to the Castro, though presumably more calm than in past years the area is still a must-go for 
 Halloween if you are into watching people walking around in impressing costumes.<br clear="all"/><br><br><h2>Day 8 for 
-Alcatras</h2><br><br><img src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day9.jpeg" height="100" 
+Alcatras</h2><br><br><img src="/sfo_2011_day9.jpeg" height="100" 
 style="float:right;margin-left:20px;margin-top:10px"/><br><br>Not much to be added here - don't miss if you visit 
 SFO.<br clear="all"/><br><br><h2>Day 9 for China town</h2><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day10.jpeg" height="100" 
+src="/sfo_2011_day10.jpeg" height="100" 
 style="float:left;margin-right:20px;margin-top:10px"/><br><br>After several busy days we only went to China town that 
 day and tried to recover for the rest of the afternoon - and went out for Dia de los Muertos in the evening.<br 
 clear="all"/><br><br><h2>Day 10 for watching whales</h2><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day11.jpeg" height="100" 
+src="/sfo_2011_day11.jpeg" height="100" 
 style="float:right;margin-left:20px;margin-top:10px"/><br><br>Happy I took sea-sickness pre-cautions on that one. It 
 was a bit of a rough ride with the catamaran. But in the end we got to see whales close to Farallon Islands. The 
 naturalist did a great job explaining not only the life of the whales but also provided some background on the 
 islands.<br clear="all"/><br><br><h2>Day 11 for Point Reyes and North Beach</h2><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day12b.jpeg" height="100" 
+src="/sfo_2011_day12b.jpeg" height="100" 
 style="float:left;margin-right:20px;margin-top:10px"/><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day12a.jpeg" height="100" 
+src="/sfo_2011_day12a.jpeg" height="100" 
 style="float:right;margin-left:20px;margin-top:0px"/><br><br>In the morning we followed the recommendation to get to 
 see North Beach - if you like Friedrichshain/ Kreuzberg in Berlin or Dresden Neustadt - do not miss North Beach in San 
 Francisco.<br><br>The afternoon was reserved for driving over to Point Reyes Lighthouse. Though we did not spot any 
 whales in the water, the landscape already was amazing by itself.<br clear="all"/><br><br><br><h2>Day 12 - final walk 
-through SFO</h2><br><br><center><img src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_day13.jpeg" height="100" 
+through SFO</h2><br><br><center><img src="/sfo_2011_day13.jpeg" height="100" 
 style="margin-left:20px;margin-top:10px"/></center><br><br>We took some time to walk along Hayes street, through the 
 Golden Gate park up to Cliff House and went back with a Muni bus to the city - just too long to walk right back.<br 
-clear="all"/><br><br><center><img src="http://isabel-drost.de/Bilder/wordpress/sfo_2011_total.jpeg" height="150" 
+clear="all"/><br><br><center><img src="/sfo_2011_total.jpeg" height="150" 
 style="margin-right:20px;margin-top:10px"/></center><br><br>Thanks again to Stefan, St.Ack, Jon, JD, Ted, Ellen, Doug, 
 Anne, Johan, Doris, Jens, Lance, Felix, Markus and everyone else who helped make this trip as awesome as it really was. 
 Sorry to everyone who I did not manage to meet or get in touch - hopefully we can fix that next time I'm here - or next 

@@ -19,7 +19,7 @@ for an Apache banner. Lucid Imagination sponsored several Lucene T-Shirts to be 
 very last minute information (abstract, links to projects and mailing lists and current users) was put together on 
 flyers.<br><br>We arrived on Saturday, late evening. Together with a friend of mine we went for some indian food at a 
 really good restaurant close to the hotel. Big thanks to her, for being our tourist guide - hope to see you back in 
-Waldheim in December ;)<br><br><img src="http://isabel-drost.de/Bilder/wordpress/yacy.jpg" 
+Waldheim in December ;)<br><br><img src="/yacy.jpg" 
 style="float:right;"><br><br>Sunday was pretty quiet - only few guests arrived at the weekend. I was invited by David 
 Zuelke to give a brief introduction to Mahout during his MapReduce Hadoop tutorial workshop. Thanks, David. Though 
 lunch was served already, people did stay to hear my presentation on large scale machine learning with Mahout. I got 

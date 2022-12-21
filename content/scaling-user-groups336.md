@@ -36,7 +36,7 @@ Nils), and Nokia (Thanks Matt). Late last year I did the first European NoSQL me
 attendees, lots of potential for more, the newthinking store obviously a bit too small for that :)<br><br>If you are 
 wondering what NoSQL and Hadoop meetups looked like last time:<br><center><br><table><tr><td><img 
 src="http://farm3.static.flickr.com/2777/4037000912_87c7f46880.jpg" height="100"/></td><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/hadoop_march_2.JPG" height="100"/></td><td><img 
+src="/hadoop_march_2.JPG" height="100"/></td><td><img 
 src="http://farm3.static.flickr.com/2726/4037000390_19de04533f.jpg" 
 height="100"></td></tr></table><br></center><br>During that meetup the idea was born for a larger NoSQL conference in 
 Berlin in 2010. First ideas were tossed around together with Jan and Simon Willnauer during Apache Con US in Oakland. 

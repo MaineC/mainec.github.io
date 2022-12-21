@@ -24,8 +24,8 @@ retrospective that serves the purpose of improving the scrum team's processes.<b
 The sorted product backlog of all user stories, the sprint backlog and the burndown chart showing the team's 
 progress.<br><br>However Scrum is just a framework - it tells you more on the goals, but less on exactly how to reach 
 them. It should serve as a basis to adapt one's processes to the project's needs.<br><br><table><tr><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/scrum_08_10_1.jpg"/></td><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/scrum_08_10_2.jpg"/></td></tr></table><br><br>In the usual meetup planning 
+src="/scrum_08_10_1.jpg"/></td><td><img 
+src="/scrum_08_10_2.jpg"/></td></tr></table><br><br>In the usual meetup planning 
 phase we collected potential topics for discussions and ranked them by voting on them in the end. The topics proposed 
 were:<br><ul><br><li>Applications of Scrum for non-software-development projects.<br><li>How to convince teams of 
 Scrum?<br><li>Awareness of the definition of done.<br><li>How to integrate testers in a team, extended by discussing 

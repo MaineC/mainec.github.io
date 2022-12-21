@@ -43,7 +43,7 @@ Sprint Planning (READY) - 5 <br><li>Product Owner has release burndown with rele
 <br><li>Product Owner can measure ROI based on real revenue, cost per story point, or other metrics - 10 
 <br></ul><br></code><br><br>We only have one product backlog though it is very informal. So that would make 2 
 points.<br><br><center><br><img 
-src="http://www.isabel-drost.de/Bilder/wordpress/moto_0145.jpg"><br></center><br><br><code><br>Question 6 - Estimates 
+src="/moto_0145.jpg"><br></center><br><br><code><br>Question 6 - Estimates 
 <br><ul><br><li>Product Backlog not estimated - 0 <br><li>Estimates not produced by team - 1 <br><li>Estimates not 
 produced by planning poker - 5 <br><li>Estimates produced by planning poker by team - 8 <br><li>Estimate error < 10% - 
 10 <br></ul><br></code><br><br>Naturally those doing the tasks are those producing the estimates. Thanks to Agile42 in 
@@ -58,7 +58,7 @@ points if team knows velocity <br><li>Add two point if Product Owner release pla
 as soon as they are done - there is no arguing about the laundry being done before it is cleaned, dried, ironed and 
 back to the closet. ;) So that would make for 5 points. In addition we know our velocity, which would make another 3 
 points:<br><br><center><br><img 
-src="http://www.isabel-drost.de/Bilder/wordpress/velocity.png"><br></center><br><br>Naturally we are pretty capable of 
+src="/velocity.png"><br></center><br><br>Naturally we are pretty capable of 
 telling what can reasonably be expected to be done within the coming sprints. That might add another 2 points for the 
 release being based on that velocity.<br><br><code><br>Question 8 - Team Disruption <br><ul><br><li>Manager or Project 
 Leader disrupts team - 0 <br><li>Product Owner disrupts team - 1 <br><li>Managers, Project Leaders or Team leaders 

@@ -7,7 +7,7 @@ tags: [agile,Scrum,lean,scrumtisch,]
 # Design Thinking @ Scrumtisch Berlin
 
 
-<img src="http://isabel-drost.de/Bilder/wordpress/mary2011.JPG" style="float:left;margin-right:20px"/>This evening <a 
+<img src="/mary2011.JPG" style="float:left;margin-right:20px"/>This evening <a 
 href="http://www.poppendieck.com/">Mary Poppendieck</a> gave a presentation on Design Thinking in Berlin. "What does 
 the US Military have in common with Apple?" In her talk Mary went into more detail about how increasing complexity 
 calls for a need to rethink design. <a href="http://dl.dropbox.com/u/727065/DesignThinking4Berlin.pdf">Slides are 
@@ -24,7 +24,7 @@ being able to judge whether an alternative is a viable way of solving a given pr
 possible alternative solutions.<br><li>Implementing the design: This step must involve getting users and developers of 
 the resulting system work closely together.<br></ul><br><br>To come up with a truly successful design these three steps 
 most likely need to be iterated as what we learn in later steps has to influence earlier steps.<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/graph_mary_2012.JPG" style="float:right" width="300"/> When it comes to 
+src="/graph_mary_2012.JPG" style="float:right" width="300"/> When it comes to 
 design, at traditional corporations there are various job titles for people involved with design. The graph 
 distinguishes teams developing products vs. supporting internal processes. It makes a difference between software and 
 hardware development. In addition there is a difference between people deciding on what to design (denoted in red) and 
@@ -40,7 +40,7 @@ Understanding the problem</h3><br><br>The presentation went into more detail on 
 the first step in design - that is understanding the problem. The first way was coined as the military approach. In the 
 <a href="http://www.fas.org/irp/doddir/army/fm5-0.pdf">The operations process</a> a chapter on design was added to cope 
 with complex situations that do not match the expected configuration.<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/mil_mary_2011.JPG" style="float:right" width=300/><br><br>In such 
+src="/mil_mary_2011.JPG" style="float:right" width=300/><br><br>In such 
 situations a combination of collaboration, dialog, critical thinking and creative thinking seems more important than 
 blindly following command. According to the US military's procedures design again is an iterative three step process: 
 From framing the problem, to experimenting and building prototypical solutions, to making sense of the situation and 
@@ -97,7 +97,7 @@ the most intelligent nor the strongest will survive. It's the one that is fastes
 successful. One commonly used analogy for that is the so-called OODA cycle coming from John Boyd: The tighter your 
 cycle of observing, orienting, deciding and acting is, the likelier you are to be successful among your 
 competitors.<br><br>Speaking of release cycles Mary gave a very nice graph of various release cycle 
-lengths.<br><br><center><img src="http://isabel-drost.de/Bilder/wordpress/slide2_mary_2011.JPG"/></center><br><br>In 
+lengths.<br><br><center><img src="/slide2_mary_2011.JPG"/></center><br><br>In 
 her experience teams that have deployment cycles of six months and above are likely to spend one third of their time 
 hardening their software. If you are down to a quarter it's likely that the bottleneck is your business model. Maybe it 
 is weird contracts or business partners expecting support for the exact version you shipped years ago. When you are 
@@ -105,7 +105,7 @@ down to a month per release you likely are running a software as a service model
 from the audience for Mary this does include setups where customers basically buy a software including all future 
 updates for a set period of time - including an automated roll-out. If you are down to daily or even just weekly 
 releases you are likely running the product yourself. Mose likely then everyone is part of the team.<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/mary-question.JPG" style="float:left;margin-right:20px" width="150"/>After 
+src="/mary-question.JPG" style="float:left;margin-right:20px" width="150"/>After 
 her talk Mary answered various questions from the audience: According to her experience Scrum defines the team way too 
 narrow by focusing on development only - with Scrum we are possibly getting perfect at doing the wrong thing very well 
 - forgetting all about design and business.<br><br>One very general advise that leads to an interesting conclusion is 

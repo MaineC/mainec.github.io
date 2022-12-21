@@ -10,9 +10,9 @@ tags: [puzzles,Freetime,Berlin Buzzwords,schedule,]
 Like most software developers I like tasks that involve solving more or less complex problems analytically. Most 
 developers I know love puzzles - either those that involve dis-entangling metal rings, or those involving putting 
 wooden pieces back into order, or even solving Rubik's cube:<br><br><center><br><table><tr><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/wuerfel1.jpg" width="150" alt="wuerfel" /><br></td><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/wuerfel2.jpg" alt="wuerfel"  width="150"/><br></td><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/wuerfel3.jpg" alt="wuerfel"  
+src="/wuerfel1.jpg" width="150" alt="wuerfel" /><br></td><td><img 
+src="/wuerfel2.jpg" alt="wuerfel"  width="150"/><br></td><td><img 
+src="/wuerfel3.jpg" alt="wuerfel"  
 width="150"/><br></td></tr></table><br></center><br>Working on the schedule for Berlin Buzzwords, I noticed that coming 
 up with a good schedule actually has a lot more in common with solving puzzles that one is usually aware of: First of 
 all talks on similar or related topics should not take place at the same time. Presentations should be grouped 

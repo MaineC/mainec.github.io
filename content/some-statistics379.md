@@ -20,7 +20,7 @@ then two members at least has mailing list archives and some sort of commit log 
 people also have bugtrackers that one can use as a source for information.<br><br>If we take the ASF as an example, 
 there is a nice application to create various statistics from svn logs:<br><center><a 
 href="http://svnsearch.org/svnsearch/repos/ASF/search?view=plot&kind=day&kind=week&plotsort=commits"><img 
-src="http://isabel-drost.de/Bilder/wordpress/commits.jpeg" width="400"/></a></center><br><br>The caveats of this 
+src="/commits.jpeg" width="400"/></a></center><br><br>The caveats of this 
 analysis are pretty obvious: Commit times are set according to the local of the server, however that may be far off 
 compared to the actual timezone the developer lives in. Even when knowing each developer's timezone there is still some 
 in-accuracy in the estimations as people might cross timezone bounderies when going off for vacation. Still the data 
@@ -34,23 +34,23 @@ other.<br><br>Yet another caveat are mailinglists that are not archived in the m
 choosen as the basis for comparison. In addition people may contribute from their employer's machines but not use the 
 corporate mail address (me personally I am one of these outliers, using the apache.org address for anything at some ASF 
 project).<br><br><table><tr><td><br><a href="http://101tec.com">101tec</a><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/101tec.jpeg" width="150"/></td><td><br><a 
-href="http://jteam.nl">JTeam</a><br><br><img src="http://isabel-drost.de/Bilder/wordpress/jteam.jpeg" 
+src="/101tec.jpeg" width="150"/></td><td><br><a 
+href="http://jteam.nl">JTeam</a><br><br><img src="/jteam.jpeg" 
 width="150"/></td><td><br><a href="http://tarent.de">Tarent</a><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/tarent.jpeg" width="150"/><br></td></tr><tr><td><br><a 
-href="http://kippdata.de">Kippdata</a><br><br><img src="http://isabel-drost.de/Bilder/wordpress/kippdata.jpeg" 
+src="/tarent.jpeg" width="150"/><br></td></tr><tr><td><br><a 
+href="http://kippdata.de">Kippdata</a><br><br><img src="/kippdata.jpeg" 
 width="150"/></td><td><br><a href="http://lucidimagination.com">Lucid Imagination</a><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/lucid.jpeg" width="150"/></td><td><br><a 
-href="http://day.com">Day</a><br><br><img src="http://isabel-drost.de/Bilder/wordpress/day.jpeg" 
+src="/lucid.jpeg" width="150"/></td><td><br><a 
+href="http://day.com">Day</a><br><br><img src="/day.jpeg" 
 width="150"/></td><td><br></td></tr><tr><td><br><a href="http://hp.com">HP</a><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/hp.jpeg" width="150"/></td><td><br><a 
-href="http://ibm.com">IBM</a><br><br><img src="http://isabel-drost.de/Bilder/wordpress/ibm.jpeg" 
+src="/hp.jpeg" width="150"/></td><td><br><a 
+href="http://ibm.com">IBM</a><br><br><img src="/ibm.jpeg" 
 width="150"/></td><td><br><a href="http://yahoo.com">Yahoo!</a><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/yahoo.jpeg" width="150"/><br></td></tr><tr><td><br><a 
-href="http://nokia.com">Nokia</a><br><br><img src="http://isabel-drost.de/Bilder/wordpress/nokia.jpeg" 
+src="/yahoo.jpeg" width="150"/><br></td></tr><tr><td><br><a 
+href="http://nokia.com">Nokia</a><br><br><img src="/nokia.jpeg" 
 width="150"/></td><td><br><a href="http://oracle.com">Oracle</a><br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/oracle.jpeg" width="150"/></td><td><br><a 
-href="http://sun.com">Sun</a><br><br><img src="http://isabel-drost.de/Bilder/wordpress/sun.jpeg" 
+src="/oracle.jpeg" width="150"/></td><td><br><a 
+href="http://sun.com">Sun</a><br><br><img src="/sun.jpeg" 
 width="150"/><br></td></tr></table><br><br>Easily visible even from that trivial 5min analysis however is general 
 trending of involvement in free software projects. In addition those projects are displayed prominently projects that 
 employees are working with and contributing to most actively - it comes as no surprise that for Yahoo! that is Hadoop. 

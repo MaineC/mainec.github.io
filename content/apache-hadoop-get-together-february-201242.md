@@ -12,7 +12,7 @@ href="http://www.axelspringer.de/">Axel Springer</a> who kindly also paid for th
 also to the <a href="http://www.unbelievable-machine.com/">unbelievable Machine company</a> for the tasty buffet after 
 the meetup. Another thanks to Open Source Press for donating three of their <a 
 href="https://www.opensourcepress.de/index.php?26&tt_products=343">Hadoop books</a>.<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/hgt_andre_feb_2012.jpg" 
+src="/hgt_andre_feb_2012.jpg" 
 style="float:left;padding-right:10pt"/><br><br>Today's selection was quite diverse: The event started with a 
 presentation by <a href="http://twitter.com/#!/markusandrezak">Markus Andrezak</a> who gave an overview of Kanban and 
 how it helped him change the development workflow over at <a href="http://www.mobile.de/">eBay/mobile</a>. Being well 
@@ -31,7 +31,7 @@ or two things at a time. Only catch: Most companies are focused on keeping devel
 is to reach 100% utilization. This however is in no way correlated to actual efficiency: By having 100% utilization 
 there is not way you can deal with problems along the way, there is no buffer. Instead the idea should be to 
 concentrate on a constant flow of released and live features instead.<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/hgt_all_feb2012.jpg" style="float:right"/><br><br>Now what is the link of 
+src="/hgt_all_feb2012.jpg" style="float:right"/><br><br>Now what is the link of 
 all that to Hadoop? (Hint: No, this is no pun on the project's slow release cycle.) The process of Kanban allows for 
 frequent releases, it allows for frequent feedback. This enables a model of development that starts out from a model of 
 your business case (no matter how coarse that may be), start building some code, measure your performance with that 

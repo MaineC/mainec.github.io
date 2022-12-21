@@ -9,5 +9,5 @@ tags: [travelling teddy,teddy,]
 
 Taken earlier this year in <a href="http://de.wikipedia.org/wiki/Mei%C3%9Fen">Meißen</a> the picture shows a detail of 
 the beautiful cathedral:<br><br><center><img 
-src="http://isabel-drost.de/Bilder/wordpress/meissen_sep_2012.jpg"></center><br><br>Teddy after a busy 
-day:<br><br><center><img src="http://isabel-drost.de/Bilder/wordpress/meissen_teddy_sep_2012.jpg"></center>
+src="/meissen_sep_2012.jpg"></center><br><br>Teddy after a busy 
+day:<br><br><center><img src="/meissen_teddy_sep_2012.jpg"></center>

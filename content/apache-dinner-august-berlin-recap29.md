@@ -14,8 +14,8 @@ us. With <a href="http://www.hackdiary.com/">Matt</a> and Josh some of our local
 group. We had <a href="http://markmail.org/thread/tinkdnm4d36mnfnu">Sebastian Schelter</a> from Mahout. In addition 
 there were the usual suspects, that is <a href="http://jan.prima.de/">Jan Lehnardt</a>, Simon Willnauer and <a 
 href="http://vafer.org/blog/">Torsten Curdt</a>.<br><br><center><table><tr><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/apachedinner_1.jpg" height="150"/></td><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/apachedinner_2.jpg" 
+src="/apachedinner_1.jpg" height="150"/></td><td><img 
+src="/apachedinner_2.jpg" 
 height="150"/></td></tr></table></center><br><br>Indian food at Yogi Haus was great and very tasty - though we should 
 introduce a sharing algorithm for the various dishes next time around. Speaking of next time: If you would like to be 
 part of the dinner, subscribe to our <a href="http://lists.isabel-drost.de/mailman/listinfo/apachedinner">Apache Dinner 

@@ -11,7 +11,7 @@ Yesterday Thilo invited me to attend an "Electronics 101" workshop including an 
 scheduled to start at 7p.m. this evening at the offices of <a href="http://www.in-berlin.de/news.html">IN-Berlin 
 e.V.</a>. As part of my studies back in university I do have a little bit of background in Electronics, but never 
 before had tried any serious soldering (apart from fixing one of our audio cables) so I thought, why not.<br><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/guckes_4_2012.JPG" width="100" style="float:right"/><br><br>The workshop 
+src="/guckes_4_2012.JPG" width="100" style="float:right"/><br><br>The workshop 
 turned out to be a lot of fun: The organisers <a href="http://en.wikipedia.org/wiki/Mitch_Altman">Mitch Altman</a> and 
 <a href="http://jimmieprodgers.com/">Jimmie Rodgers</a> had brought several <a 
 href="http://www.makershed.com/product_p/mkad1.htm">pre-packaged kits</a> for people to work on. Quite a few of them 
@@ -28,9 +28,9 @@ href="http://www.evilmadscientist.com/article.php/diavolino">Diavolino</a>. Stil
 for getting the device hooked up to our laptops and be able to re-program it (though most likely that will be easier to 
 find than a >1G Ohm resistor Thilo is looking for to be able to calibrate <a 
 href="https://plus.google.com/102813492714620417611/posts/JtQ1jATsfAu">his Geiger counter</a>).<br><br>Results of my 
-first session are below:<br><br><table><tr><td><img src="http://isabel-drost.de/Bilder/wordpress/guckes_3_2012.JPG" 
-width="200"/></td><td><img src="http://isabel-drost.de/Bilder/wordpress/guckes_2_2012.JPG" width="200"/></td><td><img 
-src="http://isabel-drost.de/Bilder/wordpress/guckes_1_2012.JPG" width="200"/></td></tr><br><tr><td>The 
+first session are below:<br><br><table><tr><td><img src="/guckes_3_2012.JPG" 
+width="200"/></td><td><img src="/guckes_2_2012.JPG" width="200"/></td><td><img 
+src="/guckes_1_2012.JPG" width="200"/></td></tr><br><tr><td>The 
 board</td><td>First pins attached</td><td>Last pins attached</td></tr></table><br><br>Also thanks to <a 
 href="http://www.guckes.net/">Sven Guckes</a> organising and <a 
 href="http://www.guckes.net/2012-01-03.workshop/">announcing</a> this workshop on short notice. And thanks to Thilo for 

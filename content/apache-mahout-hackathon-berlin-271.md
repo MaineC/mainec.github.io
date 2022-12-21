@@ -31,7 +31,7 @@ users to contribute to the project is the process of creating, submitting, apply
 deeply involved with free software projects dealing with patches, integration of issue tracker and svn with the project 
 mailing lists all seems very obvious. However even this seemingly basic setup sometimes looks confusing and complex to 
 regular users - that is very common but not limited to people who are just starting to work as software 
-developers.<br><br><center><img src="http://www.isabel-drost.de/Bilder/wordpress/hackathon_small_group.jpg"/></center> 
+developers.<br><br><center><img src="/hackathon_small_group.jpg"/></center> 
 <span style="font-size: 5pt">Thanks to Thilo Fromm for taking the group picture.</span><br><br>In the evening people 
 finally started hacking more sophisticated tasks - working on the first project patches. On Sunday only the really hard 
 core developers remained - leading to a rather focussed work on Mahout improvements which in the end led to first 

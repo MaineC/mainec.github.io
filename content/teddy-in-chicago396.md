@@ -9,7 +9,7 @@ tags: [teddy,chicago,General,]
 
 Last week I spent several days in Chicago mainly to attend a few meetings at the local Nokia/Navteq office. Though the 
 schedule was pretty packed, a few hours remained to explore the then frosty and windy city:<br><br><center><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/chicago_2012.jpeg"/><br><small>Top three images: Some impressions of the 
+src="/chicago_2012.jpeg"/><br><small>Top three images: Some impressions of the 
 city. Bottom left: Teddy's new friend. Bottom right: Situation at ORD when flying out - fortunately both, the airport 
 as well as the airline (Swiss) have quite some experience with challenging weather conditions so that we could leave 
 without too much delay. </small><br></center><br><br>As usual I wondered whether there are any Apache people close by. 

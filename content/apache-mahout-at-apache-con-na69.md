@@ -14,6 +14,6 @@ presentations from users on special use cases and on their way of getting the sy
  <a href="http://na.apachecon.com/c/acna2010/schedule/2010/11/04">Mahout, Lucene and friends</a> starts on Thursday 
 afternoon, followed by another series of <a href="http://na.apachecon.com/c/acna2010/schedule/2010/11/05">Lucene 
 presentations</a> on Friday.<br><br><center><a href="http://na.apachecon.com/"><img 
-src="http://isabel-drost.de/Bilder/wordpress/468x60speaker.gif" /></a></center><br><br>Also don't miss the track on the 
+src="/468x60speaker.gif" /></a></center><br><br>Also don't miss the track on the 
 community and business tracks for a glimpse behind the scenes. Of course there will also be tracks on well-known Apache 
 Tomcat, httpd, OSGi and many, many more.<br><br>Looking forward to meeting you in Atlanta!

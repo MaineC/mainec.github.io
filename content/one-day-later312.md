@@ -7,4 +7,4 @@ tags: [Hacking,arduino,]
 # One day later
 
 
-<center><br/><br><img src="http://isabel-drost.de/Bilder/wordpress/guckes_5_2012.jpg"/><br></center>
+<center><br/><br><img src="/guckes_5_2012.jpg"/><br></center>

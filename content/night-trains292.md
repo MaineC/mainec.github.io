@@ -11,7 +11,7 @@ It was several years ago that a frequent traveller told me about it being more c
 mid-sized distances (e.g. from Berlin to Amsterdam) by train - night train that is - instead of flying. Back then 
 without decent knowledge of which combination of booking early and discount card make prizes of trips by train somewhat 
 comparable to those offered by airlines that wasn't really an option for me.<br><br><center><img 
-src="http://isabel-drost.de/Bilder/wordpress/teddy_ams_11.JPG" height="150" style="float:right"/></center><br><br>It 
+src="/teddy_ams_11.JPG" height="150" style="float:right"/></center><br><br>It 
 took me years and a conference in Vienna to re-visit to his proposal: Trying to find ways to reduce the amount of times 
 I fly I looked for alternatives. Going by car clearly is not an option as it's more time consuming and on such long 
 distances also more stressful. Going by regular train seemed like a waste of time as well. So I re-checked the offers 

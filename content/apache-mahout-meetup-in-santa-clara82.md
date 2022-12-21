@@ -9,8 +9,8 @@ tags: [Mahout,MapR,Bay Area,]
 
 A few hours ago the Mahout Meetup at <a href="http://www.maprtechnologies.com/">MapR Technologies</a> in San Jose/CA 
 ended. Two photos taken at the event leaked - happy to be able to publish them here.<br><br><table><tr><td><a 
-href="http://isabel-drost.de/Bilder/wordpress/mahout_sfo_2.jpg"><img 
-src="http://isabel-drost.de/Bilder/wordpress/mahout_sfo_2.jpg" width="300"/></a></td><td><a 
-href="http://isabel-drost.de/Bilder/wordpress/mahout_sfo_1.JPG"><img 
-src="http://isabel-drost.de/Bilder/wordpress/mahout_sfo_1.JPG" height="225"/></a></td><br></tr></table><br><br>More 
+href="/mahout_sfo_2.jpg"><img 
+src="/mahout_sfo_2.jpg" width="300"/></a></td><td><a 
+href="/mahout_sfo_1.JPG"><img 
+src="/mahout_sfo_1.JPG" height="225"/></a></td><br></tr></table><br><br>More 
 information on the discussions and more technical details to follow. Stay tuned.

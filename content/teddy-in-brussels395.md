@@ -8,5 +8,5 @@ tags: [Freetime,]
 
 
 <p>Not much time here, except for a brief view of the atomium from our bed&amp;breakfast place in Brussels and a few 
-very beautiful churches:</p><p align="center"><img src="http://isabel-drost.de/Bilder/wordpress/brussel_2011_1.png" 
+very beautiful churches:</p><p align="center"><img src="/brussel_2011_1.png" 
 width="300" /></p>

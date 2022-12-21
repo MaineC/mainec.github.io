@@ -13,7 +13,7 @@ a huge success: Days before all tickets were sold out, there were six sessions p
 related to Apache Software Foundation projects - httpd, tomcat, lucene, open office, hadoop, apache commons, james, 
 felix, cloud stack and tons of other projects were well covered. In addition the conference featured a separate track 
 on how the Apache community works.<br><br><center><br><img 
-src="http://isabel-drost.de/Bilder/wordpress/apache_2013_2.jpg"/><br></center><br><br>The venue (the Hoffenheim soccer 
+src="/apache_2013_2.jpg"/><br></center><br><br>The venue (the Hoffenheim soccer 
 team home stadium) worked out amazingly well: The conference had four levels rented with talks hosted in the press 
 room, a lounge and two talks on each of the first and second floor in an open space setup. That way entering a talk 
 late or leaving early was way less of a hazzle than when having to get out the door - sneaking into interesting talks 

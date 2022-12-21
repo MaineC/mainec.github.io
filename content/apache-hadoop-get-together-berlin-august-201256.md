@@ -12,7 +12,7 @@ href="http://www.immobilienscout24.de">ImmobilienScout24</a> for the August 2012
 href="http://www.xing.com/net/informationretrieval">Apache Hadoop Get Together</a> (Thanks again for hosting the event 
 and sponsoring drinks and pizza to ImmoScout as well as to <a 
 href="http://www.linkedin.com/profile/view?id=9861942">David Obermann</a> for organising the 
-meetup.<br><br><center><img src="http://isabel-drost.de/Bilder/wordpress/hgt_2012.jpg"/></center><br><br>Today there 
+meetup.<br><br><center><img src="/hgt_2012.jpg"/></center><br><br>Today there 
 were three talks: In the first presentation <a href="http://www.linkedin.com/in/draganmilosevic">Dragan Milosevic</a> 
 (also known from his <a href="http://vimeo.com/10201534">talk at the Hadoop GetTogether</a> and his <a 
 href="http://vimeo.com/43808511">presentation at Berlin Buzzwords</a>) provided more insight as to how Zanox is 
