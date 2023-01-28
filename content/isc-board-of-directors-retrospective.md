@@ -100,6 +100,3 @@ You will have to provide community oversight for our working groups - making sur
 <blockquote>Tell us about a moment from your time on the ISC board that is most precious to you.</blockquote>
 
 Seeing InnerSource make its way into organisations has been awesome to watch. Being on the inside it sometimes feels like things have always been the way they are just now. Looking back several years though the progress does become very obvious: That includes feedback how our work on InnerSource is very important coming from ASF members who have been part of the Open Source movement for longer than I am working as a software engineer :)
-
-
-
