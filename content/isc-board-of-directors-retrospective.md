@@ -21,13 +21,13 @@ For context:
 
 One thing that was important to the founding members of the foundation was to allow people to remain part of the community, even when their resources to be involved ebb and flow over time. It was also important to us to build rotation into the system of setting up the board - making it easy for people to step down and take a break - returning back when they have collected new and fresh energy.
 
-<blockquote>How did being on the ISC board differ from being on the board of The ASF?</blockquote>
+<blockquote>How did being on the ISC board differ from being on the board of the ASF?</blockquote>
 
-The first time I became director at The ASF that foundation was already well established. It was large and influential. It had gained industry influence to a level that really only became clear to me when I got the birds eye view of a director. It also had well established processes - though dated, several pillars I knew from my project work did continue to hold.
+The first time I became director at the ASF that foundation was already well established. It was large and influential. It had gained industry influence to a level that really only became clear to me when I got the birds eye view of a director. It also had well established processes - though dated, several pillars I knew from my project work did continue to hold.
 
-At the ISC we decided early on that The ASF should be our role model - except where from history we knew that we would need to deviate to avoid certain challenges. We started with people that had ASF experience, with people that had listened to those stories for a very long time already, with people that had extensive open source experience. But we also added people who had been involved with open source only tangentially and really only touched base with those concepts through InnerSource.
+At the ISC we decided early on that the ASF should be our role model - except where from history we knew that we would need to deviate to avoid certain challenges. We started with people that had ASF experience, with people that had listened to those stories for a very long time already, with people that had extensive open source experience. But we also added people who had been involved with open source only tangentially and really only touched base with those concepts through InnerSource.
 
-That mixture meant that we had a good template to draw best practices from. But we also needed to get down to the reasoning behind processes at The ASF to explain how and why they work. Often that needed quite some historic knowledge and an understanding of why other alternatives that were being proposed would not work out.
+That mixture meant that we had a good template to draw best practices from. But we also needed to get down to the reasoning behind processes at the ASF to explain how and why they work. Often that needed quite some historic knowledge and an understanding of why other alternatives that were being proposed would not work out.
 
 Being so small meant that there was more space for experimentation. Discussions on changes were much less contentious. Being a small group of people also meant that it was easier than in the large group of the ASF membership to come to agreement and move forward.
 
@@ -51,7 +51,7 @@ I have been told that people appreciate my OSS experience as well as my knowledg
 
 During the past year in addition to being director I also took on the role of president. While it's a tiny bit of work - I do look forward to not needing to write a monthly board report :) I'm glad everyone did enjoy reading the ones I did write. It certainly was a new experience for me to write those - in particular given my limited experience with corporate English.
 
-Overall though time invest was really a lot less than at a foundation the size of The ASF.
+Overall though time invest was really a lot less than at a foundation the size of the ASF.
 
 In early years the tasks that did eat up time were related to setting up process (think meeting cadence, preparation, agenda handling, reporting cadence etc. but also think membership voting), setting up infrastructure and access (think GitHub access). 
 
