@@ -19,6 +19,8 @@ Looking at how [trust and safety teams used to work](https://www.wired.com/story
 
 Malicious influences though do not happen in an isolated way. Much [like in security](https://youtu.be/7MnZsNW0uwY?si=3M-hk685483lgiz_) - knowing that attacks happen in a coordinated way where players essentially have a laundry list of platforms to target, we need to shift to collaboration in order to gain speed by sharing learnings, both about the nature of attacks but also about working counter measures.
 
+So what does it take, to spread [behavioural changes through social networks](https://press.princeton.edu/books/hardcover/9780691175317/how-behavior-spreads)? Actually quite easily, so in different ways then you would see with deseases spreading in the same networks. You can [play around with such dynamics easily online](https://ncase.me/crowds/).
+
 Naturally I would love to see this collaboration happen rather sooner than later - unless it's already taking place, in which case: Awesome! (Even if I'd love to hear a talk about that at Berlin Buzzwords analogous to the one on security at FOSS Backstage ;) 
 
 One final parting note: A lot of the engineers working in ranking and recommendation may not have witnessed the early days of search engine spam so, maybe it's time to share a few fireside stories as well.
