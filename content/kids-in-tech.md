@@ -52,7 +52,7 @@ True, neither did I need Amiga Basic in my job, nor Turbo Pascal. I didn't even 
 
 I'd much rather see a generation who understands at least the basics of the devices they use on a day to day basis. And maybe, just maybe, they'll also be more motivated for math, if they know that all recommendations seen in any online social media site at the end of the day is nothing more than a few matrix multiplications ;)
 
-And at the end of the day, even those [new and shiny Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) are nothing but a bit of fancy statistics :)
+And at the end of the day, even those [new and shiny Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) are nothing but a bit of algebra and statistics :)
 
 "But I have no background in technology myself" I hear you say. Guess what? A lot of these offerings are very easy to grasp for little people with a hacker's mindset who love exploring and tinkering. The best way to help is to avoid stopping their creativity. For cherries on top show them what you yourself do on a day to day basis. Show them your own workplace and let them understand all of the things that exist beyond what they learn in school - or phrased another way how what they learn in school relates to the world that exists beyond.
 
