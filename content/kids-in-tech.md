@@ -1,3 +1,16 @@
+---
+title: "An update to the 'Children tinkering' after >10years"
+date: 2024-04-14T19:37:00+02:00
+tags: [tinkering,tech,kids]
+---
+
+
+# Children tinkering, part 2
+
+Roughly a decade ago I wrote [a short post about children tinkering](https://mainec.github.io/children-tinkering/). A lot of the advice from back then is still valid today. I just noticed that ten years later there are a few more things one could look into:
+
+Instead of only being a subtrack of FrOSCon, Froglabs have turned into [Teckids e.V.](https://teckids.org/) - including online fora, a yearly week for an off-site and several side tracks of Chemnitzer Linuxtage, FrOSCon and FOSS events in Graz.
+
 In terms of conferences with sub-tracks, in addition to CCC events and FrOSCon, there's now Chemnitzer Linuxtage with several kids tracks and a soldering workshop room. There's also a kids track as an aside to FOSDEM.
 
 There is a lovely, actively maintained list of resources over in the [FSFE Wikipage](https://wiki.fsfe.org/action/edit/Activities/ProgrammingForChildren).
@@ -9,7 +22,7 @@ Did I mention that I love their book [Ada und Zangemann](https://fsfe.org/activi
 
 Speaking of books:
 
-I regularly bump into nerds and geeks at a loss of motivating their kids - both, boys and girls, to loook into science.
+I regularly bump into nerds and geeks at a loss of motivating their kids - both, boys and girls, to loook into science. 
 
 As a result I have a collection of books I tend to recommend for people looking for stories about role models:
 
@@ -40,6 +53,3 @@ True, neither did I need Amiga Basic in my job, nor Turbo Pascal. I didn't even 
 I'd much rather see a generation who understands at least the basics of the devices they use on a day to day basis. And maybe, just maybe, they'll also be more motivated for math, if they know that all recommendations seen in any online social media site at the end of the day is nothing more than a few matrix multiplications ;)
 
 And at the end of the day, even those [new and shiny Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) are nothing but a bit of fancy statistics :)
-"kids-in-tech.md" 55L, 5138B                                                                                                                                                              55,165        Bot
-
-And if anyone tells you that tech is nothing for girls and women? Listen to the very good advise that a wise young lady gave in her lightning talk at FOSS Backstage 2024 that she gave together with me: "I tell you to look towards Ada Lovelace. I tell you to look towards Grace Hopper. Look towards all the other cool girls in tech - and then think again!"
