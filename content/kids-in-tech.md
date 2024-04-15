@@ -37,7 +37,7 @@ Also for people speaking Germans there's a lovely [#kids #digital #genial](https
 
 Speaking of other resources beyond coding:
 
-For German speakers there are things like [Frag Finn](https://www.fragfinn.de/) and [Klexikon)(https://klexikon.zum.de/wiki/Klexikon:Willkommen_im_Klexikon) to guide younger humans towards content that is easy to understand.
+For German speakers there are things like [Frag Finn](https://www.fragfinn.de/) and [Klexikon](https://klexikon.zum.de/wiki/Klexikon:Willkommen_im_Klexikon) to guide younger humans towards content that is easy to understand.
 
 In terms of projects:
 
