@@ -53,3 +53,7 @@ True, neither did I need Amiga Basic in my job, nor Turbo Pascal. I didn't even 
 I'd much rather see a generation who understands at least the basics of the devices they use on a day to day basis. And maybe, just maybe, they'll also be more motivated for math, if they know that all recommendations seen in any online social media site at the end of the day is nothing more than a few matrix multiplications ;)
 
 And at the end of the day, even those [new and shiny Large Language Models](https://www.youtube.com/watch?v=zjkBMFhNj_g) are nothing but a bit of fancy statistics :)
+
+"But I have no background in technology myself" I hear you say. Guess what? A lot of these offerings are very easy to grasp for little people with a hacker's mindset who love exploring and tinkering. The best way to help is to avoid stopping their creativity. For cherries on top show them what you yourself do on a day to day basis. Show them your own workplace and let them understand all of the things that exist beyond what they learn in school - or phrased another way how what they learn in school relates to the world that exists beyond.
+
+So what if someone asks you whether tech would even be interesting for girls? I'll quote a lovely lady who gave a lightning talk together with me during FOSS Backstage 2024 on how to draw kids - and in particular girls - into technology in general and into open source in particular: "I would answer to look at Ada Lovelace. To look towards Grace Hopper. To look towards all the cool girls in technology. And then I'd tell them to think again."
