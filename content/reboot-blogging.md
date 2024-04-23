@@ -1,6 +1,6 @@
 ---
 title: "Reboot blogging"
-date: 2024-04-23T19:37:00+02:00
+date: 2024-04-23T17:17:00+02:00
 tags: [blog,wordpress,hugo,nikola,meetup]
 ---
 
