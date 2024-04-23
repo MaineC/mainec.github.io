@@ -1,0 +1,16 @@
+---
+title: "Reboot blogging"
+date: 2024-04-23T19:37:00+02:00
+tags: [blog,wordpress,hugo,nikola,meetup]
+---
+
+
+# Reboot blogging?
+
+March 2009 - according to the history of the posts that's when I started writing entries for my own blog. Twitter was three years old and of little more use than sharing where people were at the moment, which food they were eating.YouTube was just four years old. It was also the year I started the Apache Hadoop Get Together Berlin, back then in the famous Newthinking Store - a meetup before meetups were called meetups in a co-working space long before the concept of a coworking space gained traction. All I needed the blog for was as a place to easily publish the meetup schedule, share summaries of those events, slides and later recordings of the meetup. Back then the blog was hosted in a Wordpress installation - with trackbacks/pingbacks enabled and occasionally coming in. With comments enabled - and no need to moderate them. People learnt about new blog posts simply by subscribing to the blog's RSS feed.
+
+A few years later comments started generating more noise than value, so I turned them off. Those who had left comments, knew me in person - so those messages would still reach me, just not in public.
+
+One advantage of writing a blog not to maximise readership or reach but simply to stay in touch with friends and family: This blog never was under anything I would call monitoring and alerting in any way. If it went down, typically someone I knew would get in touch by e-mail telling me: "Hey, your blog is down." - as a side effect telling me that there are still people reading my stuff. At around 2013 those messages got too annoying: For whatever reason everytime a search engine crawler went over my little blog, the database in the backend got overloaded. Adjusting caching in Apache httpd did help quite a bit, but didn't remove the issues entirely. So instead, because anything dynamic had been turned off already anyway, I moved to generating static pages with nikola instead. That made the page a lot more stable - and needed way less resources. There I was finally understanding why for a very long time projects at the ASF were very much encouraged to use static pages (potentially generated from content sources checked into version control) instead of all those new-fangled dynamic CMS stuff :)
+
+Fast forward another ten years: Social media is no longer the little innocent experiment it once was. Most popular RSS feed readers have been starving or are dead. However there are still things I would like to write about - and in a location that I can easily backup, easily move. Time to breath a little life back into this little blog. With a little help from [t-lo](https://github.com/t-lo) moved to a combination of GitHub pages and Hugo. With a little help from [Raphael](https://www.raphaelbauer.com/) got a CSS issue with dark mode fixed - so apparently the "hey, your blog is down" kind of alerting still works - even ten years later. Maybe there is hope for a future where the distributed nature of the web survives the trend of centralization, how for [rewilding the internet](https://www.noemamag.com/we-need-to-rewild-the-internet/).
