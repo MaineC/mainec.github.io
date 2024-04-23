@@ -16,22 +16,18 @@ enableGitInfo = true
 
 [menu]
  [[menu.before]]
+  name = "RSS feed"
+  url = "/index.xml"
+  weight = 8
+ [[menu.before]]
   name = "Github"
   url = "https://github.com/mainec"
   weight = 9
-[[menu.before]]
+ [[menu.before]]
   name = "About"
   url = "/about"
   weight = 10
   post = '<div style="height: 20pt;"></div>'
-
-
-# needed for rss feed
-[outputs]
-  home = ['html', 'rss']
-  section = ['html', 'rss']
-  taxonomy = ['html']
-  term = ['html']
 
 
 [params]
