@@ -1,6 +1,6 @@
 ---
 title: "How hard can it be: Open Source contributions"
-date: 2024-05-25T12:13:12+01:00
+date: 2024-04-25T12:13:12+01:00
 tags: [open source, InnerSource, contributions, learning]
 ---
 
