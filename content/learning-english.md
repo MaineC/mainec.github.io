@@ -35,7 +35,6 @@ Stiftung Lesen above covers a ton of book recommendations also for children of d
 * [Ada und Zangemann](https://dpunkt.de/produkt/ada-und-zangemann/) … a personal favorite on open source and ice cream. I’m not biased at all ;)
 * [Kindermann Verlag](https://www.kindermannverlag.de/produkt-kategorie/weltliteratur-fuer-kinder-ab-6-jahren/) has lovely kids versions of famous literature.
 * [Annette Betz](https://www.ueberreuter.de/produkt-kategorie/musikalisches-bilderbuch/) has a lovely collection of books to make classical music accessible to kids.
-
 * [Cornelia Funke](https://corneliafunke.com/de/) … has books for all ages and is a must read.
 * [Otfried Preußler](https://de.wikipedia.org/wiki/Otfried_Preu%C3%9Fler)
 * [Erich Kästner](https://de.wikipedia.org/wiki/Erich_K%C3%A4stner)
