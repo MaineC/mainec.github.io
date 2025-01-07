@@ -14,6 +14,10 @@ So here’s a writeup of things I’ve sent to too many friends already:
 
 One warning at the very beginning: You must tell people that you want to learn German – find people who are patient enough to stay in German even if you are proficient in English. Otherwise a lot of people will quickly switch back to English which doesn’t help you.
 
+One encouragement at the beginning: Don't be afraid to make mistakes. The only way to learn the language is to practice speaking and talking with people. It will feel strange, you may feel less competent, but the only way to get better is to push through that and get better. Try it not only with close friends but also in everyday situations - especially in calmer situations. And don't worry if the people you interact with seem somewhat unfriendly, less chatty than expected - chances are very high that's not because of you but average north-German mentality.
+
+If you're looking to combine your language learning with doing good: You might want to consider leaving tourist hotspot or expat heavy areas - a general rule of thumb is to leave the S-Bahn ring, watch out for oportunities to help people go for a walk with their dog, help elderly people stay in touch with the younger generation and combine playing cards/ board games with learning German. Chances are high you'll find people with a combination of great German language skills, low English language skills and lots of time and patience.
+
 ## Online resources to get you started
 
 * [Goethe Institut](https://www.goethe.de/de/index.html) operates globally, also has online resources for people learning German.
