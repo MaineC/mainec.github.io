@@ -18,6 +18,14 @@ One encouragement at the beginning: Don't be afraid to make mistakes. The only w
 
 If you're looking to combine your language learning with doing good: You might want to consider leaving tourist hotspot or expat heavy areas - a general rule of thumb is to leave the S-Bahn ring, watch out for oportunities to help people go for a walk with their dog, help elderly people stay in touch with the younger generation and combine playing cards/ board games with learning German. Chances are high you'll find people with a combination of great German language skills, low English language skills and lots of time and patience.
 
+## Some additions to this article from social media
+
+I published this blog post on social media (read: Mastodon, Bluesky and LinkedIn) - back came several additions to the proposals already in the post:
+
+* In case your employer does not cover language courses, the ones offered by public [Volkshochschulen](https://www.berlin.de/vhs/) are really good and affordable - as a result though, you need to be quick as they fill up relatively fast.
+* As an addition to the recommendation around moving out of your Kiez: In addition to helping elderly people, you can also see if there's a hobby you can follow and join an existing group - think pottery, knitting, playing games - anything that encourages chatting.
+* For online video content a friend recommended the [Easy German](https://www.youtube.com/@EasyGerman) YouTube channel.
+
 ## Online resources to get you started
 
 * [Goethe Institut](https://www.goethe.de/de/index.html) operates globally, also has online resources for people learning German.
