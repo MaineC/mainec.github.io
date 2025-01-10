@@ -1,6 +1,6 @@
 ---
 title: "Visiting the Bundesatg"
-date: 2025-01-10T17:38:28+02:00
+date: 2025-01-10T15:38:28+02:00
 tags: [Bundestag, Ada und Zangemann, FSFE, German, Berlin]
 ---
 
@@ -70,6 +70,7 @@ In the second round representatives of elected parties can ask questions. Order 
 
 The third round is a repeat of the second one. Experts are expected to be available to answer questions not only from the party that invited them but provide their expertise to the entire room. 
 
+The coordination that is not visible on the recording: In many cases, answers to the questions are the result of the input of more than the expert invited. It is not unlikely that experts know each other - if they do, it is likely that the communicate before the hearing - and go to dinner afterwards, even if they disagree on details. The points and references made do not necessarily reflect the personal opinion of the speaker, but may mirror the way topics are discussed in groups deemed relevant by the speaker.
 
 ## Learnings
 
