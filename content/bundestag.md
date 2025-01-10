@@ -68,7 +68,7 @@ In a first round, all experts are asked to give a five minute statement. In our 
 
 In the second round representatives of elected parties can ask questions. Order is determined by size of elected members of that party in parliament. Each one has a five minute slot for question-answer interactions. Typically those questions first go to the expert they invited (if they did invite one), then to others. The answers to the questionaire submitted before are one basis for formulating questions. Another one is knowledge about the area of expertice and experience of each of the experts.
 
-The third round is a repeat of the second one. Experts are expected to be available to answer questions not only from the party that invited them but provide their expertise to the entire room. 
+The third round is a repeat of the second one. Experts in my case were expected to be available to answer questions not only from the party that invited them but provide their expertise to the entire room. 
 
 The coordination that is not visible on the recording: In many cases, answers to the questions are the result of the input of more than the expert invited. It is not unlikely that experts know each other - if they do, it is likely that the communicate before the hearing - and go to dinner afterwards, even if they disagree on details. The points and references made do not necessarily reflect the personal opinion of the speaker, but may mirror the way topics are discussed in groups deemed relevant by the speaker.
 
