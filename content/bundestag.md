@@ -83,3 +83,7 @@ The coordination that is not visible on the recording: In many cases, answers to
 Political leaders also have a day that has only 24 hours. We can mock them not getting what we do on a daily basis – but that won’t change anything. If we expect different outcomes, we need to participate – not only at the level of the Bundestag but also at local levels. It took me ages to write an e-mail to local admin with a question I had – I got instant feedback, and a friendly smile for the warm thank you for the speedy response.
 
 And, if you speak German: Checkout the Bundestag resources – even if just as an educational exercise – or as a test how good your command of the German language really is :)
+
+## Parting thoughts
+
+A couple days after the meeting I got feedback that explaining instead of expecting people to know even an Open Source foundation as old, large and impactful as Apache was a positive surprise. I've been a part of that foundation for long enough to know that no matter how large you think you are, there will always be people who didn't hear about it before - or hear about it in a much smaller context than it's active in. If you bump into people who still divvy people up into tech and non-tech I would like to urge you to [watch the recording of a talk that Leslie Hawthorn](https://youtu.be/QZxcg1NiN2A?si=rHtxwhB48gEakhwP) gave many, many years ago - but that I personally still find highly valuable.
