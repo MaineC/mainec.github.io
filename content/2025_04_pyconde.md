@@ -1,6 +1,6 @@
 ---
 title: "PyCon/ PyData DE - Invited to give a keynote"
-date: 2025-05-24T19:29:28+02:00
+date: 2025-04-24T19:29:28+02:00
 tags: [Python,Buzzwords,PyCon,PyData,Darmstadt]
 ---
 
