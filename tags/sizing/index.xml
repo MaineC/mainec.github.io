@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>sizing on Inductive Bias</title><link>https://blog.isabel-drost.de/tags/sizing/</link><description>Recent content in sizing on Inductive Bias</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 14 May 2013 20:25:25 +0200</lastBuildDate><atom:link href="https://blog.isabel-drost.de/tags/sizing/index.xml" rel="self" type="application/rss+xml"/><item><title>ApacheConNA: Hadoop metrics</title><link>https://blog.isabel-drost.de/apacheconna-hadoop-metrics99/</link><pubDate>Tue, 14 May 2013 20:25:25 +0200</pubDate><guid>https://blog.isabel-drost.de/apacheconna-hadoop-metrics99/</guid><description>ApacheConNA: Hadoop metrics # Have you ever measured the general behaviour of your Hadoop jobs? Have you
+sized your cluster accordingly? Do you know whether your work load really is IO
+bound or CPU bound? Legend has it noone expecpt Allen Wittenauer over at
+Linked.In, formerly Y! ever did this analysis for his clusters.
+Steve Watt gave a pitch for actually going out into your datacenter measuring
+what is going on there and adjusting the deployment accordingly: In small</description></item></channel></rss>

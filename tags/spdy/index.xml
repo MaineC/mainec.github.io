@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>spdy on Inductive Bias</title><link>https://blog.isabel-drost.de/tags/spdy/</link><description>Recent content in spdy on Inductive Bias</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Wed, 15 May 2013 20:26:39 +0200</lastBuildDate><atom:link href="https://blog.isabel-drost.de/tags/spdy/index.xml" rel="self" type="application/rss+xml"/><item><title>ApacheConNA: Misc</title><link>https://blog.isabel-drost.de/apacheconna-misc101/</link><pubDate>Wed, 15 May 2013 20:26:39 +0200</pubDate><guid>https://blog.isabel-drost.de/apacheconna-misc101/</guid><description>ApacheConNA: Misc # In his talk on Spdy Mathew Steele explained how he implemented the spdy protocol
+as an Apache httpd module - working around most of the safety measures and
+design decisions in the current httpd version. Essentially to get httpd to
+support the protocol all you need now is mod_spdy plus a modified version of
+mod_ssl.
+The keynote on the last day was given by the Puppet founder.</description></item></channel></rss>

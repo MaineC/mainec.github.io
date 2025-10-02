@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>vim on Inductive Bias</title><link>https://blog.isabel-drost.de/tags/vim/</link><description>Recent content in vim on Inductive Bias</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Tue, 17 Jul 2012 20:07:55 +0200</lastBuildDate><atom:link href="https://blog.isabel-drost.de/tags/vim/index.xml" rel="self" type="application/rss+xml"/><item><title>Note to self: Clojure with Vim and Maven</title><link>https://blog.isabel-drost.de/note-to-self-clojure-with-vim-and-maven298/</link><pubDate>Tue, 17 Jul 2012 20:07:55 +0200</pubDate><guid>https://blog.isabel-drost.de/note-to-self-clojure-with-vim-and-maven298/</guid><description>Note to self: Clojure with Vim and Maven # Steps to get a somewhat working Clojure environment with vim:
+Install the current vimclojure plugin.
+Get and install a nailgun client.
+Add vimclojure to your clojure project pom.xml.
+Start the nailgun server from within your maven project with mvn clojure:nailgun with the maven clojure plugin.
+Finally start vim, open your favourite clojure file - you can open a REPL with \sr, when in a function definition you can evaluate that with \et - see also tamining vim clojure</description></item></channel></rss>
