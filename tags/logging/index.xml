@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>logging on Inductive Bias</title><link>https://blog.isabel-drost.de/tags/logging/</link><description>Recent content in logging on Inductive Bias</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Thu, 23 May 2013 20:38:57 +0200</lastBuildDate><atom:link href="https://blog.isabel-drost.de/tags/logging/index.xml" rel="self" type="application/rss+xml"/><item><title>JAX: Tales from production</title><link>https://blog.isabel-drost.de/jax-tales-from-production246/</link><pubDate>Thu, 23 May 2013 20:38:57 +0200</pubDate><guid>https://blog.isabel-drost.de/jax-tales-from-production246/</guid><description>JAX: Tales from production # In a second presentation Peter RoÃbach together with Andreas Schmidt provided
+some more detail on what the topic logging entails in real world projects.
+Development messages turn into valuable information needed to uncover issues
+and downtime of systems, capacity planning, measuring the effect of software
+changes, analysing resource usage under real world usage. In addition to these
+technical use cases there is a need to provide business metrics.</description></item><item><title>JAX: Logging best practices</title><link>https://blog.isabel-drost.de/jax-logging-best-practices243/</link><pubDate>Wed, 22 May 2013 20:37:59 +0200</pubDate><guid>https://blog.isabel-drost.de/jax-logging-best-practices243/</guid><description>JAX: Logging best practices # The ideal outcome of Peter RoÃbach&amp;rsquo;s talk on logging best practices was to have
+attendees leave the room thinking ``we know all this already and are applying
+it successfully&amp;rsquo;&amp;rsquo; - most likely though the majority left thinking about how to
+implement even the most basic advise discussed.
+From his consultancy and fire fighter background he has a good overview of what
+logging in the average corporate environment looks like: No logging plan, no</description></item></channel></rss>
