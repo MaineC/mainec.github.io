@@ -1,6 +1,6 @@
 ---
 title: "What makes ASF projects successful"
-date: 2026-09-03T11:29:28+02:00
+date: 2026-09-03T08:29:28+02:00
 tags: [ASF, OSS, public sector]
 ---
 
