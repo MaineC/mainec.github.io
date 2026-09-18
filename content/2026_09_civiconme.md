@@ -6,6 +6,18 @@ tags: [open source, public sector]
 
 I was invited as a keynote speaker for [CIVI/CON](https://civitasconnect.digital/civicon/) in Wuppertal. The conference connects players in local municipalities and municipal companies to discuss digital challenges related to security, open source and AI.
 
+
+<table>
+  <tr>
+    <td>
+      <img src="https://civitasconnect.digital/wp-content/uploads/2026/09/MM8_1274_MICHAEL_C_MOELLER-scaled.jpg"/>
+    </td>
+    <td>
+      <img src="https://civitasconnect.digital/wp-content/uploads/2026/09/248MM8_1019_MICHAEL_C_MOELLER-scaled.jpg"/>
+    </td>
+  </tr>
+</table>
+
 Coming from an ASF open source background that is largely driven by the private sector, the challenges were surprisingly similar - but also different in many important details. Coming from an FSFE background with a love for the children's book "Ada und Zangemann" and as a supporter of the "public money, public code" campaign, many of the talks felt a bit too good to be true: There are people out there outside of the classic free and open source software bubble that support the arguments that have driven the digital ecosystem for more than two decades - carrying them over to the public sector.
 
 The entire review including slides and recordings will be [available online soon](https://www.civitasconnect.digital/civi-con-2026-rueckblick/). Some of the highlights from my point of view:
