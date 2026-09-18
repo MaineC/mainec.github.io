@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>security on Inductive Bias</title><link>https://blog.isabel-drost.de/tags/security/</link><description>Recent content in security on Inductive Bias</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sun, 12 May 2013 20:22:19 +0200</lastBuildDate><atom:link href="https://blog.isabel-drost.de/tags/security/index.xml" rel="self" type="application/rss+xml"/><item><title>ApacheConNA: On Security</title><link>https://blog.isabel-drost.de/apacheconna-on-security105/</link><pubDate>Sun, 12 May 2013 20:22:19 +0200</pubDate><guid>https://blog.isabel-drost.de/apacheconna-on-security105/</guid><description>ApacheConNA: On Security # During the security talk at Apache Con a topic commonly glossed over by
+developers was covered in quite some detail: With software being developed that
+is being deployed rather widely online (over 50% of all websites are powered
+by the Apache webserver) natually security issues are of large concern.
+Currently there are eight trustworthy people on the foundation-wide security
+response team, subscribed to security@apache.org. The team was started by</description></item></channel></rss>

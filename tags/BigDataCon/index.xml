@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>BigDataCon on Inductive Bias</title><link>https://blog.isabel-drost.de/tags/BigDataCon/</link><description>Recent content in BigDataCon on Inductive Bias</description><generator>Hugo -- gohugo.io</generator><lastBuildDate>Sat, 18 May 2013 20:29:57 +0200</lastBuildDate><atom:link href="https://blog.isabel-drost.de/tags/BigDataCon/index.xml" rel="self" type="application/rss+xml"/><item><title>JAX: Hadoop overview by Bernd Fondermann</title><link>https://blog.isabel-drost.de/jax-hadoop-overview-by-bernd-fondermann240/</link><pubDate>Sat, 18 May 2013 20:29:57 +0200</pubDate><guid>https://blog.isabel-drost.de/jax-hadoop-overview-by-bernd-fondermann240/</guid><description>JAX: Hadoop overview by Bernd Fondermann # After breakfast was over the first day started with a talk by Bernd on the
+Hadoop ecosystem. He did a good job selecting the most important and
+interesting projects related to storing data in HDFS and processing it with Map
+Reduce. After the usual "what is Hadoop", "what does the general architecture
+look like", "what will change with YARN" Bernd gave a nice overview of which</description></item><item><title>BigDataCon</title><link>https://blog.isabel-drost.de/bigdatacon125/</link><pubDate>Fri, 17 May 2013 20:29:03 +0200</pubDate><guid>https://blog.isabel-drost.de/bigdatacon125/</guid><description>BigDataCon # Together with Uwe Schindler I had published a series of articles on Apache
+Lucene at Software and Support Media's Java Mag several years ago. Earlier this
+year S&amp;amp;S kindly invited my to their BigDataCon - co-located with JAX to give a
+talk of my choosing that at least touches upon Lucene.
+Thinking back and forth about what topic to cover what came to my mind was to</description></item></channel></rss>
