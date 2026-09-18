@@ -4,7 +4,7 @@ date: 2026-09-18T09:29:28+02:00
 tags: [open source, public sector]
 ---
 
-I was invited as a keynote speaker for CIVI/CON in Wuppertal. The conference connects players in local municipalities and municipal companies to discuss digital challenges related to security, open source and AI.
+I was invited as a keynote speaker for [CIVI/CON](https://civitasconnect.digital/civicon/) in Wuppertal. The conference connects players in local municipalities and municipal companies to discuss digital challenges related to security, open source and AI.
 
 Coming from an ASF open source background that is largely driven by the private sector, the challenges were surprisingly similar - but also different in many important details. Coming from an FSFE background with a love for the children's book "Ada und Zangemann" and as a supporter of the "public money, public code" campaign, many of the talks felt a bit too good to be true: There are people out there outside of the classic free and open source software bubble that support the arguments that have driven the digital ecosystem for more than two decades - carrying them over to the public sector.
 
@@ -19,4 +19,4 @@ People active as engineers in open source projects sometimes shy away from anyth
 
 As such I suppose open source projects operate under slightly different conditions than your wildly successful, global, hyperscaler backed project. However at the end of the day, differences aren't that huge: Sustainability is still a core requirement - how do we build projects that outlive their creators? With that goes onboarding, handover - and keeping expertise within the project. With that also goes selecting vendors not only by lowest price but taking expertise into consideration as well: Open source with its open development processes provides some pretty obvious clues for that - giving employees time to invest in the open source project in question, that should be a strong indicator that you did invest in building expertise in house.
 
-Thank you for the invitation to Civitas Connect e.V. for the invitation. Thank you to the audience who helped turn my keynote on the three pillars of open source into an interactive presentation by providing your input to the challenges posed!
+Thank you for the invitation to [Civitas Connect e.V.](https://civitasconnect.digital/) for the invitation. Thank you to the audience who helped turn my keynote on the three pillars of open source into an interactive presentation by providing your input to the challenges posed!
